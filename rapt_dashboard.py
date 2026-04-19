@@ -17,6 +17,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body { font-family: 'Inter', system_ui, sans-serif; }
+        .card { transition: all 0.3s ease; }
     </style>
 </head>
 <body class="bg-zinc-950 text-white min-h-screen p-6">
@@ -24,22 +25,22 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         <h1 class="text-4xl font-semibold mb-2">RAPT Pill Dashboard</h1>
         <p class="text-zinc-400 mb-6">Live Fermentation Monitor • OG: 1.052</p>
 
-        <div id="status" class="mb-8 p-5 rounded-3xl bg-zinc-900 text-lg font-medium">Loading...</div>
+        <div id="status" class="mb-8 p-5 rounded-3xl bg-zinc-900 text-lg font-medium">Waiting for data...</div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-            <div class="bg-zinc-900 rounded-3xl p-8">
+            <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">TEMPERATURE</p>
                 <p id="temp" class="text-6xl font-semibold mt-4">–.– °C</p>
             </div>
-            <div class="bg-zinc-900 rounded-3xl p-8">
+            <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">SPECIFIC GRAVITY</p>
                 <p id="gravity" class="text-6xl font-semibold mt-4">1.–––</p>
             </div>
-            <div class="bg-zinc-900 rounded-3xl p-8">
+            <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">ESTIMATED ABV</p>
                 <p id="abv" class="text-6xl font-semibold mt-4">–.– %</p>
             </div>
-            <div class="bg-zinc-900 rounded-3xl p-8">
+            <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">BATTERY</p>
                 <p id="battery" class="text-6xl font-semibold mt-4">–– %</p>
             </div>
@@ -66,28 +67,32 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
         function refreshData() {
             const status = document.getElementById('status');
-            status.innerHTML = '🔄 Loading data...';
+            status.textContent = "🔄 Loading data...";
 
             fetch('/latest')
-                .then(response => response.json())
+                .then(r => {
+                    if (!r.ok) throw new Error("Server error");
+                    return r.json();
+                })
                 .then(result => {
                     const d = result.data || {};
                     const ts = result.timestamp || 'just now';
 
+                    // Safe updates
                     document.getElementById('temp').textContent = (d.temperature || '--') + ' °C';
                     document.getElementById('gravity').textContent = parseFloat(d.gravity || 0).toFixed(3);
-                    
-                    const abv = calculateABV(ORIGINAL_GRAVITY, parseFloat(d.gravity || 0));
-                    document.getElementById('abv').textContent = abv + ' %';
 
-                    const batt = d.battery !== undefined ? d.battery : (d.batteryLevel || 0);
-                    document.getElementById('battery').textContent = Math.round(batt) + ' %';
+                    const fg = parseFloat(d.gravity || 0);
+                    document.getElementById('abv').textContent = calculateABV(ORIGINAL_GRAVITY, fg) + ' %';
+
+                    const batt = d.battery !== undefined ? d.battery : (d.batteryLevel || '--');
+                    document.getElementById('battery').textContent = (isNaN(parseFloat(batt)) ? '--' : Math.round(batt)) + ' %';
 
                     document.getElementById('raw').textContent = JSON.stringify(d, null, 2);
                     status.innerHTML = `✅ Last updated: ${ts}`;
                 })
                 .catch(err => {
-                    console.error("Fetch error:", err);
+                    console.error(err);
                     status.innerHTML = '❌ Error loading data - check raw data below';
                 });
         }
@@ -111,7 +116,7 @@ def get_latest():
 def webhook():
     global latest_data, last_received_time
     try:
-        data = request.get_json() if request.is_json else {}
+        data = request.get_json() if request.is_json else request.form.to_dict()
         last_received_time = datetime.now()
         
         print("✅ WEBHOOK RECEIVED at", last_received_time.strftime("%H:%M:%S"))
