@@ -24,7 +24,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <body class="bg-zinc-950 text-white min-h-screen p-6">
     <div class="max-w-4xl mx-auto">
         <h1 class="text-4xl font-semibold mb-2">RAPT Pill Dashboard</h1>
-        <p class="text-zinc-400 mb-6">Live Fermentation Monitor • OG: 1.052</p>
+        <p class="text-zinc-400 mb-6">Live Fermentation Monitor • OG: 1.0520</p>
 
         <div id="status" class="mb-8 p-5 rounded-3xl bg-zinc-900 text-lg font-medium">Waiting for data...</div>
 
