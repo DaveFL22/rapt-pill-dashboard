@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 latest_data = {}
 last_received_time = None
-ORIGINAL_GRAVITY = 1.052   # Your starting gravity
+ORIGINAL_GRAVITY = 1.052
 
 HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
@@ -62,7 +62,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
     <script>
         function calculateABV(og, fg) {
-            if (!og || !fg || fg >= og) return '--';
+            if (!og || !fg || isNaN(og) || isNaN(fg) || fg >= og) return '--';
             return ((og - fg) * 131.25).toFixed(1);
         }
 
@@ -73,18 +73,23 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                     const d = result.data || {};
                     const ts = result.timestamp || 'just now';
 
-                    // More robust field name handling
-                    const temp = d.temperature || d.temp || '--';
-                    const grav = d.gravity || d.sg || 0;
-                    const batt = d.battery !== undefined ? d.battery : (d.batteryLevel || 0);
+                    // Safely get values
+                    let temp = d.temperature || d.temp || '--';
+                    let grav = d.gravity || d.sg || 0;
+                    let batt = d.battery !== undefined ? d.battery : (d.batteryLevel || 0);
 
-                    document.getElementById('temp').textContent = parseFloat(temp).toFixed(2) + ' °C';
-                    document.getElementById('gravity').textContent = parseFloat(grav).toFixed(3);
+                    // Convert to numbers safely
+                    temp = parseFloat(temp);
+                    grav = parseFloat(grav);
+                    batt = parseFloat(batt);
+
+                    document.getElementById('temp').textContent = isNaN(temp) ? '--' : temp.toFixed(2) + ' °C';
+                    document.getElementById('gravity').textContent = isNaN(grav) ? '1.---' : grav.toFixed(3);
                     
-                    const abv = calculateABV(ORIGINAL_GRAVITY, parseFloat(grav));
+                    const abv = calculateABV(ORIGINAL_GRAVITY, grav);
                     document.getElementById('abv').textContent = abv + ' %';
 
-                    document.getElementById('battery').textContent = Math.round(batt) + ' %';
+                    document.getElementById('battery').textContent = isNaN(batt) ? '--' : Math.round(batt) + ' %';
 
                     document.getElementById('raw').textContent = JSON.stringify(d, null, 2);
                     document.getElementById('status').innerHTML = `✅ Last updated: ${ts}`;
