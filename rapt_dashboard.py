@@ -7,7 +7,7 @@ app = Flask(__name__)
 latest_data = {}
 last_received_time = None
 
-# Your actual Original Gravity
+# Change this only if your starting gravity was different
 ORIGINAL_GRAVITY = 1.052
 
 HTML_TEMPLATE = """<!DOCTYPE html>
@@ -31,18 +31,25 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         <div id="status" class="mb-8 p-5 rounded-3xl bg-zinc-900 text-lg font-medium"></div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <!-- Temperature -->
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">TEMPERATURE</p>
                 <p id="temp" class="text-6xl font-semibold mt-4">–.– °C</p>
             </div>
+            
+            <!-- Specific Gravity -->
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">SPECIFIC GRAVITY</p>
                 <p id="gravity" class="text-6xl font-semibold mt-4">1.–––</p>
             </div>
+            
+            <!-- Estimated ABV -->
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">ESTIMATED ABV</p>
                 <p id="abv" class="text-6xl font-semibold mt-4">–.– %</p>
             </div>
+            
+            <!-- Battery -->
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">BATTERY</p>
                 <p id="battery" class="text-6xl font-semibold mt-4">–– %</p>
@@ -50,7 +57,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         </div>
 
         <div class="mt-8">
-            <button onclick="refreshData()" class="w-full bg-white text-black hover:bg-amber-400 font-semibold py-4 rounded-3xl text-lg">
+            <button onclick="refreshData()" 
+                    class="w-full bg-white text-black hover:bg-amber-400 font-semibold py-4 rounded-3xl text-lg">
                 ↻ REFRESH NOW
             </button>
         </div>
@@ -74,6 +82,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                     const d = result.data || {};
                     const ts = result.timestamp || 'just now';
 
+                    // Update cards
                     document.getElementById('temp').textContent = (d.temperature || d.temp || '--') + ' °C';
                     document.getElementById('gravity').textContent = parseFloat(d.gravity || d.sg || 0).toFixed(3);
                     
@@ -82,8 +91,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                     document.getElementById('abv').textContent = abv + ' %';
 
                     document.getElementById('battery').textContent = Math.round(d.battery || d.batteryLevel || 0) + ' %';
-                    document.getElementById('raw').textContent = JSON.stringify(d, null, 2);
                     
+                    // Raw data for debugging
+                    document.getElementById('raw').textContent = JSON.stringify(d, null, 2);
                     document.getElementById('status').innerHTML = `✅ Last updated: ${ts}`;
                 })
                 .catch(() => {
@@ -92,7 +102,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         }
 
         window.onload = refreshData;
-        setInterval(refreshData, 30000);
+        setInterval(refreshData, 30000);   // Auto-refresh every 30 seconds
     </script>
 </body>
 </html>"""
@@ -112,13 +122,15 @@ def webhook():
     try:
         data = request.get_json() if request.is_json else request.form.to_dict()
         last_received_time = datetime.now()
+        
         print("✅ WEBHOOK RECEIVED at", last_received_time.strftime("%H:%M:%S"))
         print(json.dumps(data, indent=2))
+        
         latest_data = data
         return jsonify({"success": True}), 200
     except Exception as e:
-        print("Webhook error:", e)
-        return jsonify({"success": False}), 400
+        print("Webhook error:", str(e))
+        return jsonify({"success": False, "error": str(e)}), 400
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
