@@ -61,11 +61,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     </div>
 
     <script>
-        function calculateABV(og, fg) {
-            if (!fg || fg >= og) return '--';
-            return ((og - fg) * 131.25).toFixed(1);
-        }
-
         function refreshData() {
             const status = document.getElementById('status');
             status.innerHTML = '🔄 Loading...';
@@ -75,15 +70,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 .then(result => {
                     const d = result.data || {};
 
-                    // Update values safely
                     document.getElementById('temp').textContent = (d.temperature || d.temp || '--') + ' °C';
                     document.getElementById('gravity').textContent = parseFloat(d.gravity || d.sg || 0).toFixed(3);
-                    
-                    const fg = parseFloat(d.gravity || d.sg || 0);
-                    document.getElementById('abv').textContent = calculateABV(ORIGINAL_GRAVITY, fg) + ' %';
-
-                    const batt = d.battery !== undefined ? d.battery : (d.batteryLevel || 0);
-                    document.getElementById('battery').textContent = Math.round(batt) + ' %';
+                    document.getElementById('abv').textContent = (d.abv || '--') + ' %';
+                    document.getElementById('battery').textContent = Math.round(d.battery || d.batteryLevel || 0) + ' %';
 
                     document.getElementById('raw').textContent = JSON.stringify(d, null, 2);
                     status.innerHTML = `✅ Last updated: ${new Date().toLocaleTimeString()}`;
@@ -106,8 +96,19 @@ def dashboard():
 
 @app.route("/latest")
 def get_latest():
+    # Add ABV calculation here on the server side
+    data_to_send = latest_data.copy()
+    if data_to_send:
+        try:
+            current_sg = float(data_to_send.get('gravity') or data_to_send.get('sg') or 0)
+            if current_sg > 0:
+                abv = ((ORIGINAL_GRAVITY - current_sg) * 131.25)
+                data_to_send['abv'] = round(abv, 1)
+        except:
+            pass
+
     ts = last_received_time.strftime("%H:%M:%S • %d %b") if last_received_time else "Never"
-    return jsonify({"data": latest_data, "timestamp": ts})
+    return jsonify({"data": data_to_send, "timestamp": ts})
 
 @app.route("/webhook", methods=["POST"])
 def webhook():
