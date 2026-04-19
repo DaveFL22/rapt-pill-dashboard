@@ -7,6 +7,9 @@ app = Flask(__name__)
 latest_data = {}
 last_received_time = None
 
+# Change this if your starting gravity was different (e.g. 1.060 for strong beers)
+ORIGINAL_GRAVITY = 1.050
+
 HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,11 +26,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <body class="bg-zinc-950 text-white min-h-screen p-6">
     <div class="max-w-4xl mx-auto">
         <h1 class="text-4xl font-semibold mb-2">RAPT Pill Dashboard</h1>
-        <p class="text-zinc-400 mb-6">Live from RAPT Cloud</p>
+        <p class="text-zinc-400 mb-6">Live Fermentation Monitor</p>
 
-        <div id="status" class="mb-8 p-5 rounded-3xl bg-zinc-900 text-lg font-medium">⏳ Waiting for first webhook...</div>
+        <div id="status" class="mb-8 p-5 rounded-3xl bg-zinc-900 text-lg font-medium"></div>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">TEMPERATURE</p>
                 <p id="temp" class="text-6xl font-semibold mt-4">–.– °C</p>
@@ -35,6 +38,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">SPECIFIC GRAVITY</p>
                 <p id="gravity" class="text-6xl font-semibold mt-4">1.–––</p>
+            </div>
+            <div class="card bg-zinc-900 rounded-3xl p-8">
+                <p class="text-zinc-400 text-sm">ESTIMATED ABV</p>
+                <p id="abv" class="text-6xl font-semibold mt-4">–.– %</p>
             </div>
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">BATTERY</p>
@@ -55,21 +62,35 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     </div>
 
     <script>
+        function calculateABV(og, fg) {
+            if (!og || !fg) return '--';
+            return ((og - fg) * 131.25).toFixed(1);
+        }
+
         function refreshData() {
             fetch('/latest')
                 .then(res => res.json())
                 .then(result => {
                     const d = result.data || {};
+                    const ts = result.timestamp || 'just now';
+
                     document.getElementById('temp').textContent = (d.temperature || d.temp || '--') + ' °C';
                     document.getElementById('gravity').textContent = parseFloat(d.gravity || d.sg || 0).toFixed(3);
+                    
+                    const currentGravity = parseFloat(d.gravity || d.sg || 0);
+                    const abv = calculateABV(ORIGINAL_GRAVITY, currentGravity);
+                    document.getElementById('abv').textContent = abv + ' %';
+
                     document.getElementById('battery').textContent = Math.round(d.battery || d.batteryLevel || 0) + ' %';
                     document.getElementById('raw').textContent = JSON.stringify(d, null, 2);
-                    document.getElementById('status').innerHTML = `✅ Updated: ${result.timestamp || 'just now'}`;
+                    
+                    document.getElementById('status').innerHTML = `✅ Last updated: ${ts}`;
                 })
                 .catch(() => {
                     document.getElementById('status').innerHTML = '❌ Error loading data';
                 });
         }
+
         window.onload = refreshData;
         setInterval(refreshData, 30000);
     </script>
@@ -82,7 +103,7 @@ def dashboard():
 
 @app.route("/latest")
 def get_latest():
-    ts = last_received_time.strftime("%H:%M:%S • %d %b") if last_received_time else "Never"
+    ts = last_received_time.strftime("%H:%M:%S • %d %b %Y") if last_received_time else "Never"
     return jsonify({"data": latest_data, "timestamp": ts})
 
 @app.route("/webhook", methods=["POST"])
@@ -91,7 +112,8 @@ def webhook():
     try:
         data = request.get_json() if request.is_json else request.form.to_dict()
         last_received_time = datetime.now()
-        print("✅ WEBHOOK RECEIVED:", json.dumps(data, indent=2))
+        print("✅ WEBHOOK RECEIVED at", last_received_time.strftime("%H:%M:%S"))
+        print(json.dumps(data, indent=2))
         latest_data = data
         return jsonify({"success": True}), 200
     except Exception as e:
