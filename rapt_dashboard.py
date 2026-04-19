@@ -6,9 +6,7 @@ app = Flask(__name__)
 
 latest_data = {}
 last_received_time = None
-
-# Change this only if your starting gravity was different
-ORIGINAL_GRAVITY = 1.052
+ORIGINAL_GRAVITY = 1.052   # Your starting gravity
 
 HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
@@ -31,25 +29,18 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         <div id="status" class="mb-8 p-5 rounded-3xl bg-zinc-900 text-lg font-medium"></div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-            <!-- Temperature -->
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">TEMPERATURE</p>
                 <p id="temp" class="text-6xl font-semibold mt-4">–.– °C</p>
             </div>
-            
-            <!-- Specific Gravity -->
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">SPECIFIC GRAVITY</p>
                 <p id="gravity" class="text-6xl font-semibold mt-4">1.–––</p>
             </div>
-            
-            <!-- Estimated ABV -->
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">ESTIMATED ABV</p>
                 <p id="abv" class="text-6xl font-semibold mt-4">–.– %</p>
             </div>
-            
-            <!-- Battery -->
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">BATTERY</p>
                 <p id="battery" class="text-6xl font-semibold mt-4">–– %</p>
@@ -71,7 +62,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
     <script>
         function calculateABV(og, fg) {
-            if (!og || !fg) return '--';
+            if (!og || !fg || fg >= og) return '--';
             return ((og - fg) * 131.25).toFixed(1);
         }
 
@@ -82,27 +73,30 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                     const d = result.data || {};
                     const ts = result.timestamp || 'just now';
 
-                    // Update cards
-                    document.getElementById('temp').textContent = (d.temperature || d.temp || '--') + ' °C';
-                    document.getElementById('gravity').textContent = parseFloat(d.gravity || d.sg || 0).toFixed(3);
+                    // More robust field name handling
+                    const temp = d.temperature || d.temp || '--';
+                    const grav = d.gravity || d.sg || 0;
+                    const batt = d.battery !== undefined ? d.battery : (d.batteryLevel || 0);
+
+                    document.getElementById('temp').textContent = parseFloat(temp).toFixed(2) + ' °C';
+                    document.getElementById('gravity').textContent = parseFloat(grav).toFixed(3);
                     
-                    const currentGravity = parseFloat(d.gravity || d.sg || 0);
-                    const abv = calculateABV(ORIGINAL_GRAVITY, currentGravity);
+                    const abv = calculateABV(ORIGINAL_GRAVITY, parseFloat(grav));
                     document.getElementById('abv').textContent = abv + ' %';
 
-                    document.getElementById('battery').textContent = Math.round(d.battery || d.batteryLevel || 0) + ' %';
-                    
-                    // Raw data for debugging
+                    document.getElementById('battery').textContent = Math.round(batt) + ' %';
+
                     document.getElementById('raw').textContent = JSON.stringify(d, null, 2);
                     document.getElementById('status').innerHTML = `✅ Last updated: ${ts}`;
                 })
-                .catch(() => {
-                    document.getElementById('status').innerHTML = '❌ Error loading data';
+                .catch(err => {
+                    console.error(err);
+                    document.getElementById('status').innerHTML = '❌ Error loading data - check raw data below';
                 });
         }
 
         window.onload = refreshData;
-        setInterval(refreshData, 30000);   // Auto-refresh every 30 seconds
+        setInterval(refreshData, 30000);
     </script>
 </body>
 </html>"""
