@@ -103,7 +103,7 @@ def get_latest():
             current_sg = float(data_to_send.get('gravity') or data_to_send.get('sg') or 0)
             if current_sg > 0:
                 abv = ((ORIGINAL_GRAVITY - current_sg) * 131.25)
-                data_to_send['abv'] = round(abv, 2)
+                data_to_send['abv'] = round(abv, 3)
         except:
             pass
 
