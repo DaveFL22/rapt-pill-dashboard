@@ -7,8 +7,8 @@ app = Flask(__name__)
 latest_data = {}
 last_received_time = None
 
-# Change this if your starting gravity was different (e.g. 1.060 for strong beers)
-ORIGINAL_GRAVITY = 1.050
+# Your actual Original Gravity
+ORIGINAL_GRAVITY = 1.052
 
 HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
@@ -26,7 +26,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <body class="bg-zinc-950 text-white min-h-screen p-6">
     <div class="max-w-4xl mx-auto">
         <h1 class="text-4xl font-semibold mb-2">RAPT Pill Dashboard</h1>
-        <p class="text-zinc-400 mb-6">Live Fermentation Monitor</p>
+        <p class="text-zinc-400 mb-6">Live Fermentation Monitor • OG: 1.052</p>
 
         <div id="status" class="mb-8 p-5 rounded-3xl bg-zinc-900 text-lg font-medium"></div>
 
