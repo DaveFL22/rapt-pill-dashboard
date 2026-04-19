@@ -6,6 +6,7 @@ app = Flask(__name__)
 
 latest_data = {}
 last_received_time = None
+ORIGINAL_GRAVITY = 1.052   # Your starting gravity
 
 HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
@@ -23,11 +24,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <body class="bg-zinc-950 text-white min-h-screen p-6">
     <div class="max-w-4xl mx-auto">
         <h1 class="text-4xl font-semibold mb-2">RAPT Pill Dashboard</h1>
-        <p class="text-zinc-400 mb-6">Live Fermentation Monitor</p>
+        <p class="text-zinc-400 mb-6">Live Fermentation Monitor • OG: 1.052</p>
 
         <div id="status" class="mb-8 p-5 rounded-3xl bg-zinc-900 text-lg font-medium">Waiting for data...</div>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">TEMPERATURE</p>
                 <p id="temp" class="text-6xl font-semibold mt-4">–.– °C</p>
@@ -35,6 +36,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">SPECIFIC GRAVITY</p>
                 <p id="gravity" class="text-6xl font-semibold mt-4">1.–––</p>
+            </div>
+            <div class="card bg-zinc-900 rounded-3xl p-8">
+                <p class="text-zinc-400 text-sm">ESTIMATED ABV</p>
+                <p id="abv" class="text-6xl font-semibold mt-4">–.– %</p>
             </div>
             <div class="card bg-zinc-900 rounded-3xl p-8">
                 <p class="text-zinc-400 text-sm">BATTERY</p>
@@ -56,6 +61,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     </div>
 
     <script>
+        function calculateABV(og, fg) {
+            if (!fg || fg >= og) return '--';
+            return ((og - fg) * 131.25).toFixed(1);
+        }
+
         function refreshData() {
             const status = document.getElementById('status');
             status.innerHTML = '🔄 Loading...';
@@ -65,9 +75,15 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 .then(result => {
                     const d = result.data || {};
 
+                    // Update values safely
                     document.getElementById('temp').textContent = (d.temperature || d.temp || '--') + ' °C';
                     document.getElementById('gravity').textContent = parseFloat(d.gravity || d.sg || 0).toFixed(3);
-                    document.getElementById('battery').textContent = Math.round(d.battery || d.batteryLevel || 0) + ' %';
+                    
+                    const fg = parseFloat(d.gravity || d.sg || 0);
+                    document.getElementById('abv').textContent = calculateABV(ORIGINAL_GRAVITY, fg) + ' %';
+
+                    const batt = d.battery !== undefined ? d.battery : (d.batteryLevel || 0);
+                    document.getElementById('battery').textContent = Math.round(batt) + ' %';
 
                     document.getElementById('raw').textContent = JSON.stringify(d, null, 2);
                     status.innerHTML = `✅ Last updated: ${new Date().toLocaleTimeString()}`;
