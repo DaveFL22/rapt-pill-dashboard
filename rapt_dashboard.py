@@ -198,7 +198,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
 
 
-<!-- Block 2B -->
+# Block 2B
+
 
 
     <!-- REFRESH BUTTON -->
