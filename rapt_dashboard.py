@@ -202,7 +202,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
 
 
-    <!-- REFRESH BUTTON -->
+    # REFRESH BUTTON
+
     <div class="max-w-5xl mx-auto mt-8">
         <button onclick="refreshData()"
             class="w-full bg-white text-black hover:bg-amber-400 font-semibold py-4 rounded-3xl text-lg">
