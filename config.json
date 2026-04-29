@@ -1,7 +1,9 @@
 {
-    "profile_name": "Test 4",
-    "original_gravity": 1087.0,
-    "session_start": "2026-04-29T22:10",
+    "profile_name": "Test 5",
+    "original_gravity": 1058.0,
+    "session_start": "2026-04-29T23:26",
     "calibration_offset": 0.0,
-    "diacetyl_rest": false
+    "diacetyl_rest": true,
+    "yeast_name": "Safale s04",
+    "fermentation_temp": 18.0
 }
