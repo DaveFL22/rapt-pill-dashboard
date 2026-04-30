@@ -1,0 +1,1301 @@
+Name,Brand,Code,Type,Form,AttenuationLow,AttenuationHigh,Flocculation,TempLow,TempHigh,AlcoholTolerance,Diastaticus,Kveik,Equivalent,Notes
+Mangrove Jack’s German Strain 1,Mangrove Jack’s,MAN0001,German,Liquid,71,77,Medium,11,18,15,No,No,,German style from Mangrove Jack’s
+Mangrove Jack’s Norwegian Farmhouse Strain 2,Mangrove Jack’s,MAN0002,Norwegian Farmhouse,Dry,76,78,Medium,10,18,15,No,Yes,,Norwegian Farmhouse style from Mangrove Jack’s
+Fermentis Cider Strain 3,Fermentis,FER0003,Cider,Liquid,66,69,High,16,25,8,No,No,Mangrove Jack’s Cider Strain 650,Cider style from Fermentis
+White Labs English Strain 4,White Labs,WHI0004,English,Dry,72,79,High,18,26,10,No,No,East Coast Yeast English Strain 1128,English style from White Labs
+WHC Lager Strain 5,WHC,WHC0005,Lager,Dry,72,80,High,11,17,8,No,No,Bluestone Lager Strain 1136,Lager style from WHC
+Escarpment English Strain 6,Escarpment,ESC0006,English,Dry,74,84,Medium,16,25,10,No,No,The Yeast Bay English Strain 715,English style from Escarpment
+Mangrove Jack’s American Strain 7,Mangrove Jack’s,MAN0007,American,Dry,74,81,Medium,13,24,10,No,No,AEB American Strain 179,American style from Mangrove Jack’s
+WHC Ale Strain 8,WHC,WHC0008,Ale,Liquid,71,75,Low,11,24,10,No,No,,Ale style from WHC
+Bluestone Blend Strain 9,Bluestone,BLU0009,Blend,Liquid,73,75,High,18,26,8,No,No,,Blend style from Bluestone
+Omega Pediococcus Strain 10,Omega,OME0010,Pediococcus,Liquid,71,74,High,18,28,15,No,No,Imperial Pediococcus Strain 589,Pediococcus style from Omega
+Lallemand Cider Strain 11,Lallemand,LAL0011,Cider,Liquid,70,72,Low,20,34,10,No,No,,Cider style from Lallemand
+Wyeast Kveik Strain 12,Wyeast,WYE0012,Kveik,Dry,69,71,Medium,11,23,14,No,Yes,Imperial Kveik Strain 56,Kveik style from Wyeast
+Imperial Blend Strain 13,Imperial,IMP0013,Blend,Liquid,65,70,High,14,28,14,No,No,,Blend style from Imperial
+Angel Ale Strain 14,Angel,ANG0014,Ale,Liquid,75,83,Low,17,27,14,No,No,WHC Ale Strain 257,Ale style from Angel
+WHC Kveik Strain 15,WHC,WHC0015,Kveik,Dry,67,71,High,17,23,15,No,Yes,Bootleg Biology Kveik Strain 747,Kveik style from WHC
+East Coast Yeast German Strain 16,East Coast Yeast,EAS0016,German,Liquid,67,71,Low,14,25,12,No,No,,German style from East Coast Yeast
+Renaissance English Strain 17,Renaissance,REN0017,English,Liquid,70,77,Low,17,27,10,No,No,White Labs English Strain 1229,English style from Renaissance
+White Labs Norwegian Farmhouse Strain 18,White Labs,WHI0018,Norwegian Farmhouse,Dry,68,72,High,12,25,12,No,Yes,,Norwegian Farmhouse style from White Labs
+Fermentis Lactobacillus Strain 19,Fermentis,FER0019,Lactobacillus,Liquid,67,72,Medium,16,27,15,No,No,,Lactobacillus style from Fermentis
+East Coast Yeast Cider Strain 20,East Coast Yeast,EAS0020,Cider,Dry,78,87,Low,19,30,12,No,No,,Cider style from East Coast Yeast
+Omega Cider Strain 21,Omega,OME0021,Cider,Dry,74,84,High,16,31,8,No,No,,Cider style from Omega
+Wyeast Blend Strain 22,Wyeast,WYE0022,Blend,Liquid,74,82,Low,14,19,14,No,No,WHC Blend Strain 439,Blend style from Wyeast
+Bluestone Czech Strain 23,Bluestone,BLU0023,Czech,Dry,77,87,High,17,32,10,No,No,,Czech style from Bluestone
+East Coast Yeast Blend Strain 24,East Coast Yeast,EAS0024,Blend,Liquid,78,86,High,14,24,8,No,No,,Blend style from East Coast Yeast
+Mangrove Jack’s Lager Strain 25,Mangrove Jack’s,MAN0025,Lager,Dry,73,78,Low,12,27,14,No,No,,Lager style from Mangrove Jack’s
+Omega Saison Strain 26,Omega,OME0026,Saison,Liquid,67,77,Medium,16,23,8,No,No,,Saison style from Omega
+WHC American Strain 27,WHC,WHC0027,American,Liquid,73,75,High,10,19,8,No,No,,American style from WHC
+Fermentis Norwegian Farmhouse Strain 28,Fermentis,FER0028,Norwegian Farmhouse,Dry,67,71,High,11,23,14,No,Yes,,Norwegian Farmhouse style from Fermentis
+AEB Czech Strain 29,AEB,AEB0029,Czech,Dry,69,79,High,13,25,10,No,No,,Czech style from AEB
+Omega English Strain 30,Omega,OME0030,English,Liquid,76,83,Medium,19,25,14,No,No,,English style from Omega
+Bluestone Cider Strain 31,Bluestone,BLU0031,Cider,Liquid,65,71,Medium,15,27,12,No,No,,Cider style from Bluestone
+The Yeast Bay English Strain 32,The Yeast Bay,THE0032,English,Dry,66,76,High,16,22,8,No,No,,English style from The Yeast Bay
+WHC Kveik Strain 33,WHC,WHC0033,Kveik,Liquid,65,73,Medium,18,29,12,No,Yes,,Kveik style from WHC
+Imperial Blend Strain 34,Imperial,IMP0034,Blend,Dry,68,76,High,10,25,14,No,No,Mangrove Jack’s Blend Strain 255,Blend style from Imperial
+Wyeast Ale Strain 35,Wyeast,WYE0035,Ale,Dry,76,78,Low,10,25,14,No,No,Escarpment Ale Strain 925,Ale style from Wyeast
+White Labs Lactobacillus Strain 36,White Labs,WHI0036,Lactobacillus,Liquid,74,79,Low,10,17,14,No,No,,Lactobacillus style from White Labs
+Angel Saison Strain 37,Angel,ANG0037,Saison,Dry,66,72,Low,13,20,12,Yes,No,,Saison style from Angel
+Lallemand Saison Strain 38,Lallemand,LAL0038,Saison,Liquid,72,79,Medium,18,23,8,Yes,No,White Labs Saison Strain 64,Saison style from Lallemand
+Escarpment Saison Strain 39,Escarpment,ESC0039,Saison,Liquid,70,76,Low,12,26,10,No,No,Inland Island Saison Strain 1086,Saison style from Escarpment
+Lallemand Norwegian Farmhouse Strain 40,Lallemand,LAL0040,Norwegian Farmhouse,Dry,66,68,High,17,26,15,No,Yes,Omega Norwegian Farmhouse Strain 717,Norwegian Farmhouse style from Lallemand
+Bluestone Pediococcus Strain 41,Bluestone,BLU0041,Pediococcus,Dry,76,86,Medium,17,23,14,No,No,Wyeast Pediococcus Strain 392,Pediococcus style from Bluestone
+East Coast Yeast Belgian Strain 42,East Coast Yeast,EAS0042,Belgian,Liquid,75,81,High,17,30,14,No,No,,Belgian style from East Coast Yeast
+Bluestone Lager Strain 43,Bluestone,BLU0043,Lager,Liquid,70,73,Low,14,21,8,No,No,,Lager style from Bluestone
+The Yeast Bay Blend Strain 44,The Yeast Bay,THE0044,Blend,Liquid,77,82,Low,12,24,14,No,No,Escarpment Blend Strain 247,Blend style from The Yeast Bay
+AEB Czech Strain 45,AEB,AEB0045,Czech,Dry,70,72,Medium,19,26,8,No,No,Imperial Czech Strain 457,Czech style from AEB
+Renaissance Saison Strain 46,Renaissance,REN0046,Saison,Dry,72,81,Low,15,21,14,Yes,No,,Saison style from Renaissance
+Mangrove Jack’s Kveik Strain 47,Mangrove Jack’s,MAN0047,Kveik,Dry,66,73,Low,10,18,10,No,Yes,,Kveik style from Mangrove Jack’s
+White Labs Norwegian Farmhouse Strain 48,White Labs,WHI0048,Norwegian Farmhouse,Dry,75,83,Low,15,27,10,No,Yes,,Norwegian Farmhouse style from White Labs
+Renaissance Cider Strain 49,Renaissance,REN0049,Cider,Liquid,78,85,High,13,28,10,No,No,,Cider style from Renaissance
+Angel Pediococcus Strain 50,Angel,ANG0050,Pediococcus,Liquid,67,72,High,18,31,15,No,No,Escarpment Pediococcus Strain 677,Pediococcus style from Angel
+Wyeast Pediococcus Strain 51,Wyeast,WYE0051,Pediococcus,Dry,67,74,Medium,14,22,8,No,No,,Pediococcus style from Wyeast
+Bootleg Biology American Strain 52,Bootleg Biology,BOO0052,American,Liquid,69,74,Medium,19,29,14,No,No,,American style from Bootleg Biology
+Escarpment Blend Strain 53,Escarpment,ESC0053,Blend,Liquid,74,76,Low,12,21,10,No,No,Renaissance Blend Strain 989,Blend style from Escarpment
+Imperial Blend Strain 54,Imperial,IMP0054,Blend,Dry,67,77,High,16,27,8,No,No,,Blend style from Imperial
+Wyeast Kveik Strain 55,Wyeast,WYE0055,Kveik,Liquid,78,85,High,13,21,12,No,Yes,,Kveik style from Wyeast
+White Labs German Strain 56,White Labs,WHI0056,German,Dry,74,84,Low,12,25,15,No,No,,German style from White Labs
+Imperial Czech Strain 57,Imperial,IMP0057,Czech,Liquid,74,82,High,20,28,12,No,No,,Czech style from Imperial
+Angel English Strain 58,Angel,ANG0058,English,Dry,66,69,Low,12,27,15,No,No,,English style from Angel
+Bluestone Norwegian Farmhouse Strain 59,Bluestone,BLU0059,Norwegian Farmhouse,Dry,72,76,Low,18,23,14,No,Yes,,Norwegian Farmhouse style from Bluestone
+Bluestone American Strain 60,Bluestone,BLU0060,American,Liquid,68,71,High,10,25,14,No,No,Lallemand American Strain 1015,American style from Bluestone
+Lallemand Ale Strain 61,Lallemand,LAL0061,Ale,Liquid,74,77,Low,15,23,14,No,No,,Ale style from Lallemand
+The Yeast Bay Norwegian Farmhouse Strain 62,The Yeast Bay,THE0062,Norwegian Farmhouse,Dry,68,78,Medium,18,24,12,No,Yes,,Norwegian Farmhouse style from The Yeast Bay
+Mangrove Jack’s Saison Strain 63,Mangrove Jack’s,MAN0063,Saison,Liquid,76,81,Low,18,23,10,Yes,No,,Saison style from Mangrove Jack’s
+Bluestone Brettanomyces Strain 64,Bluestone,BLU0064,Brettanomyces,Liquid,65,73,Low,14,24,15,No,No,,Brettanomyces style from Bluestone
+Bluestone Ale Strain 65,Bluestone,BLU0065,Ale,Liquid,75,79,Low,14,26,8,No,No,,Ale style from Bluestone
+Inland Island Lager Strain 66,Inland Island,INL0066,Lager,Liquid,74,82,High,11,25,14,No,No,,Lager style from Inland Island
+Lallemand Brettanomyces Strain 67,Lallemand,LAL0067,Brettanomyces,Dry,77,79,High,11,21,14,No,No,,Brettanomyces style from Lallemand
+Imperial Saison Strain 68,Imperial,IMP0068,Saison,Liquid,73,83,Low,11,19,10,Yes,No,Lallemand Saison Strain 737,Saison style from Imperial
+WHC Lager Strain 69,WHC,WHC0069,Lager,Liquid,65,68,High,15,29,10,No,No,Bootleg Biology Lager Strain 533,Lager style from WHC
+Lallemand Ale Strain 70,Lallemand,LAL0070,Ale,Liquid,75,81,High,10,16,15,No,No,,Ale style from Lallemand
+East Coast Yeast American Strain 71,East Coast Yeast,EAS0071,American,Dry,67,74,Medium,19,27,8,No,No,,American style from East Coast Yeast
+Lallemand Pediococcus Strain 72,Lallemand,LAL0072,Pediococcus,Liquid,73,76,Medium,16,28,14,No,No,,Pediococcus style from Lallemand
+WHC English Strain 73,WHC,WHC0073,English,Liquid,69,72,Medium,19,30,15,No,No,,English style from WHC
+Wyeast Lactobacillus Strain 74,Wyeast,WYE0074,Lactobacillus,Liquid,76,80,Low,18,31,10,No,No,,Lactobacillus style from Wyeast
+WHC German Strain 75,WHC,WHC0075,German,Liquid,76,81,Low,16,30,8,No,No,East Coast Yeast German Strain 1225,German style from WHC
+WHC Lactobacillus Strain 76,WHC,WHC0076,Lactobacillus,Dry,74,79,High,16,29,12,No,No,Inland Island Lactobacillus Strain 652,Lactobacillus style from WHC
+Wyeast Blend Strain 77,Wyeast,WYE0077,Blend,Dry,75,79,High,20,25,14,No,No,,Blend style from Wyeast
+Angel Belgian Strain 78,Angel,ANG0078,Belgian,Liquid,66,76,Medium,12,27,12,Yes,No,Lallemand Belgian Strain 297,Belgian style from Angel
+Imperial Lager Strain 79,Imperial,IMP0079,Lager,Dry,76,79,Medium,15,20,14,No,No,,Lager style from Imperial
+Angel Czech Strain 80,Angel,ANG0080,Czech,Dry,70,78,Medium,15,23,10,No,No,,Czech style from Angel
+WHC Blend Strain 81,WHC,WHC0081,Blend,Liquid,67,74,High,14,27,8,No,No,,Blend style from WHC
+Omega Blend Strain 82,Omega,OME0082,Blend,Dry,68,72,Low,14,26,15,No,No,WHC Blend Strain 575,Blend style from Omega
+Escarpment Czech Strain 83,Escarpment,ESC0083,Czech,Liquid,68,71,Low,11,22,8,No,No,,Czech style from Escarpment
+East Coast Yeast Ale Strain 84,East Coast Yeast,EAS0084,Ale,Liquid,71,79,Low,10,23,14,No,No,,Ale style from East Coast Yeast
+The Yeast Bay Kveik Strain 85,The Yeast Bay,THE0085,Kveik,Liquid,66,72,Medium,11,25,14,No,Yes,,Kveik style from The Yeast Bay
+Fermentis Norwegian Farmhouse Strain 86,Fermentis,FER0086,Norwegian Farmhouse,Liquid,76,85,Low,15,21,15,No,Yes,Escarpment Norwegian Farmhouse Strain 1134,Norwegian Farmhouse style from Fermentis
+Imperial Norwegian Farmhouse Strain 87,Imperial,IMP0087,Norwegian Farmhouse,Dry,71,75,High,13,24,14,No,Yes,Lallemand Norwegian Farmhouse Strain 1176,Norwegian Farmhouse style from Imperial
+Bootleg Biology Lager Strain 88,Bootleg Biology,BOO0088,Lager,Dry,66,72,High,11,20,10,No,No,White Labs Lager Strain 1155,Lager style from Bootleg Biology
+Omega Czech Strain 89,Omega,OME0089,Czech,Liquid,75,81,Low,19,28,10,No,No,,Czech style from Omega
+Bootleg Biology Lager Strain 90,Bootleg Biology,BOO0090,Lager,Dry,73,79,Medium,15,26,12,No,No,,Lager style from Bootleg Biology
+Escarpment Cider Strain 91,Escarpment,ESC0091,Cider,Liquid,72,77,High,17,31,10,No,No,East Coast Yeast Cider Strain 1175,Cider style from Escarpment
+Imperial Cider Strain 92,Imperial,IMP0092,Cider,Dry,69,76,High,16,28,12,No,No,Fermentis Cider Strain 734,Cider style from Imperial
+Inland Island Blend Strain 93,Inland Island,INL0093,Blend,Liquid,76,85,High,10,24,12,No,No,,Blend style from Inland Island
+Bootleg Biology Czech Strain 94,Bootleg Biology,BOO0094,Czech,Dry,73,78,High,20,30,15,No,No,Escarpment Czech Strain 152,Czech style from Bootleg Biology
+WHC Lager Strain 95,WHC,WHC0095,Lager,Liquid,71,76,Low,14,29,15,No,No,,Lager style from WHC
+Wyeast Pediococcus Strain 96,Wyeast,WYE0096,Pediococcus,Dry,70,79,Medium,19,27,12,No,No,,Pediococcus style from Wyeast
+Wyeast Kveik Strain 97,Wyeast,WYE0097,Kveik,Liquid,77,86,Low,13,19,8,No,Yes,Inland Island Kveik Strain 336,Kveik style from Wyeast
+Bootleg Biology Norwegian Farmhouse Strain 98,Bootleg Biology,BOO0098,Norwegian Farmhouse,Liquid,68,75,Low,19,25,12,No,Yes,,Norwegian Farmhouse style from Bootleg Biology
+Lallemand American Strain 99,Lallemand,LAL0099,American,Dry,78,85,Medium,18,29,8,No,No,,American style from Lallemand
+AEB American Strain 100,AEB,AEB0100,American,Dry,74,80,High,16,25,15,No,No,AEB American Strain 916,American style from AEB
+Bluestone Lactobacillus Strain 101,Bluestone,BLU0101,Lactobacillus,Dry,70,74,Low,17,30,8,No,No,,Lactobacillus style from Bluestone
+Imperial Belgian Strain 102,Imperial,IMP0102,Belgian,Liquid,73,76,Low,13,28,8,No,No,,Belgian style from Imperial
+East Coast Yeast Saison Strain 103,East Coast Yeast,EAS0103,Saison,Dry,68,78,Low,13,23,12,No,No,Omega Saison Strain 1192,Saison style from East Coast Yeast
+Wyeast German Strain 104,Wyeast,WYE0104,German,Dry,72,78,High,19,26,8,No,No,,German style from Wyeast
+White Labs Lager Strain 105,White Labs,WHI0105,Lager,Dry,75,83,High,14,25,12,No,No,Bootleg Biology Lager Strain 816,Lager style from White Labs
+White Labs English Strain 106,White Labs,WHI0106,English,Liquid,72,77,Medium,18,24,14,No,No,Mangrove Jack’s English Strain 295,English style from White Labs
+White Labs Norwegian Farmhouse Strain 107,White Labs,WHI0107,Norwegian Farmhouse,Dry,65,68,Low,17,25,8,No,Yes,,Norwegian Farmhouse style from White Labs
+Bluestone Belgian Strain 108,Bluestone,BLU0108,Belgian,Liquid,66,70,Low,10,24,12,No,No,White Labs Belgian Strain 444,Belgian style from Bluestone
+AEB Cider Strain 109,AEB,AEB0109,Cider,Dry,66,75,Low,10,20,10,No,No,Escarpment Cider Strain 54,Cider style from AEB
+Bootleg Biology Kveik Strain 110,Bootleg Biology,BOO0110,Kveik,Liquid,70,79,Low,16,25,10,No,Yes,Bootleg Biology Kveik Strain 1034,Kveik style from Bootleg Biology
+Fermentis Czech Strain 111,Fermentis,FER0111,Czech,Dry,76,82,Medium,12,27,14,No,No,,Czech style from Fermentis
+Mangrove Jack’s Ale Strain 112,Mangrove Jack’s,MAN0112,Ale,Liquid,71,74,Medium,17,23,12,No,No,Lallemand Ale Strain 948,Ale style from Mangrove Jack’s
+Lallemand Cider Strain 113,Lallemand,LAL0113,Cider,Liquid,73,82,Medium,12,19,12,No,No,,Cider style from Lallemand
+Escarpment Lactobacillus Strain 114,Escarpment,ESC0114,Lactobacillus,Dry,76,81,Low,14,21,10,No,No,Wyeast Lactobacillus Strain 875,Lactobacillus style from Escarpment
+The Yeast Bay Brettanomyces Strain 115,The Yeast Bay,THE0115,Brettanomyces,Dry,75,83,High,16,28,15,No,No,Escarpment Brettanomyces Strain 142,Brettanomyces style from The Yeast Bay
+Omega Belgian Strain 116,Omega,OME0116,Belgian,Dry,70,76,Medium,20,35,14,No,No,,Belgian style from Omega
+East Coast Yeast Belgian Strain 117,East Coast Yeast,EAS0117,Belgian,Liquid,70,80,Low,18,29,12,No,No,Omega Belgian Strain 627,Belgian style from East Coast Yeast
+Inland Island English Strain 118,Inland Island,INL0118,English,Dry,72,79,High,18,26,15,No,No,,English style from Inland Island
+White Labs Lactobacillus Strain 119,White Labs,WHI0119,Lactobacillus,Dry,76,83,Medium,16,22,12,No,No,Escarpment Lactobacillus Strain 1069,Lactobacillus style from White Labs
+Omega Lactobacillus Strain 120,Omega,OME0120,Lactobacillus,Liquid,75,80,High,17,22,12,No,No,,Lactobacillus style from Omega
+White Labs Lager Strain 121,White Labs,WHI0121,Lager,Dry,68,76,High,14,24,14,No,No,,Lager style from White Labs
+Inland Island Kveik Strain 122,Inland Island,INL0122,Kveik,Liquid,76,86,Low,19,34,12,No,Yes,,Kveik style from Inland Island
+Escarpment Kveik Strain 123,Escarpment,ESC0123,Kveik,Dry,66,75,Medium,12,18,10,No,Yes,Mangrove Jack’s Kveik Strain 667,Kveik style from Escarpment
+WHC Ale Strain 124,WHC,WHC0124,Ale,Dry,69,77,Low,11,19,15,No,No,,Ale style from WHC
+Lallemand Brettanomyces Strain 125,Lallemand,LAL0125,Brettanomyces,Dry,72,74,Medium,11,18,14,No,No,Omega Brettanomyces Strain 978,Brettanomyces style from Lallemand
+Mangrove Jack’s American Strain 126,Mangrove Jack’s,MAN0126,American,Liquid,65,72,Medium,18,32,8,No,No,,American style from Mangrove Jack’s
+Omega English Strain 127,Omega,OME0127,English,Dry,78,86,Low,17,23,8,No,No,,English style from Omega
+Lallemand English Strain 128,Lallemand,LAL0128,English,Liquid,72,75,Medium,18,30,10,No,No,,English style from Lallemand
+Wyeast Lager Strain 129,Wyeast,WYE0129,Lager,Dry,72,74,Low,10,17,15,No,No,Escarpment Lager Strain 1287,Lager style from Wyeast
+Lallemand Czech Strain 130,Lallemand,LAL0130,Czech,Liquid,74,82,High,19,33,14,No,No,WHC Czech Strain 1277,Czech style from Lallemand
+Mangrove Jack’s Norwegian Farmhouse Strain 131,Mangrove Jack’s,MAN0131,Norwegian Farmhouse,Liquid,71,79,High,20,27,15,No,Yes,Wyeast Norwegian Farmhouse Strain 877,Norwegian Farmhouse style from Mangrove Jack’s
+Lallemand Blend Strain 132,Lallemand,LAL0132,Blend,Liquid,65,70,High,10,19,8,No,No,,Blend style from Lallemand
+AEB Lactobacillus Strain 133,AEB,AEB0133,Lactobacillus,Liquid,75,79,Low,16,23,15,No,No,Omega Lactobacillus Strain 779,Lactobacillus style from AEB
+Lallemand American Strain 134,Lallemand,LAL0134,American,Liquid,73,76,Medium,18,26,10,No,No,,American style from Lallemand
+Wyeast Czech Strain 135,Wyeast,WYE0135,Czech,Liquid,69,74,Medium,15,21,15,No,No,,Czech style from Wyeast
+Angel English Strain 136,Angel,ANG0136,English,Dry,67,77,High,16,27,12,No,No,Escarpment English Strain 233,English style from Angel
+East Coast Yeast American Strain 137,East Coast Yeast,EAS0137,American,Dry,70,74,High,20,35,12,No,No,,American style from East Coast Yeast
+Lallemand Saison Strain 138,Lallemand,LAL0138,Saison,Liquid,65,69,Low,20,32,15,Yes,No,,Saison style from Lallemand
+WHC Brettanomyces Strain 139,WHC,WHC0139,Brettanomyces,Dry,70,79,Low,13,23,12,No,No,White Labs Brettanomyces Strain 367,Brettanomyces style from WHC
+Escarpment Lager Strain 140,Escarpment,ESC0140,Lager,Dry,77,79,High,14,23,10,No,No,,Lager style from Escarpment
+Lallemand Pediococcus Strain 141,Lallemand,LAL0141,Pediococcus,Liquid,77,84,Low,16,29,12,No,No,Renaissance Pediococcus Strain 632,Pediococcus style from Lallemand
+Imperial English Strain 142,Imperial,IMP0142,English,Dry,75,81,High,11,25,10,No,No,,English style from Imperial
+Imperial Kveik Strain 143,Imperial,IMP0143,Kveik,Dry,77,83,High,10,17,14,No,Yes,Fermentis Kveik Strain 1119,Kveik style from Imperial
+Bluestone Cider Strain 144,Bluestone,BLU0144,Cider,Liquid,68,77,Low,11,21,14,No,No,,Cider style from Bluestone
+Inland Island English Strain 145,Inland Island,INL0145,English,Dry,75,85,High,20,31,14,No,No,,English style from Inland Island
+Inland Island Ale Strain 146,Inland Island,INL0146,Ale,Dry,78,86,Medium,19,32,10,No,No,,Ale style from Inland Island
+AEB Kveik Strain 147,AEB,AEB0147,Kveik,Dry,73,78,Medium,20,31,8,No,Yes,Angel Kveik Strain 729,Kveik style from AEB
+WHC Pediococcus Strain 148,WHC,WHC0148,Pediococcus,Liquid,67,71,Low,10,24,8,No,No,Bootleg Biology Pediococcus Strain 1146,Pediococcus style from WHC
+Renaissance Czech Strain 149,Renaissance,REN0149,Czech,Dry,68,76,High,14,21,8,No,No,East Coast Yeast Czech Strain 1016,Czech style from Renaissance
+Wyeast Kveik Strain 150,Wyeast,WYE0150,Kveik,Liquid,65,68,High,20,27,10,No,Yes,White Labs Kveik Strain 632,Kveik style from Wyeast
+WHC Brettanomyces Strain 151,WHC,WHC0151,Brettanomyces,Liquid,71,78,Low,13,18,14,No,No,Angel Brettanomyces Strain 725,Brettanomyces style from WHC
+Lallemand Kveik Strain 152,Lallemand,LAL0152,Kveik,Dry,74,76,Low,12,22,15,No,Yes,,Kveik style from Lallemand
+Mangrove Jack’s German Strain 153,Mangrove Jack’s,MAN0153,German,Liquid,72,74,High,16,31,14,No,No,Omega German Strain 1158,German style from Mangrove Jack’s
+The Yeast Bay American Strain 154,The Yeast Bay,THE0154,American,Dry,67,74,Medium,14,24,15,No,No,Bootleg Biology American Strain 173,American style from The Yeast Bay
+Bluestone Blend Strain 155,Bluestone,BLU0155,Blend,Dry,67,77,Medium,17,22,15,No,No,Imperial Blend Strain 1286,Blend style from Bluestone
+AEB Pediococcus Strain 156,AEB,AEB0156,Pediococcus,Dry,72,82,High,19,28,15,No,No,Wyeast Pediococcus Strain 86,Pediococcus style from AEB
+AEB English Strain 157,AEB,AEB0157,English,Dry,77,83,Medium,16,24,15,No,No,,English style from AEB
+Renaissance English Strain 158,Renaissance,REN0158,English,Liquid,67,70,Low,14,24,12,No,No,,English style from Renaissance
+AEB American Strain 159,AEB,AEB0159,American,Dry,77,80,Low,13,18,10,No,No,WHC American Strain 1152,American style from AEB
+Bluestone Ale Strain 160,Bluestone,BLU0160,Ale,Liquid,66,72,Medium,13,27,14,No,No,Wyeast Ale Strain 275,Ale style from Bluestone
+Inland Island Saison Strain 161,Inland Island,INL0161,Saison,Dry,65,73,High,13,25,12,No,No,Angel Saison Strain 938,Saison style from Inland Island
+Lallemand American Strain 162,Lallemand,LAL0162,American,Dry,65,69,Medium,17,27,8,No,No,,American style from Lallemand
+Wyeast German Strain 163,Wyeast,WYE0163,German,Liquid,69,74,Medium,14,28,8,No,No,,German style from Wyeast
+Omega American Strain 164,Omega,OME0164,American,Dry,65,72,High,14,26,14,No,No,,American style from Omega
+Renaissance English Strain 165,Renaissance,REN0165,English,Liquid,66,68,High,18,23,12,No,No,,English style from Renaissance
+Omega Lager Strain 166,Omega,OME0166,Lager,Dry,76,81,High,20,34,10,No,No,White Labs Lager Strain 357,Lager style from Omega
+Inland Island Czech Strain 167,Inland Island,INL0167,Czech,Dry,66,68,Low,20,29,15,No,No,,Czech style from Inland Island
+Escarpment Norwegian Farmhouse Strain 168,Escarpment,ESC0168,Norwegian Farmhouse,Liquid,70,76,Medium,20,26,14,No,Yes,Fermentis Norwegian Farmhouse Strain 767,Norwegian Farmhouse style from Escarpment
+AEB Ale Strain 169,AEB,AEB0169,Ale,Dry,67,73,High,14,28,10,No,No,,Ale style from AEB
+Bluestone Czech Strain 170,Bluestone,BLU0170,Czech,Liquid,74,81,Low,20,31,10,No,No,,Czech style from Bluestone
+WHC Lager Strain 171,WHC,WHC0171,Lager,Dry,74,80,Low,12,22,12,No,No,Omega Lager Strain 1000,Lager style from WHC
+Bluestone American Strain 172,Bluestone,BLU0172,American,Dry,70,77,High,20,26,8,No,No,,American style from Bluestone
+Lallemand Lactobacillus Strain 173,Lallemand,LAL0173,Lactobacillus,Dry,78,81,Low,11,26,15,No,No,Escarpment Lactobacillus Strain 557,Lactobacillus style from Lallemand
+East Coast Yeast Lactobacillus Strain 174,East Coast Yeast,EAS0174,Lactobacillus,Liquid,65,71,Low,15,23,14,No,No,,Lactobacillus style from East Coast Yeast
+Inland Island Cider Strain 175,Inland Island,INL0175,Cider,Dry,76,78,Low,17,22,14,No,No,WHC Cider Strain 658,Cider style from Inland Island
+Fermentis American Strain 176,Fermentis,FER0176,American,Dry,76,81,High,16,31,8,No,No,Omega American Strain 109,American style from Fermentis
+Wyeast German Strain 177,Wyeast,WYE0177,German,Liquid,73,77,Medium,13,27,12,No,No,,German style from Wyeast
+The Yeast Bay English Strain 178,The Yeast Bay,THE0178,English,Liquid,68,74,Low,12,17,15,No,No,,English style from The Yeast Bay
+Fermentis English Strain 179,Fermentis,FER0179,English,Liquid,70,78,Medium,18,25,15,No,No,Bootleg Biology English Strain 258,English style from Fermentis
+East Coast Yeast American Strain 180,East Coast Yeast,EAS0180,American,Dry,73,76,Low,17,30,12,No,No,,American style from East Coast Yeast
+Wyeast Brettanomyces Strain 181,Wyeast,WYE0181,Brettanomyces,Liquid,65,72,High,14,21,8,No,No,Omega Brettanomyces Strain 942,Brettanomyces style from Wyeast
+Bootleg Biology Norwegian Farmhouse Strain 182,Bootleg Biology,BOO0182,Norwegian Farmhouse,Liquid,65,75,Low,10,22,8,No,Yes,Renaissance Norwegian Farmhouse Strain 1250,Norwegian Farmhouse style from Bootleg Biology
+Omega Brettanomyces Strain 183,Omega,OME0183,Brettanomyces,Liquid,78,88,High,16,29,14,No,No,,Brettanomyces style from Omega
+Escarpment Norwegian Farmhouse Strain 184,Escarpment,ESC0184,Norwegian Farmhouse,Dry,71,76,Low,16,30,10,No,Yes,Renaissance Norwegian Farmhouse Strain 871,Norwegian Farmhouse style from Escarpment
+WHC Blend Strain 185,WHC,WHC0185,Blend,Liquid,76,82,Medium,14,25,10,No,No,,Blend style from WHC
+Mangrove Jack’s Lager Strain 186,Mangrove Jack’s,MAN0186,Lager,Dry,69,76,High,16,23,15,No,No,Angel Lager Strain 1216,Lager style from Mangrove Jack’s
+Bootleg Biology Lactobacillus Strain 187,Bootleg Biology,BOO0187,Lactobacillus,Dry,78,83,Medium,10,25,8,No,No,,Lactobacillus style from Bootleg Biology
+Lallemand Cider Strain 188,Lallemand,LAL0188,Cider,Dry,73,76,Medium,20,32,15,No,No,,Cider style from Lallemand
+Lallemand English Strain 189,Lallemand,LAL0189,English,Liquid,67,72,Medium,10,23,12,No,No,Escarpment English Strain 988,English style from Lallemand
+Fermentis American Strain 190,Fermentis,FER0190,American,Dry,75,81,High,14,26,8,No,No,White Labs American Strain 671,American style from Fermentis
+Imperial Ale Strain 191,Imperial,IMP0191,Ale,Liquid,65,69,Medium,10,22,12,No,No,,Ale style from Imperial
+Omega Pediococcus Strain 192,Omega,OME0192,Pediococcus,Dry,73,76,High,20,25,15,No,No,,Pediococcus style from Omega
+Bootleg Biology Brettanomyces Strain 193,Bootleg Biology,BOO0193,Brettanomyces,Liquid,77,85,Medium,17,28,12,No,No,,Brettanomyces style from Bootleg Biology
+Lallemand English Strain 194,Lallemand,LAL0194,English,Liquid,66,74,Low,16,30,8,No,No,Bootleg Biology English Strain 226,English style from Lallemand
+Bootleg Biology Brettanomyces Strain 195,Bootleg Biology,BOO0195,Brettanomyces,Dry,68,78,High,20,28,14,No,No,Inland Island Brettanomyces Strain 822,Brettanomyces style from Bootleg Biology
+The Yeast Bay English Strain 196,The Yeast Bay,THE0196,English,Dry,74,79,Low,19,26,15,No,No,,English style from The Yeast Bay
+The Yeast Bay Ale Strain 197,The Yeast Bay,THE0197,Ale,Liquid,71,74,Medium,12,25,14,No,No,,Ale style from The Yeast Bay
+Bootleg Biology Blend Strain 198,Bootleg Biology,BOO0198,Blend,Dry,73,75,Low,12,21,8,No,No,AEB Blend Strain 322,Blend style from Bootleg Biology
+Bootleg Biology Norwegian Farmhouse Strain 199,Bootleg Biology,BOO0199,Norwegian Farmhouse,Dry,78,81,Low,19,32,14,No,Yes,WHC Norwegian Farmhouse Strain 512,Norwegian Farmhouse style from Bootleg Biology
+Imperial American Strain 200,Imperial,IMP0200,American,Dry,70,79,Medium,17,23,15,No,No,Bootleg Biology American Strain 385,American style from Imperial
+Renaissance Norwegian Farmhouse Strain 201,Renaissance,REN0201,Norwegian Farmhouse,Dry,72,75,Low,13,23,14,No,Yes,,Norwegian Farmhouse style from Renaissance
+Renaissance Blend Strain 202,Renaissance,REN0202,Blend,Liquid,69,79,Medium,15,25,8,No,No,,Blend style from Renaissance
+Inland Island German Strain 203,Inland Island,INL0203,German,Liquid,73,80,High,18,24,15,No,No,Mangrove Jack’s German Strain 122,German style from Inland Island
+Bluestone Cider Strain 204,Bluestone,BLU0204,Cider,Liquid,77,87,Low,18,26,15,No,No,Escarpment Cider Strain 509,Cider style from Bluestone
+Lallemand Pediococcus Strain 205,Lallemand,LAL0205,Pediococcus,Dry,73,75,High,18,32,14,No,No,WHC Pediococcus Strain 420,Pediococcus style from Lallemand
+Escarpment Saison Strain 206,Escarpment,ESC0206,Saison,Dry,67,75,Low,16,29,12,Yes,No,Lallemand Saison Strain 374,Saison style from Escarpment
+Bootleg Biology Cider Strain 207,Bootleg Biology,BOO0207,Cider,Liquid,74,84,Medium,10,22,12,No,No,White Labs Cider Strain 423,Cider style from Bootleg Biology
+Renaissance Lager Strain 208,Renaissance,REN0208,Lager,Dry,77,79,Low,19,28,15,No,No,,Lager style from Renaissance
+Angel Lactobacillus Strain 209,Angel,ANG0209,Lactobacillus,Liquid,73,81,Medium,11,23,14,No,No,East Coast Yeast Lactobacillus Strain 509,Lactobacillus style from Angel
+East Coast Yeast Lactobacillus Strain 210,East Coast Yeast,EAS0210,Lactobacillus,Dry,66,69,Medium,13,25,15,No,No,,Lactobacillus style from East Coast Yeast
+Imperial Pediococcus Strain 211,Imperial,IMP0211,Pediococcus,Liquid,74,78,Low,11,20,14,No,No,AEB Pediococcus Strain 1173,Pediococcus style from Imperial
+Escarpment English Strain 212,Escarpment,ESC0212,English,Liquid,68,71,Low,15,25,8,No,No,,English style from Escarpment
+Bluestone Pediococcus Strain 213,Bluestone,BLU0213,Pediococcus,Liquid,77,85,Medium,12,25,15,No,No,The Yeast Bay Pediococcus Strain 393,Pediococcus style from Bluestone
+Imperial Pediococcus Strain 214,Imperial,IMP0214,Pediococcus,Liquid,78,87,Medium,10,21,8,No,No,,Pediococcus style from Imperial
+Fermentis Brettanomyces Strain 215,Fermentis,FER0215,Brettanomyces,Liquid,65,70,High,14,20,12,No,No,East Coast Yeast Brettanomyces Strain 494,Brettanomyces style from Fermentis
+Escarpment Saison Strain 216,Escarpment,ESC0216,Saison,Liquid,71,75,Low,20,30,14,No,No,,Saison style from Escarpment
+Escarpment Cider Strain 217,Escarpment,ESC0217,Cider,Liquid,67,73,Medium,18,25,14,No,No,,Cider style from Escarpment
+Fermentis Ale Strain 218,Fermentis,FER0218,Ale,Liquid,69,73,High,12,23,15,No,No,,Ale style from Fermentis
+Renaissance Cider Strain 219,Renaissance,REN0219,Cider,Dry,67,76,Low,16,27,14,No,No,Wyeast Cider Strain 1240,Cider style from Renaissance
+WHC Ale Strain 220,WHC,WHC0220,Ale,Liquid,66,75,Medium,11,18,10,No,No,Renaissance Ale Strain 1001,Ale style from WHC
+East Coast Yeast Norwegian Farmhouse Strain 221,East Coast Yeast,EAS0221,Norwegian Farmhouse,Liquid,73,76,Medium,12,25,15,No,Yes,,Norwegian Farmhouse style from East Coast Yeast
+WHC Brettanomyces Strain 222,WHC,WHC0222,Brettanomyces,Liquid,75,80,Low,20,28,15,No,No,,Brettanomyces style from WHC
+Renaissance German Strain 223,Renaissance,REN0223,German,Liquid,73,83,High,15,26,10,No,No,AEB German Strain 680,German style from Renaissance
+Fermentis Pediococcus Strain 224,Fermentis,FER0224,Pediococcus,Dry,71,77,High,16,27,8,No,No,Omega Pediococcus Strain 955,Pediococcus style from Fermentis
+Lallemand German Strain 225,Lallemand,LAL0225,German,Liquid,70,72,Low,15,29,8,No,No,Mangrove Jack’s German Strain 1111,German style from Lallemand
+The Yeast Bay Lager Strain 226,The Yeast Bay,THE0226,Lager,Dry,74,77,Medium,14,20,15,No,No,,Lager style from The Yeast Bay
+The Yeast Bay English Strain 227,The Yeast Bay,THE0227,English,Dry,74,82,High,10,23,8,No,No,,English style from The Yeast Bay
+Mangrove Jack’s Czech Strain 228,Mangrove Jack’s,MAN0228,Czech,Dry,69,73,High,18,23,10,No,No,,Czech style from Mangrove Jack’s
+Imperial Belgian Strain 229,Imperial,IMP0229,Belgian,Dry,72,82,Medium,20,28,14,No,No,Omega Belgian Strain 173,Belgian style from Imperial
+AEB German Strain 230,AEB,AEB0230,German,Dry,66,73,Low,19,28,12,No,No,Bluestone German Strain 630,German style from AEB
+East Coast Yeast German Strain 231,East Coast Yeast,EAS0231,German,Liquid,78,82,Low,13,27,10,No,No,Imperial German Strain 764,German style from East Coast Yeast
+Mangrove Jack’s Pediococcus Strain 232,Mangrove Jack’s,MAN0232,Pediococcus,Liquid,71,76,High,12,17,8,No,No,,Pediococcus style from Mangrove Jack’s
+Imperial Belgian Strain 233,Imperial,IMP0233,Belgian,Dry,72,82,Medium,11,20,10,No,No,Imperial Belgian Strain 129,Belgian style from Imperial
+Bootleg Biology Ale Strain 234,Bootleg Biology,BOO0234,Ale,Dry,71,78,High,14,25,10,No,No,,Ale style from Bootleg Biology
+Renaissance Saison Strain 235,Renaissance,REN0235,Saison,Dry,73,77,Low,10,18,15,No,No,Omega Saison Strain 157,Saison style from Renaissance
+Mangrove Jack’s Lactobacillus Strain 236,Mangrove Jack’s,MAN0236,Lactobacillus,Liquid,69,74,Low,20,30,15,No,No,Bootleg Biology Lactobacillus Strain 806,Lactobacillus style from Mangrove Jack’s
+Inland Island Brettanomyces Strain 237,Inland Island,INL0237,Brettanomyces,Dry,78,83,Medium,12,27,15,No,No,,Brettanomyces style from Inland Island
+AEB Blend Strain 238,AEB,AEB0238,Blend,Dry,78,80,Low,19,28,10,No,No,,Blend style from AEB
+Bluestone Czech Strain 239,Bluestone,BLU0239,Czech,Dry,71,76,High,13,27,14,No,No,,Czech style from Bluestone
+Mangrove Jack’s Czech Strain 240,Mangrove Jack’s,MAN0240,Czech,Liquid,69,71,High,10,25,14,No,No,Bootleg Biology Czech Strain 266,Czech style from Mangrove Jack’s
+Escarpment Brettanomyces Strain 241,Escarpment,ESC0241,Brettanomyces,Liquid,66,69,Medium,18,26,14,No,No,,Brettanomyces style from Escarpment
+Mangrove Jack’s Brettanomyces Strain 242,Mangrove Jack’s,MAN0242,Brettanomyces,Dry,70,76,Medium,19,34,15,No,No,East Coast Yeast Brettanomyces Strain 990,Brettanomyces style from Mangrove Jack’s
+WHC Ale Strain 243,WHC,WHC0243,Ale,Liquid,65,67,High,12,25,15,No,No,,Ale style from WHC
+The Yeast Bay Kveik Strain 244,The Yeast Bay,THE0244,Kveik,Liquid,73,75,Medium,14,20,8,No,Yes,,Kveik style from The Yeast Bay
+The Yeast Bay Norwegian Farmhouse Strain 245,The Yeast Bay,THE0245,Norwegian Farmhouse,Liquid,68,72,High,14,23,15,No,Yes,,Norwegian Farmhouse style from The Yeast Bay
+WHC Czech Strain 246,WHC,WHC0246,Czech,Dry,67,69,High,14,26,8,No,No,Lallemand Czech Strain 65,Czech style from WHC
+WHC Belgian Strain 247,WHC,WHC0247,Belgian,Dry,72,74,Medium,11,17,14,Yes,No,,Belgian style from WHC
+Escarpment American Strain 248,Escarpment,ESC0248,American,Dry,74,84,High,20,27,14,No,No,East Coast Yeast American Strain 713,American style from Escarpment
+Omega Czech Strain 249,Omega,OME0249,Czech,Dry,72,75,Medium,17,22,10,No,No,,Czech style from Omega
+WHC Lager Strain 250,WHC,WHC0250,Lager,Liquid,77,86,High,11,26,14,No,No,,Lager style from WHC
+Imperial Saison Strain 251,Imperial,IMP0251,Saison,Dry,72,82,High,13,26,10,Yes,No,,Saison style from Imperial
+Lallemand Belgian Strain 252,Lallemand,LAL0252,Belgian,Liquid,66,75,High,20,28,12,Yes,No,WHC Belgian Strain 39,Belgian style from Lallemand
+Escarpment Norwegian Farmhouse Strain 253,Escarpment,ESC0253,Norwegian Farmhouse,Dry,67,76,High,18,27,8,No,Yes,,Norwegian Farmhouse style from Escarpment
+Inland Island American Strain 254,Inland Island,INL0254,American,Liquid,72,79,High,13,26,15,No,No,,American style from Inland Island
+Renaissance Blend Strain 255,Renaissance,REN0255,Blend,Dry,66,73,Low,13,20,12,No,No,Wyeast Blend Strain 1245,Blend style from Renaissance
+Angel Cider Strain 256,Angel,ANG0256,Cider,Dry,73,80,Medium,10,24,15,No,No,,Cider style from Angel
+Imperial Belgian Strain 257,Imperial,IMP0257,Belgian,Liquid,67,70,Medium,11,22,8,Yes,No,Lallemand Belgian Strain 899,Belgian style from Imperial
+Fermentis Lager Strain 258,Fermentis,FER0258,Lager,Dry,75,83,High,16,30,15,No,No,,Lager style from Fermentis
+Lallemand Ale Strain 259,Lallemand,LAL0259,Ale,Liquid,77,84,High,19,26,8,No,No,,Ale style from Lallemand
+The Yeast Bay Belgian Strain 260,The Yeast Bay,THE0260,Belgian,Dry,71,74,High,12,20,12,Yes,No,Fermentis Belgian Strain 390,Belgian style from The Yeast Bay
+White Labs Ale Strain 261,White Labs,WHI0261,Ale,Dry,78,81,High,12,26,14,No,No,,Ale style from White Labs
+Wyeast Cider Strain 262,Wyeast,WYE0262,Cider,Liquid,65,71,High,14,26,15,No,No,,Cider style from Wyeast
+Wyeast Cider Strain 263,Wyeast,WYE0263,Cider,Liquid,74,78,Low,16,28,12,No,No,,Cider style from Wyeast
+AEB Cider Strain 264,AEB,AEB0264,Cider,Dry,73,80,High,10,16,12,No,No,East Coast Yeast Cider Strain 258,Cider style from AEB
+Omega Belgian Strain 265,Omega,OME0265,Belgian,Dry,66,69,Low,13,21,10,No,No,,Belgian style from Omega
+White Labs Kveik Strain 266,White Labs,WHI0266,Kveik,Dry,67,72,Medium,18,30,15,No,Yes,,Kveik style from White Labs
+Mangrove Jack’s Lager Strain 267,Mangrove Jack’s,MAN0267,Lager,Liquid,67,72,Low,16,27,12,No,No,,Lager style from Mangrove Jack’s
+East Coast Yeast Blend Strain 268,East Coast Yeast,EAS0268,Blend,Dry,65,72,High,18,25,10,No,No,Bootleg Biology Blend Strain 277,Blend style from East Coast Yeast
+Inland Island English Strain 269,Inland Island,INL0269,English,Dry,65,74,High,16,21,14,No,No,WHC English Strain 641,English style from Inland Island
+Fermentis Lactobacillus Strain 270,Fermentis,FER0270,Lactobacillus,Dry,70,72,Medium,19,33,8,No,No,Renaissance Lactobacillus Strain 191,Lactobacillus style from Fermentis
+Omega Blend Strain 271,Omega,OME0271,Blend,Dry,72,81,High,13,19,14,No,No,,Blend style from Omega
+Omega Kveik Strain 272,Omega,OME0272,Kveik,Dry,68,70,Low,12,24,12,No,Yes,,Kveik style from Omega
+East Coast Yeast German Strain 273,East Coast Yeast,EAS0273,German,Liquid,78,85,High,13,23,10,No,No,,German style from East Coast Yeast
+Omega Ale Strain 274,Omega,OME0274,Ale,Dry,72,74,Low,20,26,14,No,No,Escarpment Ale Strain 1195,Ale style from Omega
+Lallemand Cider Strain 275,Lallemand,LAL0275,Cider,Liquid,68,77,Medium,10,23,12,No,No,,Cider style from Lallemand
+Imperial Czech Strain 276,Imperial,IMP0276,Czech,Dry,68,71,Low,19,34,10,No,No,,Czech style from Imperial
+Angel Norwegian Farmhouse Strain 277,Angel,ANG0277,Norwegian Farmhouse,Dry,70,78,Medium,14,26,8,No,Yes,,Norwegian Farmhouse style from Angel
+Renaissance Norwegian Farmhouse Strain 278,Renaissance,REN0278,Norwegian Farmhouse,Dry,66,75,High,19,25,15,No,Yes,Renaissance Norwegian Farmhouse Strain 163,Norwegian Farmhouse style from Renaissance
+East Coast Yeast Saison Strain 279,East Coast Yeast,EAS0279,Saison,Liquid,73,81,Medium,13,24,14,Yes,No,Fermentis Saison Strain 712,Saison style from East Coast Yeast
+Omega Norwegian Farmhouse Strain 280,Omega,OME0280,Norwegian Farmhouse,Dry,77,83,High,15,23,12,No,Yes,WHC Norwegian Farmhouse Strain 1016,Norwegian Farmhouse style from Omega
+Renaissance Brettanomyces Strain 281,Renaissance,REN0281,Brettanomyces,Liquid,69,71,Medium,15,21,10,No,No,,Brettanomyces style from Renaissance
+White Labs American Strain 282,White Labs,WHI0282,American,Dry,74,78,Medium,12,23,15,No,No,WHC American Strain 934,American style from White Labs
+Renaissance Lactobacillus Strain 283,Renaissance,REN0283,Lactobacillus,Dry,68,70,Medium,12,21,8,No,No,,Lactobacillus style from Renaissance
+Lallemand Cider Strain 284,Lallemand,LAL0284,Cider,Dry,72,82,Medium,17,23,14,No,No,Mangrove Jack’s Cider Strain 92,Cider style from Lallemand
+Inland Island Kveik Strain 285,Inland Island,INL0285,Kveik,Liquid,76,86,Medium,11,26,14,No,Yes,Wyeast Kveik Strain 420,Kveik style from Inland Island
+AEB Norwegian Farmhouse Strain 286,AEB,AEB0286,Norwegian Farmhouse,Dry,70,78,Medium,16,31,14,No,Yes,,Norwegian Farmhouse style from AEB
+Inland Island Cider Strain 287,Inland Island,INL0287,Cider,Dry,78,87,High,18,24,15,No,No,East Coast Yeast Cider Strain 1116,Cider style from Inland Island
+Angel Czech Strain 288,Angel,ANG0288,Czech,Dry,75,84,Medium,19,30,14,No,No,Inland Island Czech Strain 12,Czech style from Angel
+Renaissance Czech Strain 289,Renaissance,REN0289,Czech,Dry,78,81,Low,20,31,15,No,No,Inland Island Czech Strain 947,Czech style from Renaissance
+Bootleg Biology Norwegian Farmhouse Strain 290,Bootleg Biology,BOO0290,Norwegian Farmhouse,Dry,69,77,High,15,26,15,No,Yes,,Norwegian Farmhouse style from Bootleg Biology
+WHC Ale Strain 291,WHC,WHC0291,Ale,Dry,74,76,Medium,17,30,12,No,No,Imperial Ale Strain 617,Ale style from WHC
+The Yeast Bay Saison Strain 292,The Yeast Bay,THE0292,Saison,Dry,70,76,Low,15,20,15,No,No,WHC Saison Strain 602,Saison style from The Yeast Bay
+Bootleg Biology Cider Strain 293,Bootleg Biology,BOO0293,Cider,Dry,77,87,Low,19,31,12,No,No,,Cider style from Bootleg Biology
+Bootleg Biology Cider Strain 294,Bootleg Biology,BOO0294,Cider,Liquid,73,75,Medium,15,21,8,No,No,,Cider style from Bootleg Biology
+AEB Cider Strain 295,AEB,AEB0295,Cider,Liquid,77,80,Low,19,34,15,No,No,East Coast Yeast Cider Strain 494,Cider style from AEB
+Angel Pediococcus Strain 296,Angel,ANG0296,Pediococcus,Liquid,65,69,High,12,19,8,No,No,,Pediococcus style from Angel
+Bluestone Ale Strain 297,Bluestone,BLU0297,Ale,Liquid,70,76,High,20,29,10,No,No,Fermentis Ale Strain 1256,Ale style from Bluestone
+WHC Saison Strain 298,WHC,WHC0298,Saison,Dry,71,81,Medium,13,28,12,No,No,,Saison style from WHC
+Imperial Pediococcus Strain 299,Imperial,IMP0299,Pediococcus,Liquid,67,76,High,15,24,8,No,No,East Coast Yeast Pediococcus Strain 1261,Pediococcus style from Imperial
+AEB Brettanomyces Strain 300,AEB,AEB0300,Brettanomyces,Dry,75,80,Medium,14,19,12,No,No,,Brettanomyces style from AEB
+Wyeast Lager Strain 301,Wyeast,WYE0301,Lager,Liquid,69,71,High,15,26,8,No,No,AEB Lager Strain 1181,Lager style from Wyeast
+Fermentis Blend Strain 302,Fermentis,FER0302,Blend,Dry,72,79,Low,11,19,15,No,No,Lallemand Blend Strain 45,Blend style from Fermentis
+The Yeast Bay Saison Strain 303,The Yeast Bay,THE0303,Saison,Liquid,68,71,Medium,11,20,14,No,No,,Saison style from The Yeast Bay
+AEB Saison Strain 304,AEB,AEB0304,Saison,Liquid,71,77,Low,14,29,10,No,No,,Saison style from AEB
+White Labs American Strain 305,White Labs,WHI0305,American,Liquid,65,75,Medium,18,30,8,No,No,,American style from White Labs
+Bluestone Czech Strain 306,Bluestone,BLU0306,Czech,Liquid,70,72,Medium,14,25,12,No,No,Bootleg Biology Czech Strain 846,Czech style from Bluestone
+AEB Norwegian Farmhouse Strain 307,AEB,AEB0307,Norwegian Farmhouse,Dry,70,78,Low,19,31,10,No,Yes,Renaissance Norwegian Farmhouse Strain 473,Norwegian Farmhouse style from AEB
+Omega American Strain 308,Omega,OME0308,American,Dry,73,79,Low,13,28,10,No,No,The Yeast Bay American Strain 512,American style from Omega
+Omega Pediococcus Strain 309,Omega,OME0309,Pediococcus,Liquid,74,84,Low,10,24,12,No,No,Fermentis Pediococcus Strain 509,Pediococcus style from Omega
+WHC Pediococcus Strain 310,WHC,WHC0310,Pediococcus,Liquid,78,85,Low,14,28,15,No,No,,Pediococcus style from WHC
+East Coast Yeast Belgian Strain 311,East Coast Yeast,EAS0311,Belgian,Dry,73,77,High,14,19,8,No,No,Fermentis Belgian Strain 313,Belgian style from East Coast Yeast
+Renaissance Saison Strain 312,Renaissance,REN0312,Saison,Liquid,73,76,Low,16,26,10,No,No,,Saison style from Renaissance
+Wyeast Cider Strain 313,Wyeast,WYE0313,Cider,Dry,76,80,High,17,27,8,No,No,,Cider style from Wyeast
+Bluestone Lactobacillus Strain 314,Bluestone,BLU0314,Lactobacillus,Liquid,69,76,High,13,28,14,No,No,AEB Lactobacillus Strain 729,Lactobacillus style from Bluestone
+Fermentis Saison Strain 315,Fermentis,FER0315,Saison,Dry,75,85,Low,11,21,8,Yes,No,,Saison style from Fermentis
+Omega Pediococcus Strain 316,Omega,OME0316,Pediococcus,Liquid,66,74,High,19,33,15,No,No,Omega Pediococcus Strain 73,Pediococcus style from Omega
+Mangrove Jack’s German Strain 317,Mangrove Jack’s,MAN0317,German,Dry,74,84,Medium,13,18,12,No,No,,German style from Mangrove Jack’s
+Wyeast Pediococcus Strain 318,Wyeast,WYE0318,Pediococcus,Dry,76,83,High,20,27,14,No,No,Imperial Pediococcus Strain 1175,Pediococcus style from Wyeast
+Inland Island Czech Strain 319,Inland Island,INL0319,Czech,Dry,75,79,High,15,28,15,No,No,White Labs Czech Strain 974,Czech style from Inland Island
+White Labs Cider Strain 320,White Labs,WHI0320,Cider,Liquid,68,76,High,17,22,12,No,No,Omega Cider Strain 598,Cider style from White Labs
+The Yeast Bay Brettanomyces Strain 321,The Yeast Bay,THE0321,Brettanomyces,Dry,75,81,Low,18,24,15,No,No,,Brettanomyces style from The Yeast Bay
+Mangrove Jack’s Brettanomyces Strain 322,Mangrove Jack’s,MAN0322,Brettanomyces,Liquid,74,81,Medium,13,28,12,No,No,,Brettanomyces style from Mangrove Jack’s
+Renaissance Saison Strain 323,Renaissance,REN0323,Saison,Dry,67,69,High,18,24,10,Yes,No,Inland Island Saison Strain 139,Saison style from Renaissance
+Fermentis English Strain 324,Fermentis,FER0324,English,Dry,77,82,Medium,17,28,12,No,No,The Yeast Bay English Strain 673,English style from Fermentis
+Imperial Saison Strain 325,Imperial,IMP0325,Saison,Liquid,71,76,High,11,23,15,No,No,Omega Saison Strain 78,Saison style from Imperial
+AEB Norwegian Farmhouse Strain 326,AEB,AEB0326,Norwegian Farmhouse,Liquid,68,73,Medium,16,30,10,No,Yes,Mangrove Jack’s Norwegian Farmhouse Strain 856,Norwegian Farmhouse style from AEB
+Omega German Strain 327,Omega,OME0327,German,Dry,73,77,Low,20,33,8,No,No,,German style from Omega
+Mangrove Jack’s Lager Strain 328,Mangrove Jack’s,MAN0328,Lager,Liquid,68,74,Low,12,19,8,No,No,AEB Lager Strain 221,Lager style from Mangrove Jack’s
+Bluestone Norwegian Farmhouse Strain 329,Bluestone,BLU0329,Norwegian Farmhouse,Liquid,74,82,Low,11,23,8,No,Yes,,Norwegian Farmhouse style from Bluestone
+Bootleg Biology Cider Strain 330,Bootleg Biology,BOO0330,Cider,Liquid,67,73,High,10,22,10,No,No,,Cider style from Bootleg Biology
+Inland Island Lager Strain 331,Inland Island,INL0331,Lager,Dry,77,82,High,16,31,14,No,No,Lallemand Lager Strain 525,Lager style from Inland Island
+AEB Kveik Strain 332,AEB,AEB0332,Kveik,Dry,77,84,Medium,13,24,14,No,Yes,,Kveik style from AEB
+AEB Blend Strain 333,AEB,AEB0333,Blend,Liquid,76,82,Low,20,33,15,No,No,Omega Blend Strain 1159,Blend style from AEB
+Renaissance American Strain 334,Renaissance,REN0334,American,Dry,68,77,Low,18,23,12,No,No,,American style from Renaissance
+Imperial Saison Strain 335,Imperial,IMP0335,Saison,Dry,69,71,High,12,25,12,Yes,No,,Saison style from Imperial
+Bootleg Biology Brettanomyces Strain 336,Bootleg Biology,BOO0336,Brettanomyces,Liquid,72,81,Medium,15,29,15,No,No,,Brettanomyces style from Bootleg Biology
+Mangrove Jack’s Brettanomyces Strain 337,Mangrove Jack’s,MAN0337,Brettanomyces,Liquid,75,84,High,13,24,10,No,No,The Yeast Bay Brettanomyces Strain 618,Brettanomyces style from Mangrove Jack’s
+Bluestone Brettanomyces Strain 338,Bluestone,BLU0338,Brettanomyces,Liquid,65,69,High,13,18,12,No,No,,Brettanomyces style from Bluestone
+Mangrove Jack’s Lactobacillus Strain 339,Mangrove Jack’s,MAN0339,Lactobacillus,Dry,67,74,Medium,18,31,8,No,No,Mangrove Jack’s Lactobacillus Strain 56,Lactobacillus style from Mangrove Jack’s
+Inland Island Ale Strain 340,Inland Island,INL0340,Ale,Liquid,78,87,Medium,12,24,10,No,No,,Ale style from Inland Island
+Bootleg Biology Brettanomyces Strain 341,Bootleg Biology,BOO0341,Brettanomyces,Liquid,78,82,Medium,17,28,8,No,No,White Labs Brettanomyces Strain 1054,Brettanomyces style from Bootleg Biology
+Escarpment Belgian Strain 342,Escarpment,ESC0342,Belgian,Liquid,78,80,Low,20,31,10,Yes,No,,Belgian style from Escarpment
+Imperial Norwegian Farmhouse Strain 343,Imperial,IMP0343,Norwegian Farmhouse,Liquid,68,72,Medium,10,22,15,No,Yes,Renaissance Norwegian Farmhouse Strain 1005,Norwegian Farmhouse style from Imperial
+Wyeast Cider Strain 344,Wyeast,WYE0344,Cider,Liquid,66,70,Low,12,20,10,No,No,East Coast Yeast Cider Strain 1148,Cider style from Wyeast
+AEB Lactobacillus Strain 345,AEB,AEB0345,Lactobacillus,Dry,77,86,Medium,15,21,15,No,No,Wyeast Lactobacillus Strain 498,Lactobacillus style from AEB
+Bootleg Biology Ale Strain 346,Bootleg Biology,BOO0346,Ale,Dry,75,79,Low,14,28,12,No,No,Inland Island Ale Strain 23,Ale style from Bootleg Biology
+Renaissance Saison Strain 347,Renaissance,REN0347,Saison,Dry,69,78,Medium,10,25,10,Yes,No,,Saison style from Renaissance
+Mangrove Jack’s Blend Strain 348,Mangrove Jack’s,MAN0348,Blend,Dry,77,83,High,16,28,15,No,No,WHC Blend Strain 464,Blend style from Mangrove Jack’s
+Bluestone Kveik Strain 349,Bluestone,BLU0349,Kveik,Liquid,74,80,High,10,23,14,No,Yes,,Kveik style from Bluestone
+The Yeast Bay Pediococcus Strain 350,The Yeast Bay,THE0350,Pediococcus,Liquid,72,79,Low,11,19,14,No,No,,Pediococcus style from The Yeast Bay
+Renaissance American Strain 351,Renaissance,REN0351,American,Dry,73,80,High,18,27,8,No,No,Mangrove Jack’s American Strain 934,American style from Renaissance
+Omega Norwegian Farmhouse Strain 352,Omega,OME0352,Norwegian Farmhouse,Dry,78,82,Low,20,33,8,No,Yes,Mangrove Jack’s Norwegian Farmhouse Strain 413,Norwegian Farmhouse style from Omega
+Inland Island American Strain 353,Inland Island,INL0353,American,Dry,71,74,High,15,28,14,No,No,,American style from Inland Island
+Inland Island Brettanomyces Strain 354,Inland Island,INL0354,Brettanomyces,Liquid,68,74,Medium,13,25,10,No,No,,Brettanomyces style from Inland Island
+Imperial American Strain 355,Imperial,IMP0355,American,Dry,70,76,Low,17,26,14,No,No,Omega American Strain 560,American style from Imperial
+Lallemand American Strain 356,Lallemand,LAL0356,American,Liquid,76,84,Medium,11,24,12,No,No,East Coast Yeast American Strain 1203,American style from Lallemand
+White Labs Blend Strain 357,White Labs,WHI0357,Blend,Liquid,73,81,Medium,14,25,10,No,No,Bluestone Blend Strain 844,Blend style from White Labs
+East Coast Yeast Cider Strain 358,East Coast Yeast,EAS0358,Cider,Dry,77,86,High,20,35,8,No,No,,Cider style from East Coast Yeast
+Wyeast Saison Strain 359,Wyeast,WYE0359,Saison,Liquid,73,76,Low,14,28,12,No,No,Inland Island Saison Strain 447,Saison style from Wyeast
+Lallemand Saison Strain 360,Lallemand,LAL0360,Saison,Liquid,65,69,Medium,14,19,14,Yes,No,,Saison style from Lallemand
+The Yeast Bay Norwegian Farmhouse Strain 361,The Yeast Bay,THE0361,Norwegian Farmhouse,Liquid,77,84,Medium,12,23,15,No,Yes,,Norwegian Farmhouse style from The Yeast Bay
+East Coast Yeast Belgian Strain 362,East Coast Yeast,EAS0362,Belgian,Liquid,77,81,Medium,18,31,15,Yes,No,Fermentis Belgian Strain 1070,Belgian style from East Coast Yeast
+Inland Island Saison Strain 363,Inland Island,INL0363,Saison,Dry,66,68,Medium,15,25,14,No,No,,Saison style from Inland Island
+Imperial Lager Strain 364,Imperial,IMP0364,Lager,Liquid,70,75,Medium,11,20,12,No,No,,Lager style from Imperial
+Mangrove Jack’s Lactobacillus Strain 365,Mangrove Jack’s,MAN0365,Lactobacillus,Liquid,72,81,Medium,19,24,15,No,No,,Lactobacillus style from Mangrove Jack’s
+Bootleg Biology Czech Strain 366,Bootleg Biology,BOO0366,Czech,Dry,65,72,High,15,30,15,No,No,,Czech style from Bootleg Biology
+Bluestone American Strain 367,Bluestone,BLU0367,American,Liquid,65,67,High,13,23,10,No,No,,American style from Bluestone
+AEB Lactobacillus Strain 368,AEB,AEB0368,Lactobacillus,Dry,68,73,High,18,27,10,No,No,Fermentis Lactobacillus Strain 1246,Lactobacillus style from AEB
+Fermentis Kveik Strain 369,Fermentis,FER0369,Kveik,Dry,73,80,High,12,23,8,No,Yes,Fermentis Kveik Strain 1254,Kveik style from Fermentis
+Omega Lager Strain 370,Omega,OME0370,Lager,Dry,68,74,High,12,26,15,No,No,,Lager style from Omega
+Angel English Strain 371,Angel,ANG0371,English,Dry,70,74,High,10,20,10,No,No,Renaissance English Strain 719,English style from Angel
+The Yeast Bay Czech Strain 372,The Yeast Bay,THE0372,Czech,Liquid,67,76,High,10,23,12,No,No,,Czech style from The Yeast Bay
+Mangrove Jack’s Blend Strain 373,Mangrove Jack’s,MAN0373,Blend,Liquid,78,87,Medium,16,30,8,No,No,,Blend style from Mangrove Jack’s
+Bluestone German Strain 374,Bluestone,BLU0374,German,Dry,66,68,High,15,21,12,No,No,,German style from Bluestone
+The Yeast Bay Ale Strain 375,The Yeast Bay,THE0375,Ale,Dry,67,69,High,12,26,14,No,No,East Coast Yeast Ale Strain 721,Ale style from The Yeast Bay
+White Labs Lactobacillus Strain 376,White Labs,WHI0376,Lactobacillus,Dry,71,81,Medium,15,26,8,No,No,,Lactobacillus style from White Labs
+Fermentis German Strain 377,Fermentis,FER0377,German,Dry,66,68,Medium,20,29,10,No,No,The Yeast Bay German Strain 287,German style from Fermentis
+Angel Pediococcus Strain 378,Angel,ANG0378,Pediococcus,Dry,65,73,Medium,15,30,8,No,No,WHC Pediococcus Strain 1115,Pediococcus style from Angel
+East Coast Yeast Blend Strain 379,East Coast Yeast,EAS0379,Blend,Liquid,69,79,High,19,33,10,No,No,Imperial Blend Strain 767,Blend style from East Coast Yeast
+Bluestone Kveik Strain 380,Bluestone,BLU0380,Kveik,Dry,76,82,Medium,11,17,10,No,Yes,Fermentis Kveik Strain 449,Kveik style from Bluestone
+WHC Blend Strain 381,WHC,WHC0381,Blend,Dry,67,69,Low,10,22,14,No,No,Wyeast Blend Strain 805,Blend style from WHC
+Inland Island Pediococcus Strain 382,Inland Island,INL0382,Pediococcus,Dry,66,75,High,13,19,10,No,No,,Pediococcus style from Inland Island
+Wyeast Norwegian Farmhouse Strain 383,Wyeast,WYE0383,Norwegian Farmhouse,Liquid,69,75,Low,14,20,10,No,Yes,,Norwegian Farmhouse style from Wyeast
+AEB Blend Strain 384,AEB,AEB0384,Blend,Dry,76,83,Low,18,32,15,No,No,,Blend style from AEB
+East Coast Yeast Czech Strain 385,East Coast Yeast,EAS0385,Czech,Dry,65,69,High,17,29,8,No,No,East Coast Yeast Czech Strain 49,Czech style from East Coast Yeast
+East Coast Yeast Lactobacillus Strain 386,East Coast Yeast,EAS0386,Lactobacillus,Liquid,70,72,Low,13,22,8,No,No,AEB Lactobacillus Strain 844,Lactobacillus style from East Coast Yeast
+Fermentis Blend Strain 387,Fermentis,FER0387,Blend,Dry,67,73,High,18,29,12,No,No,,Blend style from Fermentis
+Wyeast Lager Strain 388,Wyeast,WYE0388,Lager,Liquid,77,81,Low,19,26,15,No,No,,Lager style from Wyeast
+Renaissance Ale Strain 389,Renaissance,REN0389,Ale,Liquid,76,83,Low,15,23,12,No,No,Omega Ale Strain 226,Ale style from Renaissance
+Renaissance Brettanomyces Strain 390,Renaissance,REN0390,Brettanomyces,Liquid,65,72,High,14,28,14,No,No,Escarpment Brettanomyces Strain 297,Brettanomyces style from Renaissance
+AEB German Strain 391,AEB,AEB0391,German,Liquid,71,80,Low,17,28,8,No,No,,German style from AEB
+Bootleg Biology Ale Strain 392,Bootleg Biology,BOO0392,Ale,Liquid,73,83,High,11,16,12,No,No,,Ale style from Bootleg Biology
+Bluestone Belgian Strain 393,Bluestone,BLU0393,Belgian,Liquid,78,87,High,16,22,8,No,No,,Belgian style from Bluestone
+WHC Lactobacillus Strain 394,WHC,WHC0394,Lactobacillus,Liquid,66,76,Medium,13,26,14,No,No,Bootleg Biology Lactobacillus Strain 612,Lactobacillus style from WHC
+Omega Blend Strain 395,Omega,OME0395,Blend,Liquid,77,80,Low,18,32,10,No,No,,Blend style from Omega
+Renaissance Ale Strain 396,Renaissance,REN0396,Ale,Dry,69,79,High,19,33,8,No,No,Bluestone Ale Strain 166,Ale style from Renaissance
+AEB Czech Strain 397,AEB,AEB0397,Czech,Liquid,72,78,High,16,31,15,No,No,,Czech style from AEB
+Imperial Lactobacillus Strain 398,Imperial,IMP0398,Lactobacillus,Liquid,69,76,High,17,27,15,No,No,,Lactobacillus style from Imperial
+Bootleg Biology Ale Strain 399,Bootleg Biology,BOO0399,Ale,Liquid,66,71,Medium,20,33,8,No,No,,Ale style from Bootleg Biology
+Angel Saison Strain 400,Angel,ANG0400,Saison,Liquid,65,74,Medium,11,16,12,No,No,AEB Saison Strain 1271,Saison style from Angel
+Mangrove Jack’s Brettanomyces Strain 401,Mangrove Jack’s,MAN0401,Brettanomyces,Dry,76,83,High,18,23,14,No,No,The Yeast Bay Brettanomyces Strain 27,Brettanomyces style from Mangrove Jack’s
+Imperial Saison Strain 402,Imperial,IMP0402,Saison,Dry,74,81,High,18,30,14,Yes,No,Renaissance Saison Strain 209,Saison style from Imperial
+Angel Lager Strain 403,Angel,ANG0403,Lager,Liquid,68,78,Medium,12,19,14,No,No,East Coast Yeast Lager Strain 377,Lager style from Angel
+The Yeast Bay German Strain 404,The Yeast Bay,THE0404,German,Dry,75,79,Medium,20,26,8,No,No,,German style from The Yeast Bay
+East Coast Yeast Kveik Strain 405,East Coast Yeast,EAS0405,Kveik,Liquid,74,78,High,16,29,10,No,Yes,,Kveik style from East Coast Yeast
+Escarpment Saison Strain 406,Escarpment,ESC0406,Saison,Dry,66,73,Medium,18,31,8,Yes,No,WHC Saison Strain 163,Saison style from Escarpment
+Escarpment English Strain 407,Escarpment,ESC0407,English,Dry,74,79,High,17,29,8,No,No,,English style from Escarpment
+WHC American Strain 408,WHC,WHC0408,American,Dry,72,82,High,20,32,8,No,No,AEB American Strain 243,American style from WHC
+Escarpment Cider Strain 409,Escarpment,ESC0409,Cider,Dry,68,74,High,19,24,15,No,No,Bluestone Cider Strain 200,Cider style from Escarpment
+Angel American Strain 410,Angel,ANG0410,American,Liquid,68,78,Medium,13,21,15,No,No,Imperial American Strain 722,American style from Angel
+Bluestone Czech Strain 411,Bluestone,BLU0411,Czech,Dry,76,81,Low,11,26,8,No,No,,Czech style from Bluestone
+Imperial Cider Strain 412,Imperial,IMP0412,Cider,Dry,75,77,Medium,13,20,10,No,No,,Cider style from Imperial
+Bluestone Ale Strain 413,Bluestone,BLU0413,Ale,Dry,77,85,Low,12,17,8,No,No,Omega Ale Strain 1253,Ale style from Bluestone
+Inland Island Brettanomyces Strain 414,Inland Island,INL0414,Brettanomyces,Dry,78,88,Low,13,27,15,No,No,Imperial Brettanomyces Strain 805,Brettanomyces style from Inland Island
+AEB Belgian Strain 415,AEB,AEB0415,Belgian,Liquid,70,75,Low,10,24,10,Yes,No,Imperial Belgian Strain 720,Belgian style from AEB
+Fermentis Belgian Strain 416,Fermentis,FER0416,Belgian,Liquid,66,70,Medium,12,27,15,No,No,Angel Belgian Strain 637,Belgian style from Fermentis
+Angel Norwegian Farmhouse Strain 417,Angel,ANG0417,Norwegian Farmhouse,Dry,74,77,High,18,28,12,No,Yes,Omega Norwegian Farmhouse Strain 486,Norwegian Farmhouse style from Angel
+WHC Kveik Strain 418,WHC,WHC0418,Kveik,Liquid,74,76,Medium,10,24,15,No,Yes,Escarpment Kveik Strain 740,Kveik style from WHC
+WHC German Strain 419,WHC,WHC0419,German,Dry,72,82,Medium,17,26,12,No,No,,German style from WHC
+Escarpment Belgian Strain 420,Escarpment,ESC0420,Belgian,Liquid,73,81,High,15,27,14,No,No,Escarpment Belgian Strain 79,Belgian style from Escarpment
+Fermentis Cider Strain 421,Fermentis,FER0421,Cider,Dry,77,84,Low,20,25,12,No,No,,Cider style from Fermentis
+Inland Island Belgian Strain 422,Inland Island,INL0422,Belgian,Liquid,77,83,High,18,29,14,No,No,,Belgian style from Inland Island
+White Labs Saison Strain 423,White Labs,WHI0423,Saison,Dry,69,76,Medium,10,17,14,No,No,,Saison style from White Labs
+Omega Blend Strain 424,Omega,OME0424,Blend,Liquid,65,74,Medium,12,20,12,No,No,,Blend style from Omega
+The Yeast Bay Pediococcus Strain 425,The Yeast Bay,THE0425,Pediococcus,Liquid,65,69,Medium,19,30,14,No,No,,Pediococcus style from The Yeast Bay
+Omega Cider Strain 426,Omega,OME0426,Cider,Dry,67,77,Low,15,29,15,No,No,,Cider style from Omega
+White Labs Blend Strain 427,White Labs,WHI0427,Blend,Dry,78,80,Medium,14,19,12,No,No,Angel Blend Strain 938,Blend style from White Labs
+Renaissance German Strain 428,Renaissance,REN0428,German,Dry,65,70,Medium,20,32,8,No,No,,German style from Renaissance
+Renaissance Norwegian Farmhouse Strain 429,Renaissance,REN0429,Norwegian Farmhouse,Dry,75,84,High,18,31,8,No,Yes,,Norwegian Farmhouse style from Renaissance
+AEB Saison Strain 430,AEB,AEB0430,Saison,Liquid,75,78,High,10,18,14,No,No,,Saison style from AEB
+The Yeast Bay American Strain 431,The Yeast Bay,THE0431,American,Dry,68,73,Low,19,32,14,No,No,,American style from The Yeast Bay
+Inland Island Pediococcus Strain 432,Inland Island,INL0432,Pediococcus,Liquid,66,70,High,18,31,15,No,No,,Pediococcus style from Inland Island
+Fermentis Ale Strain 433,Fermentis,FER0433,Ale,Dry,78,80,Medium,15,22,12,No,No,,Ale style from Fermentis
+Fermentis Brettanomyces Strain 434,Fermentis,FER0434,Brettanomyces,Dry,78,83,High,18,29,10,No,No,Imperial Brettanomyces Strain 655,Brettanomyces style from Fermentis
+Mangrove Jack’s Cider Strain 435,Mangrove Jack’s,MAN0435,Cider,Liquid,73,81,High,15,24,15,No,No,,Cider style from Mangrove Jack’s
+Fermentis Blend Strain 436,Fermentis,FER0436,Blend,Liquid,73,76,Low,13,20,12,No,No,Imperial Blend Strain 278,Blend style from Fermentis
+Lallemand English Strain 437,Lallemand,LAL0437,English,Dry,67,75,Medium,10,24,10,No,No,,English style from Lallemand
+WHC Norwegian Farmhouse Strain 438,WHC,WHC0438,Norwegian Farmhouse,Dry,75,80,Medium,17,28,8,No,Yes,Fermentis Norwegian Farmhouse Strain 632,Norwegian Farmhouse style from WHC
+White Labs Ale Strain 439,White Labs,WHI0439,Ale,Liquid,73,79,Low,19,32,10,No,No,White Labs Ale Strain 705,Ale style from White Labs
+Bootleg Biology Cider Strain 440,Bootleg Biology,BOO0440,Cider,Liquid,76,85,Medium,10,25,15,No,No,,Cider style from Bootleg Biology
+Omega American Strain 441,Omega,OME0441,American,Dry,69,79,High,14,23,8,No,No,,American style from Omega
+Mangrove Jack’s Lactobacillus Strain 442,Mangrove Jack’s,MAN0442,Lactobacillus,Liquid,78,83,High,13,24,15,No,No,AEB Lactobacillus Strain 845,Lactobacillus style from Mangrove Jack’s
+Wyeast Czech Strain 443,Wyeast,WYE0443,Czech,Liquid,72,79,Low,13,27,8,No,No,Bootleg Biology Czech Strain 169,Czech style from Wyeast
+Renaissance Cider Strain 444,Renaissance,REN0444,Cider,Dry,70,78,High,14,23,15,No,No,Escarpment Cider Strain 833,Cider style from Renaissance
+Angel Saison Strain 445,Angel,ANG0445,Saison,Dry,70,72,Low,10,16,12,Yes,No,,Saison style from Angel
+Bluestone American Strain 446,Bluestone,BLU0446,American,Dry,69,72,High,14,26,15,No,No,,American style from Bluestone
+Escarpment Pediococcus Strain 447,Escarpment,ESC0447,Pediococcus,Liquid,74,83,Low,11,21,12,No,No,Omega Pediococcus Strain 528,Pediococcus style from Escarpment
+Fermentis Saison Strain 448,Fermentis,FER0448,Saison,Liquid,66,73,High,14,28,12,No,No,Renaissance Saison Strain 35,Saison style from Fermentis
+Renaissance Ale Strain 449,Renaissance,REN0449,Ale,Dry,67,74,High,13,26,8,No,No,Lallemand Ale Strain 462,Ale style from Renaissance
+Bootleg Biology Cider Strain 450,Bootleg Biology,BOO0450,Cider,Dry,75,84,Low,20,31,12,No,No,AEB Cider Strain 103,Cider style from Bootleg Biology
+Omega Belgian Strain 451,Omega,OME0451,Belgian,Liquid,77,87,Medium,20,30,12,Yes,No,,Belgian style from Omega
+White Labs Czech Strain 452,White Labs,WHI0452,Czech,Dry,75,77,High,19,25,8,No,No,Angel Czech Strain 101,Czech style from White Labs
+Renaissance Cider Strain 453,Renaissance,REN0453,Cider,Liquid,75,81,Medium,11,19,12,No,No,WHC Cider Strain 790,Cider style from Renaissance
+Imperial Lager Strain 454,Imperial,IMP0454,Lager,Dry,74,77,Low,11,16,12,No,No,Omega Lager Strain 848,Lager style from Imperial
+East Coast Yeast American Strain 455,East Coast Yeast,EAS0455,American,Dry,77,79,High,18,26,15,No,No,Omega American Strain 858,American style from East Coast Yeast
+Renaissance American Strain 456,Renaissance,REN0456,American,Dry,65,70,Low,18,26,10,No,No,,American style from Renaissance
+The Yeast Bay Brettanomyces Strain 457,The Yeast Bay,THE0457,Brettanomyces,Dry,66,72,High,13,26,12,No,No,,Brettanomyces style from The Yeast Bay
+East Coast Yeast Blend Strain 458,East Coast Yeast,EAS0458,Blend,Liquid,78,82,Medium,15,29,15,No,No,,Blend style from East Coast Yeast
+Fermentis Norwegian Farmhouse Strain 459,Fermentis,FER0459,Norwegian Farmhouse,Dry,76,85,High,14,20,14,No,Yes,Escarpment Norwegian Farmhouse Strain 1007,Norwegian Farmhouse style from Fermentis
+Escarpment Norwegian Farmhouse Strain 460,Escarpment,ESC0460,Norwegian Farmhouse,Liquid,75,78,Medium,13,20,12,No,Yes,,Norwegian Farmhouse style from Escarpment
+Escarpment Norwegian Farmhouse Strain 461,Escarpment,ESC0461,Norwegian Farmhouse,Dry,67,69,Low,15,26,8,No,Yes,Mangrove Jack’s Norwegian Farmhouse Strain 143,Norwegian Farmhouse style from Escarpment
+Lallemand Brettanomyces Strain 462,Lallemand,LAL0462,Brettanomyces,Liquid,68,73,Medium,13,18,10,No,No,,Brettanomyces style from Lallemand
+AEB Pediococcus Strain 463,AEB,AEB0463,Pediococcus,Dry,74,76,High,14,28,15,No,No,,Pediococcus style from AEB
+East Coast Yeast Blend Strain 464,East Coast Yeast,EAS0464,Blend,Dry,75,82,High,10,20,14,No,No,Imperial Blend Strain 110,Blend style from East Coast Yeast
+Wyeast Brettanomyces Strain 465,Wyeast,WYE0465,Brettanomyces,Liquid,73,79,Low,17,27,10,No,No,,Brettanomyces style from Wyeast
+Lallemand American Strain 466,Lallemand,LAL0466,American,Dry,75,80,Medium,11,19,10,No,No,Escarpment American Strain 565,American style from Lallemand
+Fermentis Lager Strain 467,Fermentis,FER0467,Lager,Liquid,68,78,Low,10,23,14,No,No,,Lager style from Fermentis
+Wyeast Pediococcus Strain 468,Wyeast,WYE0468,Pediococcus,Dry,74,83,Medium,11,17,15,No,No,,Pediococcus style from Wyeast
+Bluestone Lactobacillus Strain 469,Bluestone,BLU0469,Lactobacillus,Liquid,67,75,Low,13,22,8,No,No,,Lactobacillus style from Bluestone
+Lallemand Kveik Strain 470,Lallemand,LAL0470,Kveik,Liquid,70,76,High,18,32,15,No,Yes,,Kveik style from Lallemand
+Bluestone Kveik Strain 471,Bluestone,BLU0471,Kveik,Dry,76,80,High,17,24,10,No,Yes,Inland Island Kveik Strain 1296,Kveik style from Bluestone
+Mangrove Jack’s Czech Strain 472,Mangrove Jack’s,MAN0472,Czech,Dry,70,78,Low,13,19,12,No,No,Bootleg Biology Czech Strain 1197,Czech style from Mangrove Jack’s
+WHC Czech Strain 473,WHC,WHC0473,Czech,Liquid,71,80,Medium,17,28,8,No,No,,Czech style from WHC
+WHC Blend Strain 474,WHC,WHC0474,Blend,Dry,72,82,High,17,32,12,No,No,Wyeast Blend Strain 972,Blend style from WHC
+Mangrove Jack’s English Strain 475,Mangrove Jack’s,MAN0475,English,Dry,68,73,Medium,16,29,14,No,No,East Coast Yeast English Strain 331,English style from Mangrove Jack’s
+Mangrove Jack’s Norwegian Farmhouse Strain 476,Mangrove Jack’s,MAN0476,Norwegian Farmhouse,Dry,74,80,Low,16,30,12,No,Yes,,Norwegian Farmhouse style from Mangrove Jack’s
+The Yeast Bay American Strain 477,The Yeast Bay,THE0477,American,Liquid,65,74,Low,19,30,14,No,No,Omega American Strain 772,American style from The Yeast Bay
+Wyeast American Strain 478,Wyeast,WYE0478,American,Liquid,74,82,Medium,10,23,14,No,No,WHC American Strain 640,American style from Wyeast
+Omega Kveik Strain 479,Omega,OME0479,Kveik,Dry,73,76,High,10,25,8,No,Yes,,Kveik style from Omega
+The Yeast Bay Norwegian Farmhouse Strain 480,The Yeast Bay,THE0480,Norwegian Farmhouse,Dry,76,81,High,12,25,12,No,Yes,Angel Norwegian Farmhouse Strain 264,Norwegian Farmhouse style from The Yeast Bay
+Bluestone Belgian Strain 481,Bluestone,BLU0481,Belgian,Liquid,77,79,High,16,26,12,No,No,,Belgian style from Bluestone
+Escarpment German Strain 482,Escarpment,ESC0482,German,Liquid,71,77,Medium,18,31,8,No,No,,German style from Escarpment
+Wyeast English Strain 483,Wyeast,WYE0483,English,Liquid,71,74,High,10,21,12,No,No,Omega English Strain 382,English style from Wyeast
+WHC Norwegian Farmhouse Strain 484,WHC,WHC0484,Norwegian Farmhouse,Liquid,66,74,High,13,24,8,No,Yes,Bluestone Norwegian Farmhouse Strain 1039,Norwegian Farmhouse style from WHC
+WHC Saison Strain 485,WHC,WHC0485,Saison,Liquid,73,76,Medium,13,18,15,Yes,No,,Saison style from WHC
+Omega Lactobacillus Strain 486,Omega,OME0486,Lactobacillus,Dry,76,84,Low,12,21,8,No,No,Wyeast Lactobacillus Strain 926,Lactobacillus style from Omega
+Fermentis Lager Strain 487,Fermentis,FER0487,Lager,Liquid,78,80,Medium,12,24,8,No,No,,Lager style from Fermentis
+East Coast Yeast Czech Strain 488,East Coast Yeast,EAS0488,Czech,Dry,67,69,Low,15,26,8,No,No,Imperial Czech Strain 387,Czech style from East Coast Yeast
+Mangrove Jack’s Lactobacillus Strain 489,Mangrove Jack’s,MAN0489,Lactobacillus,Dry,70,78,High,13,25,10,No,No,Lallemand Lactobacillus Strain 5,Lactobacillus style from Mangrove Jack’s
+Escarpment Brettanomyces Strain 490,Escarpment,ESC0490,Brettanomyces,Dry,73,77,Medium,18,28,12,No,No,,Brettanomyces style from Escarpment
+Escarpment Lactobacillus Strain 491,Escarpment,ESC0491,Lactobacillus,Dry,78,85,Medium,12,22,10,No,No,,Lactobacillus style from Escarpment
+East Coast Yeast Lactobacillus Strain 492,East Coast Yeast,EAS0492,Lactobacillus,Liquid,76,79,High,17,25,12,No,No,,Lactobacillus style from East Coast Yeast
+Lallemand Brettanomyces Strain 493,Lallemand,LAL0493,Brettanomyces,Dry,73,77,High,11,21,8,No,No,Bootleg Biology Brettanomyces Strain 163,Brettanomyces style from Lallemand
+Imperial Belgian Strain 494,Imperial,IMP0494,Belgian,Dry,73,79,High,17,30,8,No,No,Renaissance Belgian Strain 387,Belgian style from Imperial
+Angel Cider Strain 495,Angel,ANG0495,Cider,Dry,70,78,High,16,29,12,No,No,,Cider style from Angel
+Bootleg Biology Belgian Strain 496,Bootleg Biology,BOO0496,Belgian,Liquid,73,76,Low,18,26,15,Yes,No,Lallemand Belgian Strain 1157,Belgian style from Bootleg Biology
+Mangrove Jack’s Czech Strain 497,Mangrove Jack’s,MAN0497,Czech,Dry,76,79,Low,10,23,8,No,No,WHC Czech Strain 452,Czech style from Mangrove Jack’s
+Omega American Strain 498,Omega,OME0498,American,Dry,65,71,Medium,12,17,10,No,No,Fermentis American Strain 258,American style from Omega
+Angel Belgian Strain 499,Angel,ANG0499,Belgian,Liquid,71,81,Low,18,26,10,Yes,No,The Yeast Bay Belgian Strain 147,Belgian style from Angel
+Inland Island Lager Strain 500,Inland Island,INL0500,Lager,Liquid,71,76,Low,20,29,12,No,No,,Lager style from Inland Island
+Renaissance Czech Strain 501,Renaissance,REN0501,Czech,Dry,77,84,Low,18,30,15,No,No,,Czech style from Renaissance
+Fermentis Czech Strain 502,Fermentis,FER0502,Czech,Liquid,76,79,Medium,14,25,15,No,No,WHC Czech Strain 831,Czech style from Fermentis
+White Labs English Strain 503,White Labs,WHI0503,English,Dry,68,75,Low,14,20,14,No,No,East Coast Yeast English Strain 802,English style from White Labs
+Imperial Cider Strain 504,Imperial,IMP0504,Cider,Dry,66,76,Medium,15,23,8,No,No,Angel Cider Strain 647,Cider style from Imperial
+WHC Kveik Strain 505,WHC,WHC0505,Kveik,Dry,65,67,Low,11,23,8,No,Yes,,Kveik style from WHC
+Omega Saison Strain 506,Omega,OME0506,Saison,Dry,66,69,High,10,20,15,No,No,The Yeast Bay Saison Strain 242,Saison style from Omega
+Mangrove Jack’s Blend Strain 507,Mangrove Jack’s,MAN0507,Blend,Liquid,65,74,Medium,16,26,14,No,No,,Blend style from Mangrove Jack’s
+Mangrove Jack’s Czech Strain 508,Mangrove Jack’s,MAN0508,Czech,Dry,70,79,High,20,33,15,No,No,WHC Czech Strain 219,Czech style from Mangrove Jack’s
+Omega Cider Strain 509,Omega,OME0509,Cider,Liquid,72,81,High,16,22,15,No,No,,Cider style from Omega
+Angel Cider Strain 510,Angel,ANG0510,Cider,Dry,65,73,Low,10,20,12,No,No,The Yeast Bay Cider Strain 1229,Cider style from Angel
+The Yeast Bay Kveik Strain 511,The Yeast Bay,THE0511,Kveik,Liquid,73,80,Medium,17,23,15,No,Yes,Mangrove Jack’s Kveik Strain 442,Kveik style from The Yeast Bay
+Angel Pediococcus Strain 512,Angel,ANG0512,Pediococcus,Dry,71,74,Low,14,24,8,No,No,,Pediococcus style from Angel
+Renaissance Cider Strain 513,Renaissance,REN0513,Cider,Dry,65,73,Low,17,28,10,No,No,WHC Cider Strain 1241,Cider style from Renaissance
+Inland Island Brettanomyces Strain 514,Inland Island,INL0514,Brettanomyces,Liquid,73,76,Medium,13,28,12,No,No,,Brettanomyces style from Inland Island
+Angel Pediococcus Strain 515,Angel,ANG0515,Pediococcus,Liquid,76,78,High,10,18,10,No,No,Inland Island Pediococcus Strain 886,Pediococcus style from Angel
+Omega Lager Strain 516,Omega,OME0516,Lager,Dry,70,73,Low,16,23,12,No,No,Fermentis Lager Strain 846,Lager style from Omega
+Imperial Kveik Strain 517,Imperial,IMP0517,Kveik,Liquid,69,79,Medium,20,34,8,No,Yes,WHC Kveik Strain 672,Kveik style from Imperial
+Bluestone Lactobacillus Strain 518,Bluestone,BLU0518,Lactobacillus,Liquid,78,86,Medium,14,22,12,No,No,Lallemand Lactobacillus Strain 490,Lactobacillus style from Bluestone
+Angel Kveik Strain 519,Angel,ANG0519,Kveik,Liquid,68,70,Medium,12,23,15,No,Yes,,Kveik style from Angel
+Angel American Strain 520,Angel,ANG0520,American,Dry,78,82,Medium,14,22,12,No,No,,American style from Angel
+Fermentis Kveik Strain 521,Fermentis,FER0521,Kveik,Dry,72,79,High,10,20,15,No,Yes,Mangrove Jack’s Kveik Strain 178,Kveik style from Fermentis
+Angel American Strain 522,Angel,ANG0522,American,Dry,73,79,Medium,15,24,8,No,No,,American style from Angel
+Omega German Strain 523,Omega,OME0523,German,Liquid,70,73,Low,19,31,15,No,No,,German style from Omega
+Wyeast Saison Strain 524,Wyeast,WYE0524,Saison,Dry,76,84,Medium,17,29,15,Yes,No,Bluestone Saison Strain 754,Saison style from Wyeast
+Bootleg Biology English Strain 525,Bootleg Biology,BOO0525,English,Liquid,75,79,High,20,28,10,No,No,,English style from Bootleg Biology
+Bootleg Biology Saison Strain 526,Bootleg Biology,BOO0526,Saison,Dry,72,74,High,14,26,8,Yes,No,,Saison style from Bootleg Biology
+AEB Belgian Strain 527,AEB,AEB0527,Belgian,Dry,70,75,Low,18,27,12,Yes,No,East Coast Yeast Belgian Strain 407,Belgian style from AEB
+Inland Island Ale Strain 528,Inland Island,INL0528,Ale,Dry,68,70,High,18,29,15,No,No,AEB Ale Strain 727,Ale style from Inland Island
+East Coast Yeast German Strain 529,East Coast Yeast,EAS0529,German,Dry,69,78,High,13,25,8,No,No,,German style from East Coast Yeast
+Bluestone German Strain 530,Bluestone,BLU0530,German,Dry,76,85,Medium,16,28,14,No,No,,German style from Bluestone
+Fermentis Lager Strain 531,Fermentis,FER0531,Lager,Liquid,66,75,High,15,22,12,No,No,East Coast Yeast Lager Strain 1203,Lager style from Fermentis
+Omega Lager Strain 532,Omega,OME0532,Lager,Liquid,68,70,Medium,18,28,14,No,No,Renaissance Lager Strain 1124,Lager style from Omega
+The Yeast Bay Cider Strain 533,The Yeast Bay,THE0533,Cider,Dry,78,87,High,17,24,8,No,No,,Cider style from The Yeast Bay
+Omega Czech Strain 534,Omega,OME0534,Czech,Liquid,73,78,Low,18,29,12,No,No,The Yeast Bay Czech Strain 663,Czech style from Omega
+Escarpment Cider Strain 535,Escarpment,ESC0535,Cider,Liquid,68,78,High,16,30,12,No,No,Escarpment Cider Strain 428,Cider style from Escarpment
+Omega Cider Strain 536,Omega,OME0536,Cider,Dry,73,80,Low,18,23,14,No,No,WHC Cider Strain 552,Cider style from Omega
+Lallemand Saison Strain 537,Lallemand,LAL0537,Saison,Liquid,73,75,Low,14,28,15,No,No,,Saison style from Lallemand
+Lallemand Norwegian Farmhouse Strain 538,Lallemand,LAL0538,Norwegian Farmhouse,Liquid,74,78,Low,20,25,8,No,Yes,,Norwegian Farmhouse style from Lallemand
+Lallemand Norwegian Farmhouse Strain 539,Lallemand,LAL0539,Norwegian Farmhouse,Dry,72,75,Medium,16,21,12,No,Yes,Escarpment Norwegian Farmhouse Strain 781,Norwegian Farmhouse style from Lallemand
+AEB Lactobacillus Strain 540,AEB,AEB0540,Lactobacillus,Liquid,69,77,High,20,31,14,No,No,,Lactobacillus style from AEB
+Imperial Cider Strain 541,Imperial,IMP0541,Cider,Dry,70,74,High,19,34,12,No,No,,Cider style from Imperial
+Inland Island Saison Strain 542,Inland Island,INL0542,Saison,Liquid,78,86,Low,20,29,15,Yes,No,The Yeast Bay Saison Strain 889,Saison style from Inland Island
+Bootleg Biology Ale Strain 543,Bootleg Biology,BOO0543,Ale,Liquid,74,83,High,19,34,10,No,No,,Ale style from Bootleg Biology
+Inland Island American Strain 544,Inland Island,INL0544,American,Dry,78,82,High,12,24,14,No,No,Mangrove Jack’s American Strain 9,American style from Inland Island
+AEB Lager Strain 545,AEB,AEB0545,Lager,Liquid,65,71,High,14,22,15,No,No,The Yeast Bay Lager Strain 1018,Lager style from AEB
+Inland Island English Strain 546,Inland Island,INL0546,English,Liquid,73,79,Low,18,23,12,No,No,,English style from Inland Island
+Mangrove Jack’s English Strain 547,Mangrove Jack’s,MAN0547,English,Liquid,74,83,Low,10,23,15,No,No,AEB English Strain 383,English style from Mangrove Jack’s
+Bluestone Saison Strain 548,Bluestone,BLU0548,Saison,Liquid,75,84,Low,10,18,12,Yes,No,Fermentis Saison Strain 668,Saison style from Bluestone
+Fermentis Pediococcus Strain 549,Fermentis,FER0549,Pediococcus,Dry,72,77,High,10,15,14,No,No,Bootleg Biology Pediococcus Strain 606,Pediococcus style from Fermentis
+Lallemand Kveik Strain 550,Lallemand,LAL0550,Kveik,Liquid,66,74,Low,17,27,14,No,Yes,Mangrove Jack’s Kveik Strain 1212,Kveik style from Lallemand
+Mangrove Jack’s Cider Strain 551,Mangrove Jack’s,MAN0551,Cider,Liquid,70,74,Medium,10,19,10,No,No,Imperial Cider Strain 97,Cider style from Mangrove Jack’s
+Bluestone Kveik Strain 552,Bluestone,BLU0552,Kveik,Liquid,65,69,High,18,30,10,No,Yes,,Kveik style from Bluestone
+White Labs Saison Strain 553,White Labs,WHI0553,Saison,Liquid,74,83,Medium,16,21,12,No,No,,Saison style from White Labs
+White Labs Belgian Strain 554,White Labs,WHI0554,Belgian,Liquid,67,70,Low,17,32,8,Yes,No,,Belgian style from White Labs
+East Coast Yeast German Strain 555,East Coast Yeast,EAS0555,German,Liquid,73,79,Medium,15,21,12,No,No,,German style from East Coast Yeast
+Fermentis Lactobacillus Strain 556,Fermentis,FER0556,Lactobacillus,Dry,70,76,Medium,11,26,15,No,No,Wyeast Lactobacillus Strain 694,Lactobacillus style from Fermentis
+Renaissance Pediococcus Strain 557,Renaissance,REN0557,Pediococcus,Liquid,78,88,High,20,28,10,No,No,Mangrove Jack’s Pediococcus Strain 1108,Pediococcus style from Renaissance
+Escarpment Brettanomyces Strain 558,Escarpment,ESC0558,Brettanomyces,Liquid,68,78,Low,13,26,10,No,No,Bluestone Brettanomyces Strain 466,Brettanomyces style from Escarpment
+East Coast Yeast Brettanomyces Strain 559,East Coast Yeast,EAS0559,Brettanomyces,Liquid,77,87,High,16,25,14,No,No,Imperial Brettanomyces Strain 755,Brettanomyces style from East Coast Yeast
+Renaissance Blend Strain 560,Renaissance,REN0560,Blend,Liquid,66,73,Medium,20,33,10,No,No,,Blend style from Renaissance
+Inland Island Cider Strain 561,Inland Island,INL0561,Cider,Liquid,66,73,Medium,16,31,10,No,No,,Cider style from Inland Island
+Bluestone Blend Strain 562,Bluestone,BLU0562,Blend,Dry,65,72,Medium,11,23,15,No,No,,Blend style from Bluestone
+Imperial Norwegian Farmhouse Strain 563,Imperial,IMP0563,Norwegian Farmhouse,Dry,67,76,Low,11,24,14,No,Yes,,Norwegian Farmhouse style from Imperial
+Omega Kveik Strain 564,Omega,OME0564,Kveik,Dry,71,81,Low,18,29,15,No,Yes,Lallemand Kveik Strain 222,Kveik style from Omega
+Renaissance English Strain 565,Renaissance,REN0565,English,Liquid,75,80,Medium,11,26,15,No,No,,English style from Renaissance
+Bootleg Biology English Strain 566,Bootleg Biology,BOO0566,English,Dry,66,75,Low,15,20,10,No,No,Escarpment English Strain 573,English style from Bootleg Biology
+East Coast Yeast Cider Strain 567,East Coast Yeast,EAS0567,Cider,Dry,73,77,High,10,21,12,No,No,,Cider style from East Coast Yeast
+Lallemand Saison Strain 568,Lallemand,LAL0568,Saison,Liquid,73,83,Low,14,29,8,No,No,Angel Saison Strain 1217,Saison style from Lallemand
+Bluestone Lactobacillus Strain 569,Bluestone,BLU0569,Lactobacillus,Liquid,75,79,Medium,13,19,10,No,No,,Lactobacillus style from Bluestone
+WHC Belgian Strain 570,WHC,WHC0570,Belgian,Liquid,67,75,Low,20,34,15,Yes,No,WHC Belgian Strain 957,Belgian style from WHC
+WHC Blend Strain 571,WHC,WHC0571,Blend,Liquid,70,79,Medium,18,29,15,No,No,Renaissance Blend Strain 933,Blend style from WHC
+Escarpment Cider Strain 572,Escarpment,ESC0572,Cider,Dry,73,82,Medium,15,23,10,No,No,,Cider style from Escarpment
+Bluestone Pediococcus Strain 573,Bluestone,BLU0573,Pediococcus,Liquid,77,81,Medium,16,31,10,No,No,,Pediococcus style from Bluestone
+Fermentis Cider Strain 574,Fermentis,FER0574,Cider,Liquid,72,76,Medium,20,33,15,No,No,Renaissance Cider Strain 1126,Cider style from Fermentis
+AEB Ale Strain 575,AEB,AEB0575,Ale,Liquid,77,84,High,20,25,15,No,No,,Ale style from AEB
+The Yeast Bay Brettanomyces Strain 576,The Yeast Bay,THE0576,Brettanomyces,Liquid,72,77,High,18,31,12,No,No,,Brettanomyces style from The Yeast Bay
+The Yeast Bay Belgian Strain 577,The Yeast Bay,THE0577,Belgian,Dry,75,81,High,15,25,8,Yes,No,Lallemand Belgian Strain 107,Belgian style from The Yeast Bay
+Bootleg Biology Brettanomyces Strain 578,Bootleg Biology,BOO0578,Brettanomyces,Dry,69,76,Medium,13,27,15,No,No,,Brettanomyces style from Bootleg Biology
+Escarpment Norwegian Farmhouse Strain 579,Escarpment,ESC0579,Norwegian Farmhouse,Liquid,71,74,High,14,19,15,No,Yes,Omega Norwegian Farmhouse Strain 50,Norwegian Farmhouse style from Escarpment
+Mangrove Jack’s Czech Strain 580,Mangrove Jack’s,MAN0580,Czech,Liquid,77,80,Medium,10,25,14,No,No,Bluestone Czech Strain 1269,Czech style from Mangrove Jack’s
+Omega Ale Strain 581,Omega,OME0581,Ale,Liquid,76,79,High,17,31,10,No,No,,Ale style from Omega
+Wyeast English Strain 582,Wyeast,WYE0582,English,Liquid,71,77,Medium,12,26,8,No,No,,English style from Wyeast
+White Labs Kveik Strain 583,White Labs,WHI0583,Kveik,Liquid,73,80,Low,11,22,12,No,Yes,WHC Kveik Strain 764,Kveik style from White Labs
+White Labs Kveik Strain 584,White Labs,WHI0584,Kveik,Dry,75,80,Medium,18,25,10,No,Yes,East Coast Yeast Kveik Strain 196,Kveik style from White Labs
+The Yeast Bay Blend Strain 585,The Yeast Bay,THE0585,Blend,Liquid,71,77,High,10,25,15,No,No,,Blend style from The Yeast Bay
+Bootleg Biology Lager Strain 586,Bootleg Biology,BOO0586,Lager,Liquid,71,80,Low,11,16,10,No,No,Fermentis Lager Strain 106,Lager style from Bootleg Biology
+East Coast Yeast Blend Strain 587,East Coast Yeast,EAS0587,Blend,Liquid,75,81,Low,19,30,15,No,No,,Blend style from East Coast Yeast
+Lallemand German Strain 588,Lallemand,LAL0588,German,Liquid,67,74,Medium,12,25,12,No,No,,German style from Lallemand
+White Labs Kveik Strain 589,White Labs,WHI0589,Kveik,Dry,69,73,High,19,29,8,No,Yes,,Kveik style from White Labs
+Imperial Kveik Strain 590,Imperial,IMP0590,Kveik,Dry,73,83,Medium,12,21,15,No,Yes,Bootleg Biology Kveik Strain 160,Kveik style from Imperial
+East Coast Yeast Czech Strain 591,East Coast Yeast,EAS0591,Czech,Dry,78,82,Medium,12,19,12,No,No,,Czech style from East Coast Yeast
+WHC Brettanomyces Strain 592,WHC,WHC0592,Brettanomyces,Dry,73,80,High,11,25,12,No,No,,Brettanomyces style from WHC
+East Coast Yeast English Strain 593,East Coast Yeast,EAS0593,English,Liquid,69,73,Low,18,30,12,No,No,,English style from East Coast Yeast
+White Labs Lager Strain 594,White Labs,WHI0594,Lager,Dry,76,84,Medium,14,19,12,No,No,Lallemand Lager Strain 395,Lager style from White Labs
+Renaissance Cider Strain 595,Renaissance,REN0595,Cider,Dry,78,82,Low,17,25,15,No,No,Escarpment Cider Strain 870,Cider style from Renaissance
+AEB American Strain 596,AEB,AEB0596,American,Dry,69,78,Medium,10,22,10,No,No,Bootleg Biology American Strain 159,American style from AEB
+Wyeast Ale Strain 597,Wyeast,WYE0597,Ale,Liquid,65,70,Low,20,29,15,No,No,,Ale style from Wyeast
+Bluestone Czech Strain 598,Bluestone,BLU0598,Czech,Liquid,72,78,Medium,10,19,10,No,No,,Czech style from Bluestone
+Bootleg Biology Kveik Strain 599,Bootleg Biology,BOO0599,Kveik,Dry,69,76,Low,10,15,14,No,Yes,White Labs Kveik Strain 273,Kveik style from Bootleg Biology
+Angel Cider Strain 600,Angel,ANG0600,Cider,Liquid,76,80,High,12,21,10,No,No,Inland Island Cider Strain 607,Cider style from Angel
+AEB Ale Strain 601,AEB,AEB0601,Ale,Dry,71,78,Low,18,27,8,No,No,,Ale style from AEB
+Bluestone Saison Strain 602,Bluestone,BLU0602,Saison,Dry,73,80,Low,13,19,8,Yes,No,AEB Saison Strain 199,Saison style from Bluestone
+Mangrove Jack’s Kveik Strain 603,Mangrove Jack’s,MAN0603,Kveik,Dry,77,81,Medium,17,23,8,No,Yes,,Kveik style from Mangrove Jack’s
+Bluestone Norwegian Farmhouse Strain 604,Bluestone,BLU0604,Norwegian Farmhouse,Dry,72,74,High,14,29,14,No,Yes,,Norwegian Farmhouse style from Bluestone
+Mangrove Jack’s Czech Strain 605,Mangrove Jack’s,MAN0605,Czech,Dry,66,68,Low,20,31,15,No,No,,Czech style from Mangrove Jack’s
+Wyeast American Strain 606,Wyeast,WYE0606,American,Liquid,70,80,High,16,21,14,No,No,,American style from Wyeast
+Inland Island Ale Strain 607,Inland Island,INL0607,Ale,Liquid,72,74,Low,19,27,14,No,No,Fermentis Ale Strain 715,Ale style from Inland Island
+Fermentis English Strain 608,Fermentis,FER0608,English,Liquid,66,70,Medium,20,27,15,No,No,,English style from Fermentis
+Mangrove Jack’s Blend Strain 609,Mangrove Jack’s,MAN0609,Blend,Dry,67,74,Low,11,19,8,No,No,,Blend style from Mangrove Jack’s
+Wyeast Belgian Strain 610,Wyeast,WYE0610,Belgian,Dry,77,79,Low,17,31,14,Yes,No,,Belgian style from Wyeast
+Omega Brettanomyces Strain 611,Omega,OME0611,Brettanomyces,Dry,74,78,Low,13,18,8,No,No,East Coast Yeast Brettanomyces Strain 769,Brettanomyces style from Omega
+WHC Norwegian Farmhouse Strain 612,WHC,WHC0612,Norwegian Farmhouse,Dry,70,74,Medium,12,26,10,No,Yes,AEB Norwegian Farmhouse Strain 893,Norwegian Farmhouse style from WHC
+AEB Czech Strain 613,AEB,AEB0613,Czech,Dry,75,81,Medium,13,27,8,No,No,White Labs Czech Strain 640,Czech style from AEB
+Bootleg Biology Cider Strain 614,Bootleg Biology,BOO0614,Cider,Dry,68,71,Low,15,20,8,No,No,,Cider style from Bootleg Biology
+Imperial Czech Strain 615,Imperial,IMP0615,Czech,Dry,72,77,Medium,17,29,10,No,No,Fermentis Czech Strain 741,Czech style from Imperial
+Inland Island Belgian Strain 616,Inland Island,INL0616,Belgian,Liquid,77,80,Medium,10,22,14,Yes,No,WHC Belgian Strain 891,Belgian style from Inland Island
+Inland Island Kveik Strain 617,Inland Island,INL0617,Kveik,Dry,76,78,High,11,16,10,No,Yes,Inland Island Kveik Strain 651,Kveik style from Inland Island
+Mangrove Jack’s Kveik Strain 618,Mangrove Jack’s,MAN0618,Kveik,Liquid,68,75,Medium,16,24,12,No,Yes,Fermentis Kveik Strain 857,Kveik style from Mangrove Jack’s
+Lallemand Belgian Strain 619,Lallemand,LAL0619,Belgian,Liquid,69,79,Medium,16,26,14,No,No,,Belgian style from Lallemand
+Bluestone German Strain 620,Bluestone,BLU0620,German,Liquid,73,82,Low,19,33,14,No,No,Imperial German Strain 1261,German style from Bluestone
+The Yeast Bay Belgian Strain 621,The Yeast Bay,THE0621,Belgian,Dry,66,73,Low,13,23,10,No,No,Omega Belgian Strain 162,Belgian style from The Yeast Bay
+Inland Island Kveik Strain 622,Inland Island,INL0622,Kveik,Liquid,71,78,Low,11,17,12,No,Yes,,Kveik style from Inland Island
+Imperial Belgian Strain 623,Imperial,IMP0623,Belgian,Dry,77,82,Low,16,30,8,Yes,No,Lallemand Belgian Strain 1243,Belgian style from Imperial
+Omega Czech Strain 624,Omega,OME0624,Czech,Liquid,70,77,Medium,12,27,15,No,No,,Czech style from Omega
+WHC American Strain 625,WHC,WHC0625,American,Liquid,66,70,Low,10,22,14,No,No,,American style from WHC
+Angel Czech Strain 626,Angel,ANG0626,Czech,Dry,65,73,High,18,24,12,No,No,Escarpment Czech Strain 196,Czech style from Angel
+WHC Brettanomyces Strain 627,WHC,WHC0627,Brettanomyces,Liquid,69,74,High,13,22,10,No,No,Inland Island Brettanomyces Strain 804,Brettanomyces style from WHC
+Mangrove Jack’s Saison Strain 628,Mangrove Jack’s,MAN0628,Saison,Dry,69,79,Medium,18,33,14,No,No,Renaissance Saison Strain 794,Saison style from Mangrove Jack’s
+AEB Czech Strain 629,AEB,AEB0629,Czech,Dry,72,75,High,15,24,10,No,No,Imperial Czech Strain 1168,Czech style from AEB
+Wyeast Lager Strain 630,Wyeast,WYE0630,Lager,Dry,68,73,Low,15,28,14,No,No,Wyeast Lager Strain 1133,Lager style from Wyeast
+The Yeast Bay Belgian Strain 631,The Yeast Bay,THE0631,Belgian,Liquid,77,85,Medium,11,22,8,Yes,No,AEB Belgian Strain 413,Belgian style from The Yeast Bay
+Inland Island Cider Strain 632,Inland Island,INL0632,Cider,Liquid,65,75,Medium,16,25,12,No,No,,Cider style from Inland Island
+Fermentis Belgian Strain 633,Fermentis,FER0633,Belgian,Liquid,77,87,Low,18,27,12,No,No,,Belgian style from Fermentis
+The Yeast Bay Brettanomyces Strain 634,The Yeast Bay,THE0634,Brettanomyces,Dry,66,75,Medium,19,24,15,No,No,,Brettanomyces style from The Yeast Bay
+Bootleg Biology English Strain 635,Bootleg Biology,BOO0635,English,Dry,67,76,Low,15,23,12,No,No,,English style from Bootleg Biology
+White Labs Kveik Strain 636,White Labs,WHI0636,Kveik,Dry,68,70,Medium,20,30,15,No,Yes,,Kveik style from White Labs
+Escarpment Belgian Strain 637,Escarpment,ESC0637,Belgian,Dry,76,79,Low,15,28,15,Yes,No,Lallemand Belgian Strain 685,Belgian style from Escarpment
+Imperial English Strain 638,Imperial,IMP0638,English,Liquid,73,76,Low,17,29,15,No,No,Mangrove Jack’s English Strain 484,English style from Imperial
+East Coast Yeast Lactobacillus Strain 639,East Coast Yeast,EAS0639,Lactobacillus,Dry,73,78,Medium,11,25,8,No,No,,Lactobacillus style from East Coast Yeast
+Imperial Blend Strain 640,Imperial,IMP0640,Blend,Dry,76,84,Medium,12,18,15,No,No,Bootleg Biology Blend Strain 176,Blend style from Imperial
+White Labs German Strain 641,White Labs,WHI0641,German,Dry,69,77,High,18,26,10,No,No,Wyeast German Strain 1189,German style from White Labs
+AEB Cider Strain 642,AEB,AEB0642,Cider,Dry,78,83,High,17,28,10,No,No,,Cider style from AEB
+Omega English Strain 643,Omega,OME0643,English,Liquid,66,69,Medium,16,24,14,No,No,Escarpment English Strain 1297,English style from Omega
+AEB German Strain 644,AEB,AEB0644,German,Liquid,69,79,High,18,32,12,No,No,Escarpment German Strain 87,German style from AEB
+Inland Island Czech Strain 645,Inland Island,INL0645,Czech,Liquid,77,80,High,20,26,10,No,No,,Czech style from Inland Island
+Wyeast Pediococcus Strain 646,Wyeast,WYE0646,Pediococcus,Liquid,68,78,High,18,33,12,No,No,,Pediococcus style from Wyeast
+East Coast Yeast Cider Strain 647,East Coast Yeast,EAS0647,Cider,Liquid,67,75,Medium,19,28,12,No,No,East Coast Yeast Cider Strain 1107,Cider style from East Coast Yeast
+Wyeast Kveik Strain 648,Wyeast,WYE0648,Kveik,Liquid,72,75,Low,14,22,10,No,Yes,,Kveik style from Wyeast
+Bluestone Belgian Strain 649,Bluestone,BLU0649,Belgian,Dry,76,85,Low,20,26,15,No,No,,Belgian style from Bluestone
+Angel Ale Strain 650,Angel,ANG0650,Ale,Dry,72,76,High,16,23,15,No,No,,Ale style from Angel
+Bootleg Biology English Strain 651,Bootleg Biology,BOO0651,English,Dry,73,79,High,15,25,12,No,No,,English style from Bootleg Biology
+Renaissance Blend Strain 652,Renaissance,REN0652,Blend,Dry,65,72,Low,17,22,10,No,No,,Blend style from Renaissance
+Angel English Strain 653,Angel,ANG0653,English,Dry,69,76,High,13,26,15,No,No,,English style from Angel
+Escarpment Czech Strain 654,Escarpment,ESC0654,Czech,Dry,71,79,High,17,24,10,No,No,,Czech style from Escarpment
+White Labs Norwegian Farmhouse Strain 655,White Labs,WHI0655,Norwegian Farmhouse,Dry,65,75,Medium,11,24,12,No,Yes,,Norwegian Farmhouse style from White Labs
+Angel Ale Strain 656,Angel,ANG0656,Ale,Liquid,67,72,Medium,18,28,14,No,No,Omega Ale Strain 403,Ale style from Angel
+Fermentis German Strain 657,Fermentis,FER0657,German,Dry,66,71,Medium,12,24,14,No,No,Bootleg Biology German Strain 105,German style from Fermentis
+Wyeast Lactobacillus Strain 658,Wyeast,WYE0658,Lactobacillus,Dry,68,73,Medium,14,25,15,No,No,Imperial Lactobacillus Strain 593,Lactobacillus style from Wyeast
+Mangrove Jack’s Ale Strain 659,Mangrove Jack’s,MAN0659,Ale,Liquid,65,71,High,10,23,14,No,No,,Ale style from Mangrove Jack’s
+AEB Saison Strain 660,AEB,AEB0660,Saison,Dry,69,71,Medium,19,33,14,Yes,No,,Saison style from AEB
+Escarpment Blend Strain 661,Escarpment,ESC0661,Blend,Liquid,72,81,Low,14,28,14,No,No,Bootleg Biology Blend Strain 409,Blend style from Escarpment
+Imperial Saison Strain 662,Imperial,IMP0662,Saison,Liquid,75,81,Medium,19,31,15,Yes,No,Inland Island Saison Strain 706,Saison style from Imperial
+The Yeast Bay Blend Strain 663,The Yeast Bay,THE0663,Blend,Dry,71,76,Medium,20,31,8,No,No,Wyeast Blend Strain 152,Blend style from The Yeast Bay
+Lallemand Pediococcus Strain 664,Lallemand,LAL0664,Pediococcus,Liquid,73,77,Low,18,27,10,No,No,East Coast Yeast Pediococcus Strain 506,Pediococcus style from Lallemand
+Fermentis Lager Strain 665,Fermentis,FER0665,Lager,Liquid,76,84,Low,15,28,10,No,No,WHC Lager Strain 56,Lager style from Fermentis
+Lallemand Blend Strain 666,Lallemand,LAL0666,Blend,Liquid,70,78,Low,17,24,8,No,No,The Yeast Bay Blend Strain 984,Blend style from Lallemand
+Fermentis Cider Strain 667,Fermentis,FER0667,Cider,Dry,75,83,Low,16,30,14,No,No,AEB Cider Strain 1299,Cider style from Fermentis
+East Coast Yeast Lager Strain 668,East Coast Yeast,EAS0668,Lager,Dry,69,78,Low,19,33,15,No,No,,Lager style from East Coast Yeast
+Bluestone Norwegian Farmhouse Strain 669,Bluestone,BLU0669,Norwegian Farmhouse,Liquid,71,75,Medium,15,30,8,No,Yes,,Norwegian Farmhouse style from Bluestone
+Angel Saison Strain 670,Angel,ANG0670,Saison,Dry,66,75,Medium,10,16,15,Yes,No,White Labs Saison Strain 1264,Saison style from Angel
+East Coast Yeast Czech Strain 671,East Coast Yeast,EAS0671,Czech,Dry,67,75,Low,11,25,8,No,No,,Czech style from East Coast Yeast
+Omega Blend Strain 672,Omega,OME0672,Blend,Liquid,68,78,High,17,25,14,No,No,Wyeast Blend Strain 966,Blend style from Omega
+Wyeast Brettanomyces Strain 673,Wyeast,WYE0673,Brettanomyces,Dry,73,79,Medium,14,26,10,No,No,Bootleg Biology Brettanomyces Strain 1293,Brettanomyces style from Wyeast
+Angel American Strain 674,Angel,ANG0674,American,Dry,78,83,Medium,18,26,15,No,No,,American style from Angel
+The Yeast Bay Cider Strain 675,The Yeast Bay,THE0675,Cider,Liquid,69,77,High,20,27,15,No,No,WHC Cider Strain 907,Cider style from The Yeast Bay
+WHC Norwegian Farmhouse Strain 676,WHC,WHC0676,Norwegian Farmhouse,Liquid,70,77,Medium,13,26,12,No,Yes,Bluestone Norwegian Farmhouse Strain 348,Norwegian Farmhouse style from WHC
+Imperial Blend Strain 677,Imperial,IMP0677,Blend,Liquid,78,85,High,15,20,12,No,No,Inland Island Blend Strain 1079,Blend style from Imperial
+Angel Brettanomyces Strain 678,Angel,ANG0678,Brettanomyces,Dry,73,81,Medium,10,17,14,No,No,Imperial Brettanomyces Strain 914,Brettanomyces style from Angel
+Fermentis German Strain 679,Fermentis,FER0679,German,Liquid,70,80,High,15,27,10,No,No,,German style from Fermentis
+Fermentis German Strain 680,Fermentis,FER0680,German,Liquid,75,77,Low,10,15,12,No,No,,German style from Fermentis
+Bootleg Biology Lactobacillus Strain 681,Bootleg Biology,BOO0681,Lactobacillus,Liquid,69,74,High,16,26,15,No,No,,Lactobacillus style from Bootleg Biology
+East Coast Yeast Ale Strain 682,East Coast Yeast,EAS0682,Ale,Dry,69,72,High,11,26,10,No,No,,Ale style from East Coast Yeast
+Renaissance Lactobacillus Strain 683,Renaissance,REN0683,Lactobacillus,Dry,76,83,Medium,12,20,8,No,No,,Lactobacillus style from Renaissance
+Mangrove Jack’s German Strain 684,Mangrove Jack’s,MAN0684,German,Liquid,72,81,High,19,24,12,No,No,,German style from Mangrove Jack’s
+Imperial German Strain 685,Imperial,IMP0685,German,Liquid,73,75,High,10,24,8,No,No,Lallemand German Strain 325,German style from Imperial
+Lallemand Lager Strain 686,Lallemand,LAL0686,Lager,Dry,76,86,High,11,16,15,No,No,,Lager style from Lallemand
+Mangrove Jack’s Lager Strain 687,Mangrove Jack’s,MAN0687,Lager,Dry,67,70,High,18,26,10,No,No,AEB Lager Strain 1085,Lager style from Mangrove Jack’s
+Wyeast Norwegian Farmhouse Strain 688,Wyeast,WYE0688,Norwegian Farmhouse,Dry,69,74,High,11,21,8,No,Yes,,Norwegian Farmhouse style from Wyeast
+White Labs Brettanomyces Strain 689,White Labs,WHI0689,Brettanomyces,Dry,70,74,High,10,25,12,No,No,,Brettanomyces style from White Labs
+Fermentis German Strain 690,Fermentis,FER0690,German,Dry,69,74,Medium,17,25,12,No,No,Renaissance German Strain 1155,German style from Fermentis
+Angel Ale Strain 691,Angel,ANG0691,Ale,Dry,74,80,Medium,10,25,15,No,No,Bootleg Biology Ale Strain 272,Ale style from Angel
+Omega Kveik Strain 692,Omega,OME0692,Kveik,Dry,68,73,Low,14,19,14,No,Yes,East Coast Yeast Kveik Strain 920,Kveik style from Omega
+Imperial Blend Strain 693,Imperial,IMP0693,Blend,Liquid,70,72,High,19,25,10,No,No,Lallemand Blend Strain 939,Blend style from Imperial
+Omega American Strain 694,Omega,OME0694,American,Dry,77,83,Low,14,22,12,No,No,Inland Island American Strain 1227,American style from Omega
+Mangrove Jack’s American Strain 695,Mangrove Jack’s,MAN0695,American,Dry,76,80,Medium,19,32,14,No,No,East Coast Yeast American Strain 795,American style from Mangrove Jack’s
+Bluestone Norwegian Farmhouse Strain 696,Bluestone,BLU0696,Norwegian Farmhouse,Liquid,67,76,Low,15,26,14,No,Yes,Mangrove Jack’s Norwegian Farmhouse Strain 585,Norwegian Farmhouse style from Bluestone
+Escarpment Pediococcus Strain 697,Escarpment,ESC0697,Pediococcus,Liquid,72,75,Low,17,30,14,No,No,WHC Pediococcus Strain 1218,Pediococcus style from Escarpment
+Escarpment Czech Strain 698,Escarpment,ESC0698,Czech,Dry,66,69,Medium,16,30,15,No,No,,Czech style from Escarpment
+Escarpment Brettanomyces Strain 699,Escarpment,ESC0699,Brettanomyces,Dry,75,79,Low,10,24,14,No,No,,Brettanomyces style from Escarpment
+Omega Lager Strain 700,Omega,OME0700,Lager,Liquid,65,74,Low,19,29,12,No,No,Bluestone Lager Strain 448,Lager style from Omega
+White Labs Cider Strain 701,White Labs,WHI0701,Cider,Liquid,72,80,Medium,15,24,8,No,No,,Cider style from White Labs
+The Yeast Bay Pediococcus Strain 702,The Yeast Bay,THE0702,Pediococcus,Dry,74,78,Low,10,22,14,No,No,The Yeast Bay Pediococcus Strain 924,Pediococcus style from The Yeast Bay
+Angel Czech Strain 703,Angel,ANG0703,Czech,Liquid,67,74,High,18,32,14,No,No,,Czech style from Angel
+Inland Island English Strain 704,Inland Island,INL0704,English,Liquid,67,73,Low,12,25,12,No,No,,English style from Inland Island
+Imperial German Strain 705,Imperial,IMP0705,German,Dry,77,81,Medium,15,21,10,No,No,,German style from Imperial
+Escarpment Czech Strain 706,Escarpment,ESC0706,Czech,Dry,74,80,Low,16,28,10,No,No,,Czech style from Escarpment
+Angel Pediococcus Strain 707,Angel,ANG0707,Pediococcus,Dry,78,86,Medium,12,21,14,No,No,,Pediococcus style from Angel
+Omega Blend Strain 708,Omega,OME0708,Blend,Dry,75,78,Medium,16,29,8,No,No,The Yeast Bay Blend Strain 717,Blend style from Omega
+Angel Kveik Strain 709,Angel,ANG0709,Kveik,Liquid,65,74,High,10,16,15,No,Yes,Mangrove Jack’s Kveik Strain 384,Kveik style from Angel
+AEB Pediococcus Strain 710,AEB,AEB0710,Pediococcus,Dry,74,78,High,14,20,10,No,No,The Yeast Bay Pediococcus Strain 403,Pediococcus style from AEB
+Bluestone Lager Strain 711,Bluestone,BLU0711,Lager,Liquid,65,73,Medium,17,30,14,No,No,East Coast Yeast Lager Strain 407,Lager style from Bluestone
+Escarpment Blend Strain 712,Escarpment,ESC0712,Blend,Liquid,70,79,High,16,27,8,No,No,Bootleg Biology Blend Strain 1257,Blend style from Escarpment
+Bootleg Biology Ale Strain 713,Bootleg Biology,BOO0713,Ale,Dry,78,82,Low,10,19,14,No,No,,Ale style from Bootleg Biology
+Angel Ale Strain 714,Angel,ANG0714,Ale,Liquid,75,81,Medium,10,19,12,No,No,Omega Ale Strain 1187,Ale style from Angel
+The Yeast Bay Czech Strain 715,The Yeast Bay,THE0715,Czech,Dry,75,83,High,10,23,12,No,No,AEB Czech Strain 121,Czech style from The Yeast Bay
+Inland Island Kveik Strain 716,Inland Island,INL0716,Kveik,Dry,75,79,Low,14,23,10,No,Yes,The Yeast Bay Kveik Strain 173,Kveik style from Inland Island
+Imperial Lactobacillus Strain 717,Imperial,IMP0717,Lactobacillus,Liquid,69,79,Medium,19,25,12,No,No,The Yeast Bay Lactobacillus Strain 1009,Lactobacillus style from Imperial
+Imperial Kveik Strain 718,Imperial,IMP0718,Kveik,Liquid,72,75,Low,18,24,10,No,Yes,,Kveik style from Imperial
+Angel American Strain 719,Angel,ANG0719,American,Liquid,68,76,Low,17,29,15,No,No,White Labs American Strain 43,American style from Angel
+Inland Island Norwegian Farmhouse Strain 720,Inland Island,INL0720,Norwegian Farmhouse,Dry,74,78,Low,13,21,14,No,Yes,,Norwegian Farmhouse style from Inland Island
+White Labs Pediococcus Strain 721,White Labs,WHI0721,Pediococcus,Liquid,74,83,Medium,15,25,15,No,No,Bootleg Biology Pediococcus Strain 524,Pediococcus style from White Labs
+Inland Island Blend Strain 722,Inland Island,INL0722,Blend,Dry,68,74,Low,18,29,12,No,No,,Blend style from Inland Island
+Inland Island Lager Strain 723,Inland Island,INL0723,Lager,Liquid,70,76,High,13,19,10,No,No,WHC Lager Strain 616,Lager style from Inland Island
+Renaissance Blend Strain 724,Renaissance,REN0724,Blend,Dry,65,72,Low,11,23,14,No,No,Wyeast Blend Strain 1102,Blend style from Renaissance
+Inland Island Ale Strain 725,Inland Island,INL0725,Ale,Liquid,66,76,Medium,15,30,14,No,No,,Ale style from Inland Island
+Omega Czech Strain 726,Omega,OME0726,Czech,Liquid,70,72,Low,16,25,8,No,No,Bootleg Biology Czech Strain 511,Czech style from Omega
+Wyeast Lager Strain 727,Wyeast,WYE0727,Lager,Dry,69,76,High,15,20,15,No,No,,Lager style from Wyeast
+Lallemand Lager Strain 728,Lallemand,LAL0728,Lager,Liquid,70,76,Low,16,31,14,No,No,Bootleg Biology Lager Strain 122,Lager style from Lallemand
+Mangrove Jack’s Kveik Strain 729,Mangrove Jack’s,MAN0729,Kveik,Liquid,70,74,High,20,27,12,No,Yes,,Kveik style from Mangrove Jack’s
+Lallemand German Strain 730,Lallemand,LAL0730,German,Liquid,72,80,Low,17,25,10,No,No,Omega German Strain 238,German style from Lallemand
+Inland Island Cider Strain 731,Inland Island,INL0731,Cider,Dry,66,71,Low,20,30,14,No,No,,Cider style from Inland Island
+Renaissance Czech Strain 732,Renaissance,REN0732,Czech,Dry,76,83,Medium,13,22,8,No,No,,Czech style from Renaissance
+Omega Lager Strain 733,Omega,OME0733,Lager,Dry,74,83,Low,15,26,12,No,No,Renaissance Lager Strain 853,Lager style from Omega
+Escarpment Cider Strain 734,Escarpment,ESC0734,Cider,Dry,74,84,High,10,16,12,No,No,,Cider style from Escarpment
+WHC Lager Strain 735,WHC,WHC0735,Lager,Dry,75,79,Medium,11,23,10,No,No,,Lager style from WHC
+WHC American Strain 736,WHC,WHC0736,American,Dry,67,71,High,15,27,14,No,No,,American style from WHC
+Mangrove Jack’s Lactobacillus Strain 737,Mangrove Jack’s,MAN0737,Lactobacillus,Dry,74,76,High,18,29,15,No,No,Mangrove Jack’s Lactobacillus Strain 482,Lactobacillus style from Mangrove Jack’s
+Wyeast Lager Strain 738,Wyeast,WYE0738,Lager,Dry,73,83,Medium,11,18,14,No,No,Lallemand Lager Strain 379,Lager style from Wyeast
+White Labs Lactobacillus Strain 739,White Labs,WHI0739,Lactobacillus,Liquid,77,81,High,20,26,10,No,No,Fermentis Lactobacillus Strain 1267,Lactobacillus style from White Labs
+Angel Lactobacillus Strain 740,Angel,ANG0740,Lactobacillus,Liquid,69,71,High,20,32,14,No,No,Lallemand Lactobacillus Strain 1126,Lactobacillus style from Angel
+AEB Belgian Strain 741,AEB,AEB0741,Belgian,Dry,74,78,Medium,20,34,12,Yes,No,Omega Belgian Strain 124,Belgian style from AEB
+Escarpment English Strain 742,Escarpment,ESC0742,English,Dry,67,76,High,20,25,10,No,No,,English style from Escarpment
+Imperial Cider Strain 743,Imperial,IMP0743,Cider,Liquid,70,76,Low,17,23,14,No,No,Imperial Cider Strain 646,Cider style from Imperial
+Mangrove Jack’s German Strain 744,Mangrove Jack’s,MAN0744,German,Liquid,67,77,High,14,26,8,No,No,Bootleg Biology German Strain 509,German style from Mangrove Jack’s
+Imperial Cider Strain 745,Imperial,IMP0745,Cider,Liquid,72,81,High,18,25,15,No,No,,Cider style from Imperial
+Imperial Blend Strain 746,Imperial,IMP0746,Blend,Liquid,70,75,Low,17,25,12,No,No,Renaissance Blend Strain 349,Blend style from Imperial
+WHC Belgian Strain 747,WHC,WHC0747,Belgian,Liquid,70,78,High,13,28,14,No,No,Imperial Belgian Strain 1149,Belgian style from WHC
+AEB Cider Strain 748,AEB,AEB0748,Cider,Dry,70,80,Low,16,24,12,No,No,,Cider style from AEB
+Wyeast Belgian Strain 749,Wyeast,WYE0749,Belgian,Dry,67,75,Medium,19,26,10,No,No,,Belgian style from Wyeast
+Mangrove Jack’s Kveik Strain 750,Mangrove Jack’s,MAN0750,Kveik,Liquid,73,81,Low,19,26,10,No,Yes,,Kveik style from Mangrove Jack’s
+Escarpment American Strain 751,Escarpment,ESC0751,American,Dry,76,78,High,15,28,12,No,No,,American style from Escarpment
+Bluestone Czech Strain 752,Bluestone,BLU0752,Czech,Liquid,72,82,Low,16,27,10,No,No,Renaissance Czech Strain 1118,Czech style from Bluestone
+Wyeast Blend Strain 753,Wyeast,WYE0753,Blend,Liquid,76,86,Medium,16,25,8,No,No,Lallemand Blend Strain 908,Blend style from Wyeast
+WHC Pediococcus Strain 754,WHC,WHC0754,Pediococcus,Liquid,74,79,Medium,16,22,14,No,No,Lallemand Pediococcus Strain 1143,Pediococcus style from WHC
+Angel Cider Strain 755,Angel,ANG0755,Cider,Liquid,71,75,High,14,27,10,No,No,Fermentis Cider Strain 781,Cider style from Angel
+Imperial Ale Strain 756,Imperial,IMP0756,Ale,Liquid,70,75,High,13,18,8,No,No,,Ale style from Imperial
+The Yeast Bay English Strain 757,The Yeast Bay,THE0757,English,Liquid,78,84,High,16,25,14,No,No,Omega English Strain 694,English style from The Yeast Bay
+The Yeast Bay Norwegian Farmhouse Strain 758,The Yeast Bay,THE0758,Norwegian Farmhouse,Liquid,66,74,High,15,25,14,No,Yes,Inland Island Norwegian Farmhouse Strain 1265,Norwegian Farmhouse style from The Yeast Bay
+Inland Island German Strain 759,Inland Island,INL0759,German,Liquid,67,71,High,14,22,8,No,No,,German style from Inland Island
+Bluestone Czech Strain 760,Bluestone,BLU0760,Czech,Liquid,73,78,Medium,16,27,8,No,No,,Czech style from Bluestone
+Mangrove Jack’s Brettanomyces Strain 761,Mangrove Jack’s,MAN0761,Brettanomyces,Liquid,66,74,High,14,25,12,No,No,,Brettanomyces style from Mangrove Jack’s
+The Yeast Bay Saison Strain 762,The Yeast Bay,THE0762,Saison,Liquid,72,82,High,20,31,15,Yes,No,,Saison style from The Yeast Bay
+Imperial Czech Strain 763,Imperial,IMP0763,Czech,Liquid,74,76,High,10,18,10,No,No,Lallemand Czech Strain 1118,Czech style from Imperial
+Escarpment Kveik Strain 764,Escarpment,ESC0764,Kveik,Dry,77,80,High,13,25,14,No,Yes,,Kveik style from Escarpment
+Fermentis Ale Strain 765,Fermentis,FER0765,Ale,Dry,66,70,Medium,11,26,10,No,No,Lallemand Ale Strain 763,Ale style from Fermentis
+Angel Lager Strain 766,Angel,ANG0766,Lager,Liquid,67,73,Low,18,26,14,No,No,Imperial Lager Strain 1126,Lager style from Angel
+Renaissance Blend Strain 767,Renaissance,REN0767,Blend,Dry,65,70,Low,18,23,10,No,No,Wyeast Blend Strain 559,Blend style from Renaissance
+Imperial Saison Strain 768,Imperial,IMP0768,Saison,Liquid,68,75,High,11,25,8,No,No,,Saison style from Imperial
+Bootleg Biology Saison Strain 769,Bootleg Biology,BOO0769,Saison,Dry,78,86,High,16,25,15,No,No,,Saison style from Bootleg Biology
+WHC Czech Strain 770,WHC,WHC0770,Czech,Dry,67,70,Low,16,23,12,No,No,,Czech style from WHC
+Lallemand Czech Strain 771,Lallemand,LAL0771,Czech,Liquid,78,82,Low,11,26,12,No,No,Lallemand Czech Strain 840,Czech style from Lallemand
+Lallemand Brettanomyces Strain 772,Lallemand,LAL0772,Brettanomyces,Dry,76,78,High,10,20,10,No,No,Inland Island Brettanomyces Strain 1224,Brettanomyces style from Lallemand
+Inland Island Czech Strain 773,Inland Island,INL0773,Czech,Dry,65,69,Medium,18,24,10,No,No,Imperial Czech Strain 892,Czech style from Inland Island
+Mangrove Jack’s Blend Strain 774,Mangrove Jack’s,MAN0774,Blend,Dry,68,74,Low,17,26,15,No,No,Wyeast Blend Strain 235,Blend style from Mangrove Jack’s
+Inland Island Blend Strain 775,Inland Island,INL0775,Blend,Dry,72,79,Low,16,25,10,No,No,,Blend style from Inland Island
+Bluestone Belgian Strain 776,Bluestone,BLU0776,Belgian,Liquid,69,71,Medium,15,20,14,No,No,Bluestone Belgian Strain 614,Belgian style from Bluestone
+East Coast Yeast English Strain 777,East Coast Yeast,EAS0777,English,Dry,67,74,Medium,20,29,8,No,No,,English style from East Coast Yeast
+Imperial Ale Strain 778,Imperial,IMP0778,Ale,Liquid,74,81,Medium,20,29,10,No,No,,Ale style from Imperial
+Imperial Pediococcus Strain 779,Imperial,IMP0779,Pediococcus,Dry,71,74,Low,18,28,15,No,No,Lallemand Pediococcus Strain 479,Pediococcus style from Imperial
+Omega Cider Strain 780,Omega,OME0780,Cider,Dry,65,75,Low,11,20,12,No,No,White Labs Cider Strain 1005,Cider style from Omega
+Imperial Czech Strain 781,Imperial,IMP0781,Czech,Dry,67,71,Low,13,19,10,No,No,,Czech style from Imperial
+Mangrove Jack’s Belgian Strain 782,Mangrove Jack’s,MAN0782,Belgian,Dry,76,82,Low,13,27,12,No,No,East Coast Yeast Belgian Strain 713,Belgian style from Mangrove Jack’s
+WHC Belgian Strain 783,WHC,WHC0783,Belgian,Liquid,77,84,Low,20,28,10,No,No,,Belgian style from WHC
+Angel Belgian Strain 784,Angel,ANG0784,Belgian,Liquid,69,73,Medium,19,33,15,No,No,,Belgian style from Angel
+Omega German Strain 785,Omega,OME0785,German,Dry,73,76,Low,12,19,10,No,No,Omega German Strain 7,German style from Omega
+Inland Island English Strain 786,Inland Island,INL0786,English,Liquid,73,75,Low,14,29,15,No,No,Lallemand English Strain 28,English style from Inland Island
+White Labs Lactobacillus Strain 787,White Labs,WHI0787,Lactobacillus,Liquid,71,75,Medium,19,26,15,No,No,Angel Lactobacillus Strain 36,Lactobacillus style from White Labs
+Escarpment Brettanomyces Strain 788,Escarpment,ESC0788,Brettanomyces,Dry,77,82,Low,14,22,15,No,No,,Brettanomyces style from Escarpment
+The Yeast Bay Saison Strain 789,The Yeast Bay,THE0789,Saison,Dry,77,85,Low,10,18,10,Yes,No,,Saison style from The Yeast Bay
+Wyeast Lager Strain 790,Wyeast,WYE0790,Lager,Liquid,77,86,Medium,19,29,10,No,No,Bootleg Biology Lager Strain 962,Lager style from Wyeast
+Omega Lager Strain 791,Omega,OME0791,Lager,Liquid,77,80,Medium,19,25,8,No,No,,Lager style from Omega
+Bluestone Pediococcus Strain 792,Bluestone,BLU0792,Pediococcus,Liquid,73,81,Medium,19,27,8,No,No,The Yeast Bay Pediococcus Strain 431,Pediococcus style from Bluestone
+Fermentis Ale Strain 793,Fermentis,FER0793,Ale,Dry,75,83,High,18,26,12,No,No,,Ale style from Fermentis
+WHC Cider Strain 794,WHC,WHC0794,Cider,Liquid,68,72,Low,10,16,10,No,No,,Cider style from WHC
+Mangrove Jack’s English Strain 795,Mangrove Jack’s,MAN0795,English,Liquid,65,72,Low,17,26,8,No,No,Fermentis English Strain 1045,English style from Mangrove Jack’s
+Mangrove Jack’s Saison Strain 796,Mangrove Jack’s,MAN0796,Saison,Liquid,77,79,Low,10,19,8,No,No,,Saison style from Mangrove Jack’s
+Bootleg Biology Saison Strain 797,Bootleg Biology,BOO0797,Saison,Liquid,67,73,Medium,18,33,8,Yes,No,Wyeast Saison Strain 485,Saison style from Bootleg Biology
+The Yeast Bay Blend Strain 798,The Yeast Bay,THE0798,Blend,Dry,78,83,Medium,12,26,10,No,No,,Blend style from The Yeast Bay
+Inland Island Norwegian Farmhouse Strain 799,Inland Island,INL0799,Norwegian Farmhouse,Liquid,71,75,Medium,12,23,14,No,Yes,,Norwegian Farmhouse style from Inland Island
+Renaissance American Strain 800,Renaissance,REN0800,American,Liquid,71,78,Low,20,32,8,No,No,,American style from Renaissance
+Bootleg Biology Cider Strain 801,Bootleg Biology,BOO0801,Cider,Liquid,73,80,Low,16,24,15,No,No,White Labs Cider Strain 521,Cider style from Bootleg Biology
+White Labs Kveik Strain 802,White Labs,WHI0802,Kveik,Dry,78,84,Medium,17,30,12,No,Yes,Inland Island Kveik Strain 1250,Kveik style from White Labs
+Bluestone Czech Strain 803,Bluestone,BLU0803,Czech,Dry,78,85,Low,17,32,10,No,No,Omega Czech Strain 706,Czech style from Bluestone
+Imperial German Strain 804,Imperial,IMP0804,German,Liquid,70,80,High,13,27,10,No,No,White Labs German Strain 865,German style from Imperial
+Renaissance German Strain 805,Renaissance,REN0805,German,Liquid,73,78,Low,20,25,8,No,No,,German style from Renaissance
+White Labs Ale Strain 806,White Labs,WHI0806,Ale,Dry,69,77,Medium,13,26,15,No,No,,Ale style from White Labs
+Renaissance Pediococcus Strain 807,Renaissance,REN0807,Pediococcus,Liquid,70,74,High,17,26,14,No,No,East Coast Yeast Pediococcus Strain 1112,Pediococcus style from Renaissance
+Bluestone German Strain 808,Bluestone,BLU0808,German,Dry,70,75,Medium,12,22,14,No,No,,German style from Bluestone
+Angel Ale Strain 809,Angel,ANG0809,Ale,Liquid,74,76,Low,13,22,8,No,No,Renaissance Ale Strain 822,Ale style from Angel
+Inland Island Pediococcus Strain 810,Inland Island,INL0810,Pediococcus,Liquid,74,78,Low,17,27,10,No,No,,Pediococcus style from Inland Island
+WHC Belgian Strain 811,WHC,WHC0811,Belgian,Dry,66,74,Low,10,16,10,No,No,,Belgian style from WHC
+Bootleg Biology Lager Strain 812,Bootleg Biology,BOO0812,Lager,Liquid,77,80,High,15,26,10,No,No,Mangrove Jack’s Lager Strain 245,Lager style from Bootleg Biology
+Bluestone Norwegian Farmhouse Strain 813,Bluestone,BLU0813,Norwegian Farmhouse,Dry,72,77,Low,10,16,12,No,Yes,,Norwegian Farmhouse style from Bluestone
+East Coast Yeast Blend Strain 814,East Coast Yeast,EAS0814,Blend,Dry,75,85,Medium,16,21,15,No,No,,Blend style from East Coast Yeast
+Angel Lactobacillus Strain 815,Angel,ANG0815,Lactobacillus,Liquid,71,79,Medium,20,33,10,No,No,Bootleg Biology Lactobacillus Strain 1132,Lactobacillus style from Angel
+Mangrove Jack’s Czech Strain 816,Mangrove Jack’s,MAN0816,Czech,Liquid,71,78,Medium,20,30,10,No,No,,Czech style from Mangrove Jack’s
+AEB Blend Strain 817,AEB,AEB0817,Blend,Liquid,75,84,High,10,22,14,No,No,Bluestone Blend Strain 1078,Blend style from AEB
+WHC Norwegian Farmhouse Strain 818,WHC,WHC0818,Norwegian Farmhouse,Dry,73,81,Medium,11,19,12,No,Yes,Imperial Norwegian Farmhouse Strain 365,Norwegian Farmhouse style from WHC
+Angel German Strain 819,Angel,ANG0819,German,Dry,75,78,High,11,24,10,No,No,Mangrove Jack’s German Strain 1103,German style from Angel
+Fermentis German Strain 820,Fermentis,FER0820,German,Dry,75,80,High,13,27,8,No,No,Wyeast German Strain 500,German style from Fermentis
+Lallemand American Strain 821,Lallemand,LAL0821,American,Liquid,69,79,Low,17,25,15,No,No,AEB American Strain 1068,American style from Lallemand
+Wyeast Norwegian Farmhouse Strain 822,Wyeast,WYE0822,Norwegian Farmhouse,Dry,77,80,Low,15,26,10,No,Yes,,Norwegian Farmhouse style from Wyeast
+WHC German Strain 823,WHC,WHC0823,German,Liquid,72,78,High,20,34,8,No,No,Angel German Strain 907,German style from WHC
+Imperial American Strain 824,Imperial,IMP0824,American,Dry,67,73,Medium,14,19,15,No,No,Bootleg Biology American Strain 201,American style from Imperial
+Imperial German Strain 825,Imperial,IMP0825,German,Liquid,78,85,Low,17,29,8,No,No,,German style from Imperial
+The Yeast Bay Belgian Strain 826,The Yeast Bay,THE0826,Belgian,Liquid,71,74,Low,14,22,15,No,No,Omega Belgian Strain 1026,Belgian style from The Yeast Bay
+Renaissance Pediococcus Strain 827,Renaissance,REN0827,Pediococcus,Liquid,68,71,Medium,10,19,14,No,No,,Pediococcus style from Renaissance
+White Labs Pediococcus Strain 828,White Labs,WHI0828,Pediococcus,Liquid,70,78,Low,18,24,8,No,No,Wyeast Pediococcus Strain 408,Pediococcus style from White Labs
+Wyeast English Strain 829,Wyeast,WYE0829,English,Dry,69,72,High,17,32,12,No,No,,English style from Wyeast
+Omega American Strain 830,Omega,OME0830,American,Liquid,65,74,Medium,15,25,8,No,No,Fermentis American Strain 1053,American style from Omega
+Lallemand Ale Strain 831,Lallemand,LAL0831,Ale,Dry,76,85,Medium,11,18,12,No,No,Mangrove Jack’s Ale Strain 200,Ale style from Lallemand
+Inland Island Kveik Strain 832,Inland Island,INL0832,Kveik,Liquid,77,85,High,17,29,12,No,Yes,,Kveik style from Inland Island
+Inland Island Cider Strain 833,Inland Island,INL0833,Cider,Liquid,66,76,High,20,31,14,No,No,,Cider style from Inland Island
+Escarpment German Strain 834,Escarpment,ESC0834,German,Liquid,67,75,Medium,13,25,14,No,No,Omega German Strain 130,German style from Escarpment
+East Coast Yeast Lager Strain 835,East Coast Yeast,EAS0835,Lager,Dry,74,84,Low,14,29,8,No,No,Omega Lager Strain 311,Lager style from East Coast Yeast
+Mangrove Jack’s Saison Strain 836,Mangrove Jack’s,MAN0836,Saison,Dry,76,85,Low,18,25,10,No,No,Omega Saison Strain 1250,Saison style from Mangrove Jack’s
+Inland Island Cider Strain 837,Inland Island,INL0837,Cider,Liquid,66,68,Low,11,21,8,No,No,Bluestone Cider Strain 167,Cider style from Inland Island
+WHC Lactobacillus Strain 838,WHC,WHC0838,Lactobacillus,Liquid,73,78,High,17,24,8,No,No,Lallemand Lactobacillus Strain 124,Lactobacillus style from WHC
+Inland Island German Strain 839,Inland Island,INL0839,German,Liquid,68,73,Medium,15,21,8,No,No,,German style from Inland Island
+Mangrove Jack’s Blend Strain 840,Mangrove Jack’s,MAN0840,Blend,Dry,76,79,Medium,15,30,12,No,No,Renaissance Blend Strain 1101,Blend style from Mangrove Jack’s
+Fermentis Norwegian Farmhouse Strain 841,Fermentis,FER0841,Norwegian Farmhouse,Dry,70,72,Low,14,27,14,No,Yes,Fermentis Norwegian Farmhouse Strain 186,Norwegian Farmhouse style from Fermentis
+Renaissance Ale Strain 842,Renaissance,REN0842,Ale,Liquid,75,77,Medium,11,22,15,No,No,,Ale style from Renaissance
+Renaissance Kveik Strain 843,Renaissance,REN0843,Kveik,Liquid,66,75,High,16,28,12,No,Yes,,Kveik style from Renaissance
+The Yeast Bay Kveik Strain 844,The Yeast Bay,THE0844,Kveik,Dry,74,84,Low,19,34,10,No,Yes,Bootleg Biology Kveik Strain 1112,Kveik style from The Yeast Bay
+East Coast Yeast Lager Strain 845,East Coast Yeast,EAS0845,Lager,Liquid,72,78,Medium,13,27,8,No,No,Wyeast Lager Strain 154,Lager style from East Coast Yeast
+Renaissance Pediococcus Strain 846,Renaissance,REN0846,Pediococcus,Dry,75,84,High,14,26,14,No,No,Bluestone Pediococcus Strain 30,Pediococcus style from Renaissance
+Escarpment Lager Strain 847,Escarpment,ESC0847,Lager,Liquid,67,73,Medium,12,20,15,No,No,East Coast Yeast Lager Strain 443,Lager style from Escarpment
+Omega Lager Strain 848,Omega,OME0848,Lager,Liquid,75,85,High,18,33,8,No,No,,Lager style from Omega
+Omega Norwegian Farmhouse Strain 849,Omega,OME0849,Norwegian Farmhouse,Liquid,78,83,Low,12,19,12,No,Yes,The Yeast Bay Norwegian Farmhouse Strain 692,Norwegian Farmhouse style from Omega
+Wyeast Belgian Strain 850,Wyeast,WYE0850,Belgian,Dry,75,82,High,14,28,10,No,No,Inland Island Belgian Strain 765,Belgian style from Wyeast
+Renaissance Pediococcus Strain 851,Renaissance,REN0851,Pediococcus,Liquid,72,79,Medium,15,25,14,No,No,Angel Pediococcus Strain 979,Pediococcus style from Renaissance
+Wyeast Norwegian Farmhouse Strain 852,Wyeast,WYE0852,Norwegian Farmhouse,Liquid,67,69,Low,14,28,10,No,Yes,Imperial Norwegian Farmhouse Strain 1034,Norwegian Farmhouse style from Wyeast
+Imperial Saison Strain 853,Imperial,IMP0853,Saison,Liquid,70,73,High,10,23,15,No,No,,Saison style from Imperial
+Inland Island Belgian Strain 854,Inland Island,INL0854,Belgian,Liquid,72,81,High,16,27,10,Yes,No,,Belgian style from Inland Island
+Wyeast Kveik Strain 855,Wyeast,WYE0855,Kveik,Dry,67,77,High,16,23,10,No,Yes,Fermentis Kveik Strain 370,Kveik style from Wyeast
+Fermentis Belgian Strain 856,Fermentis,FER0856,Belgian,Liquid,66,68,Low,12,17,15,No,No,,Belgian style from Fermentis
+Lallemand Kveik Strain 857,Lallemand,LAL0857,Kveik,Liquid,66,73,Low,14,27,8,No,Yes,Lallemand Kveik Strain 864,Kveik style from Lallemand
+Omega Blend Strain 858,Omega,OME0858,Blend,Liquid,75,78,Low,15,22,12,No,No,Imperial Blend Strain 525,Blend style from Omega
+Wyeast Brettanomyces Strain 859,Wyeast,WYE0859,Brettanomyces,Dry,74,79,High,15,28,15,No,No,Imperial Brettanomyces Strain 671,Brettanomyces style from Wyeast
+Imperial Brettanomyces Strain 860,Imperial,IMP0860,Brettanomyces,Liquid,73,78,High,15,24,14,No,No,White Labs Brettanomyces Strain 1080,Brettanomyces style from Imperial
+Angel Blend Strain 861,Angel,ANG0861,Blend,Dry,77,81,High,15,20,10,No,No,Bootleg Biology Blend Strain 289,Blend style from Angel
+Bluestone Kveik Strain 862,Bluestone,BLU0862,Kveik,Liquid,74,82,Medium,20,34,12,No,Yes,Bluestone Kveik Strain 961,Kveik style from Bluestone
+AEB German Strain 863,AEB,AEB0863,German,Dry,75,84,Low,17,26,8,No,No,,German style from AEB
+Angel German Strain 864,Angel,ANG0864,German,Liquid,66,76,Low,15,21,12,No,No,,German style from Angel
+Wyeast Saison Strain 865,Wyeast,WYE0865,Saison,Liquid,65,75,High,12,24,15,Yes,No,Mangrove Jack’s Saison Strain 922,Saison style from Wyeast
+Imperial Saison Strain 866,Imperial,IMP0866,Saison,Dry,73,81,Medium,12,18,14,No,No,Imperial Saison Strain 65,Saison style from Imperial
+White Labs Cider Strain 867,White Labs,WHI0867,Cider,Dry,66,76,High,13,26,14,No,No,AEB Cider Strain 448,Cider style from White Labs
+Renaissance Belgian Strain 868,Renaissance,REN0868,Belgian,Liquid,68,77,Low,14,19,8,No,No,Renaissance Belgian Strain 12,Belgian style from Renaissance
+Mangrove Jack’s Cider Strain 869,Mangrove Jack’s,MAN0869,Cider,Liquid,69,78,Medium,12,17,8,No,No,,Cider style from Mangrove Jack’s
+Escarpment Blend Strain 870,Escarpment,ESC0870,Blend,Liquid,66,69,High,13,26,15,No,No,Inland Island Blend Strain 1119,Blend style from Escarpment
+Lallemand Blend Strain 871,Lallemand,LAL0871,Blend,Dry,75,82,High,17,24,12,No,No,,Blend style from Lallemand
+Renaissance Blend Strain 872,Renaissance,REN0872,Blend,Dry,69,78,Low,15,26,10,No,No,,Blend style from Renaissance
+AEB Saison Strain 873,AEB,AEB0873,Saison,Liquid,71,77,High,19,29,8,No,No,,Saison style from AEB
+Imperial German Strain 874,Imperial,IMP0874,German,Liquid,70,79,Low,17,24,12,No,No,Inland Island German Strain 764,German style from Imperial
+Omega Saison Strain 875,Omega,OME0875,Saison,Dry,70,73,High,18,24,12,Yes,No,,Saison style from Omega
+Angel Saison Strain 876,Angel,ANG0876,Saison,Dry,76,85,Low,12,17,15,Yes,No,,Saison style from Angel
+Bootleg Biology German Strain 877,Bootleg Biology,BOO0877,German,Liquid,77,79,High,11,22,15,No,No,,German style from Bootleg Biology
+White Labs Lactobacillus Strain 878,White Labs,WHI0878,Lactobacillus,Dry,76,85,High,11,23,15,No,No,AEB Lactobacillus Strain 940,Lactobacillus style from White Labs
+East Coast Yeast Czech Strain 879,East Coast Yeast,EAS0879,Czech,Liquid,78,85,Low,20,34,8,No,No,Mangrove Jack’s Czech Strain 215,Czech style from East Coast Yeast
+Imperial Saison Strain 880,Imperial,IMP0880,Saison,Liquid,73,76,High,19,27,12,No,No,,Saison style from Imperial
+Renaissance Cider Strain 881,Renaissance,REN0881,Cider,Liquid,78,87,Low,17,30,14,No,No,Omega Cider Strain 613,Cider style from Renaissance
+Lallemand German Strain 882,Lallemand,LAL0882,German,Dry,65,68,Low,15,22,10,No,No,,German style from Lallemand
+Lallemand Lactobacillus Strain 883,Lallemand,LAL0883,Lactobacillus,Liquid,67,71,High,14,26,8,No,No,Lallemand Lactobacillus Strain 153,Lactobacillus style from Lallemand
+Imperial Lager Strain 884,Imperial,IMP0884,Lager,Liquid,71,78,Low,12,27,12,No,No,East Coast Yeast Lager Strain 701,Lager style from Imperial
+Inland Island Czech Strain 885,Inland Island,INL0885,Czech,Liquid,71,77,Medium,16,25,10,No,No,Fermentis Czech Strain 21,Czech style from Inland Island
+Bootleg Biology German Strain 886,Bootleg Biology,BOO0886,German,Dry,76,83,High,16,25,14,No,No,,German style from Bootleg Biology
+Lallemand Cider Strain 887,Lallemand,LAL0887,Cider,Dry,76,82,Medium,16,27,8,No,No,,Cider style from Lallemand
+Omega Belgian Strain 888,Omega,OME0888,Belgian,Liquid,71,78,High,12,27,12,No,No,East Coast Yeast Belgian Strain 54,Belgian style from Omega
+Omega Ale Strain 889,Omega,OME0889,Ale,Dry,68,73,High,15,27,15,No,No,Imperial Ale Strain 360,Ale style from Omega
+Renaissance Belgian Strain 890,Renaissance,REN0890,Belgian,Liquid,71,80,Low,19,27,15,No,No,Angel Belgian Strain 649,Belgian style from Renaissance
+Fermentis Blend Strain 891,Fermentis,FER0891,Blend,Liquid,78,85,High,17,27,10,No,No,Lallemand Blend Strain 117,Blend style from Fermentis
+Escarpment Norwegian Farmhouse Strain 892,Escarpment,ESC0892,Norwegian Farmhouse,Liquid,65,69,Medium,10,17,15,No,Yes,,Norwegian Farmhouse style from Escarpment
+Bluestone Blend Strain 893,Bluestone,BLU0893,Blend,Liquid,75,80,Low,18,24,14,No,No,,Blend style from Bluestone
+Lallemand Norwegian Farmhouse Strain 894,Lallemand,LAL0894,Norwegian Farmhouse,Dry,78,84,High,12,26,10,No,Yes,Angel Norwegian Farmhouse Strain 731,Norwegian Farmhouse style from Lallemand
+Imperial Czech Strain 895,Imperial,IMP0895,Czech,Liquid,71,81,High,19,34,12,No,No,,Czech style from Imperial
+East Coast Yeast Norwegian Farmhouse Strain 896,East Coast Yeast,EAS0896,Norwegian Farmhouse,Dry,78,88,Medium,14,27,8,No,Yes,,Norwegian Farmhouse style from East Coast Yeast
+Imperial Lactobacillus Strain 897,Imperial,IMP0897,Lactobacillus,Liquid,66,73,Medium,14,24,10,No,No,East Coast Yeast Lactobacillus Strain 501,Lactobacillus style from Imperial
+White Labs Ale Strain 898,White Labs,WHI0898,Ale,Liquid,68,75,High,16,25,12,No,No,,Ale style from White Labs
+Renaissance Kveik Strain 899,Renaissance,REN0899,Kveik,Liquid,75,85,Low,18,30,10,No,Yes,Imperial Kveik Strain 918,Kveik style from Renaissance
+Mangrove Jack’s Saison Strain 900,Mangrove Jack’s,MAN0900,Saison,Liquid,68,77,High,18,29,12,Yes,No,The Yeast Bay Saison Strain 230,Saison style from Mangrove Jack’s
+Omega Lager Strain 901,Omega,OME0901,Lager,Dry,65,71,High,11,25,14,No,No,,Lager style from Omega
+Imperial Lager Strain 902,Imperial,IMP0902,Lager,Dry,70,77,Medium,17,30,15,No,No,,Lager style from Imperial
+Lallemand Kveik Strain 903,Lallemand,LAL0903,Kveik,Liquid,72,76,Low,20,29,15,No,Yes,,Kveik style from Lallemand
+Bluestone Kveik Strain 904,Bluestone,BLU0904,Kveik,Dry,69,77,Medium,12,21,12,No,Yes,Imperial Kveik Strain 898,Kveik style from Bluestone
+The Yeast Bay Czech Strain 905,The Yeast Bay,THE0905,Czech,Dry,67,72,High,10,24,15,No,No,,Czech style from The Yeast Bay
+Inland Island Czech Strain 906,Inland Island,INL0906,Czech,Liquid,71,76,Medium,19,32,14,No,No,,Czech style from Inland Island
+Inland Island Belgian Strain 907,Inland Island,INL0907,Belgian,Dry,66,71,Medium,16,30,12,Yes,No,WHC Belgian Strain 1270,Belgian style from Inland Island
+Bootleg Biology Lager Strain 908,Bootleg Biology,BOO0908,Lager,Dry,76,86,Low,11,25,10,No,No,,Lager style from Bootleg Biology
+Bootleg Biology Cider Strain 909,Bootleg Biology,BOO0909,Cider,Dry,70,76,Low,12,17,10,No,No,,Cider style from Bootleg Biology
+Renaissance Kveik Strain 910,Renaissance,REN0910,Kveik,Liquid,68,70,Low,12,18,12,No,Yes,,Kveik style from Renaissance
+East Coast Yeast Lager Strain 911,East Coast Yeast,EAS0911,Lager,Dry,70,74,High,16,23,8,No,No,Bootleg Biology Lager Strain 420,Lager style from East Coast Yeast
+AEB German Strain 912,AEB,AEB0912,German,Dry,73,75,High,14,27,10,No,No,,German style from AEB
+Renaissance Cider Strain 913,Renaissance,REN0913,Cider,Dry,72,74,High,16,23,8,No,No,,Cider style from Renaissance
+Bootleg Biology Ale Strain 914,Bootleg Biology,BOO0914,Ale,Liquid,68,76,Low,17,29,15,No,No,Bluestone Ale Strain 309,Ale style from Bootleg Biology
+East Coast Yeast Ale Strain 915,East Coast Yeast,EAS0915,Ale,Liquid,73,76,Medium,20,32,10,No,No,,Ale style from East Coast Yeast
+Renaissance Norwegian Farmhouse Strain 916,Renaissance,REN0916,Norwegian Farmhouse,Dry,70,80,High,20,35,8,No,Yes,Inland Island Norwegian Farmhouse Strain 375,Norwegian Farmhouse style from Renaissance
+Lallemand German Strain 917,Lallemand,LAL0917,German,Dry,77,82,High,11,21,14,No,No,The Yeast Bay German Strain 929,German style from Lallemand
+WHC Czech Strain 918,WHC,WHC0918,Czech,Liquid,69,71,Medium,19,27,15,No,No,AEB Czech Strain 202,Czech style from WHC
+Omega Lactobacillus Strain 919,Omega,OME0919,Lactobacillus,Dry,67,77,Low,14,22,14,No,No,,Lactobacillus style from Omega
+Escarpment Cider Strain 920,Escarpment,ESC0920,Cider,Dry,67,75,High,16,30,12,No,No,Bluestone Cider Strain 469,Cider style from Escarpment
+The Yeast Bay Blend Strain 921,The Yeast Bay,THE0921,Blend,Liquid,73,80,High,18,28,12,No,No,AEB Blend Strain 1095,Blend style from The Yeast Bay
+Bluestone Norwegian Farmhouse Strain 922,Bluestone,BLU0922,Norwegian Farmhouse,Dry,68,73,Low,18,29,10,No,Yes,Escarpment Norwegian Farmhouse Strain 320,Norwegian Farmhouse style from Bluestone
+Omega Belgian Strain 923,Omega,OME0923,Belgian,Liquid,77,82,Medium,12,23,12,No,No,,Belgian style from Omega
+Escarpment German Strain 924,Escarpment,ESC0924,German,Liquid,67,72,High,13,28,8,No,No,,German style from Escarpment
+Bootleg Biology Kveik Strain 925,Bootleg Biology,BOO0925,Kveik,Liquid,66,75,Medium,10,23,8,No,Yes,,Kveik style from Bootleg Biology
+Fermentis Pediococcus Strain 926,Fermentis,FER0926,Pediococcus,Liquid,67,71,High,10,24,10,No,No,,Pediococcus style from Fermentis
+Imperial Belgian Strain 927,Imperial,IMP0927,Belgian,Liquid,76,80,High,19,32,10,Yes,No,Wyeast Belgian Strain 141,Belgian style from Imperial
+AEB Czech Strain 928,AEB,AEB0928,Czech,Dry,76,81,High,19,25,12,No,No,,Czech style from AEB
+Bootleg Biology Kveik Strain 929,Bootleg Biology,BOO0929,Kveik,Dry,65,75,Low,17,30,12,No,Yes,Mangrove Jack’s Kveik Strain 672,Kveik style from Bootleg Biology
+Wyeast German Strain 930,Wyeast,WYE0930,German,Dry,65,73,High,12,24,15,No,No,WHC German Strain 961,German style from Wyeast
+Renaissance Lager Strain 931,Renaissance,REN0931,Lager,Dry,67,69,Low,17,28,8,No,No,Fermentis Lager Strain 644,Lager style from Renaissance
+Renaissance Ale Strain 932,Renaissance,REN0932,Ale,Dry,74,84,Low,12,22,12,No,No,,Ale style from Renaissance
+Omega American Strain 933,Omega,OME0933,American,Dry,77,80,Medium,14,24,12,No,No,,American style from Omega
+Bootleg Biology Kveik Strain 934,Bootleg Biology,BOO0934,Kveik,Liquid,71,80,High,10,16,12,No,Yes,,Kveik style from Bootleg Biology
+Mangrove Jack’s Norwegian Farmhouse Strain 935,Mangrove Jack’s,MAN0935,Norwegian Farmhouse,Dry,76,81,Low,14,27,14,No,Yes,,Norwegian Farmhouse style from Mangrove Jack’s
+AEB American Strain 936,AEB,AEB0936,American,Liquid,66,73,Low,10,25,10,No,No,,American style from AEB
+Lallemand Pediococcus Strain 937,Lallemand,LAL0937,Pediococcus,Dry,71,81,High,11,20,12,No,No,Angel Pediococcus Strain 1254,Pediococcus style from Lallemand
+WHC Blend Strain 938,WHC,WHC0938,Blend,Liquid,76,84,High,10,15,15,No,No,AEB Blend Strain 775,Blend style from WHC
+East Coast Yeast German Strain 939,East Coast Yeast,EAS0939,German,Liquid,75,80,High,14,19,15,No,No,Bluestone German Strain 500,German style from East Coast Yeast
+Imperial Kveik Strain 940,Imperial,IMP0940,Kveik,Dry,70,77,Low,17,30,12,No,Yes,White Labs Kveik Strain 585,Kveik style from Imperial
+Omega German Strain 941,Omega,OME0941,German,Dry,71,73,Medium,11,23,14,No,No,,German style from Omega
+Fermentis Lactobacillus Strain 942,Fermentis,FER0942,Lactobacillus,Liquid,75,83,Medium,19,25,12,No,No,Mangrove Jack’s Lactobacillus Strain 131,Lactobacillus style from Fermentis
+East Coast Yeast Kveik Strain 943,East Coast Yeast,EAS0943,Kveik,Dry,76,78,High,14,28,15,No,Yes,Renaissance Kveik Strain 1066,Kveik style from East Coast Yeast
+Omega Ale Strain 944,Omega,OME0944,Ale,Dry,69,71,High,18,32,10,No,No,,Ale style from Omega
+Escarpment German Strain 945,Escarpment,ESC0945,German,Liquid,66,76,Low,12,20,8,No,No,Lallemand German Strain 7,German style from Escarpment
+WHC Brettanomyces Strain 946,WHC,WHC0946,Brettanomyces,Dry,65,70,Low,19,26,15,No,No,,Brettanomyces style from WHC
+Wyeast English Strain 947,Wyeast,WYE0947,English,Dry,77,86,Medium,11,23,14,No,No,,English style from Wyeast
+Escarpment Belgian Strain 948,Escarpment,ESC0948,Belgian,Dry,72,78,Medium,16,26,12,No,No,,Belgian style from Escarpment
+WHC Blend Strain 949,WHC,WHC0949,Blend,Liquid,70,79,Medium,11,18,14,No,No,,Blend style from WHC
+Imperial Lactobacillus Strain 950,Imperial,IMP0950,Lactobacillus,Dry,69,78,Low,18,30,15,No,No,WHC Lactobacillus Strain 333,Lactobacillus style from Imperial
+Imperial Lager Strain 951,Imperial,IMP0951,Lager,Dry,67,75,Medium,14,25,10,No,No,,Lager style from Imperial
+AEB German Strain 952,AEB,AEB0952,German,Liquid,75,77,High,16,25,10,No,No,,German style from AEB
+Renaissance Ale Strain 953,Renaissance,REN0953,Ale,Liquid,77,83,Medium,14,21,8,No,No,Bluestone Ale Strain 974,Ale style from Renaissance
+Angel Norwegian Farmhouse Strain 954,Angel,ANG0954,Norwegian Farmhouse,Liquid,65,70,Low,16,29,14,No,Yes,Inland Island Norwegian Farmhouse Strain 977,Norwegian Farmhouse style from Angel
+Mangrove Jack’s Lactobacillus Strain 955,Mangrove Jack’s,MAN0955,Lactobacillus,Dry,75,81,Low,15,23,10,No,No,The Yeast Bay Lactobacillus Strain 762,Lactobacillus style from Mangrove Jack’s
+Escarpment American Strain 956,Escarpment,ESC0956,American,Liquid,73,79,Low,11,17,15,No,No,,American style from Escarpment
+Lallemand Lager Strain 957,Lallemand,LAL0957,Lager,Dry,71,78,High,15,29,14,No,No,Angel Lager Strain 844,Lager style from Lallemand
+Mangrove Jack’s German Strain 958,Mangrove Jack’s,MAN0958,German,Dry,68,72,Medium,11,25,10,No,No,,German style from Mangrove Jack’s
+Inland Island Norwegian Farmhouse Strain 959,Inland Island,INL0959,Norwegian Farmhouse,Liquid,67,74,Medium,13,28,8,No,Yes,East Coast Yeast Norwegian Farmhouse Strain 321,Norwegian Farmhouse style from Inland Island
+Fermentis Pediococcus Strain 960,Fermentis,FER0960,Pediococcus,Liquid,74,80,Low,18,26,15,No,No,,Pediococcus style from Fermentis
+Bootleg Biology Norwegian Farmhouse Strain 961,Bootleg Biology,BOO0961,Norwegian Farmhouse,Liquid,75,83,Low,16,31,12,No,Yes,,Norwegian Farmhouse style from Bootleg Biology
+East Coast Yeast American Strain 962,East Coast Yeast,EAS0962,American,Liquid,71,74,Medium,14,27,10,No,No,,American style from East Coast Yeast
+Imperial Ale Strain 963,Imperial,IMP0963,Ale,Dry,74,80,Low,14,20,14,No,No,Imperial Ale Strain 799,Ale style from Imperial
+Bluestone Brettanomyces Strain 964,Bluestone,BLU0964,Brettanomyces,Liquid,65,72,High,20,33,12,No,No,,Brettanomyces style from Bluestone
+Fermentis Norwegian Farmhouse Strain 965,Fermentis,FER0965,Norwegian Farmhouse,Liquid,65,69,Medium,12,19,14,No,Yes,,Norwegian Farmhouse style from Fermentis
+Renaissance Czech Strain 966,Renaissance,REN0966,Czech,Dry,76,85,Medium,10,19,8,No,No,,Czech style from Renaissance
+Bluestone Cider Strain 967,Bluestone,BLU0967,Cider,Dry,74,82,Low,14,21,12,No,No,,Cider style from Bluestone
+Inland Island Blend Strain 968,Inland Island,INL0968,Blend,Liquid,72,76,High,19,31,15,No,No,,Blend style from Inland Island
+Inland Island Ale Strain 969,Inland Island,INL0969,Ale,Liquid,73,79,High,12,24,12,No,No,,Ale style from Inland Island
+Fermentis Blend Strain 970,Fermentis,FER0970,Blend,Liquid,75,83,Medium,17,27,8,No,No,East Coast Yeast Blend Strain 394,Blend style from Fermentis
+The Yeast Bay Kveik Strain 971,The Yeast Bay,THE0971,Kveik,Dry,69,73,Medium,18,28,15,No,Yes,Inland Island Kveik Strain 297,Kveik style from The Yeast Bay
+AEB Pediococcus Strain 972,AEB,AEB0972,Pediococcus,Liquid,72,76,Medium,19,30,15,No,No,,Pediococcus style from AEB
+WHC Czech Strain 973,WHC,WHC0973,Czech,Liquid,69,76,Low,10,20,15,No,No,,Czech style from WHC
+Angel Lager Strain 974,Angel,ANG0974,Lager,Liquid,76,79,Low,20,32,15,No,No,Lallemand Lager Strain 1007,Lager style from Angel
+Escarpment Saison Strain 975,Escarpment,ESC0975,Saison,Liquid,67,70,High,14,24,15,No,No,,Saison style from Escarpment
+Lallemand Lactobacillus Strain 976,Lallemand,LAL0976,Lactobacillus,Dry,77,84,High,13,27,10,No,No,Wyeast Lactobacillus Strain 706,Lactobacillus style from Lallemand
+Angel Lactobacillus Strain 977,Angel,ANG0977,Lactobacillus,Dry,70,74,Medium,20,26,10,No,No,,Lactobacillus style from Angel
+Imperial Czech Strain 978,Imperial,IMP0978,Czech,Liquid,66,71,High,17,27,12,No,No,Wyeast Czech Strain 125,Czech style from Imperial
+Mangrove Jack’s Saison Strain 979,Mangrove Jack’s,MAN0979,Saison,Liquid,73,82,High,14,28,8,Yes,No,Bootleg Biology Saison Strain 893,Saison style from Mangrove Jack’s
+Fermentis German Strain 980,Fermentis,FER0980,German,Liquid,76,81,Medium,18,27,15,No,No,,German style from Fermentis
+Wyeast German Strain 981,Wyeast,WYE0981,German,Liquid,72,74,High,16,21,8,No,No,Inland Island German Strain 1282,German style from Wyeast
+Fermentis Cider Strain 982,Fermentis,FER0982,Cider,Liquid,77,84,Low,17,22,12,No,No,Fermentis Cider Strain 887,Cider style from Fermentis
+Escarpment Saison Strain 983,Escarpment,ESC0983,Saison,Dry,65,69,Medium,17,22,8,No,No,,Saison style from Escarpment
+East Coast Yeast American Strain 984,East Coast Yeast,EAS0984,American,Dry,78,88,Low,13,18,15,No,No,Wyeast American Strain 232,American style from East Coast Yeast
+Mangrove Jack’s Cider Strain 985,Mangrove Jack’s,MAN0985,Cider,Liquid,74,81,High,15,27,15,No,No,,Cider style from Mangrove Jack’s
+Inland Island Pediococcus Strain 986,Inland Island,INL0986,Pediococcus,Liquid,76,80,Medium,20,32,14,No,No,,Pediococcus style from Inland Island
+Inland Island Czech Strain 987,Inland Island,INL0987,Czech,Liquid,72,78,Low,14,23,15,No,No,Bootleg Biology Czech Strain 231,Czech style from Inland Island
+Bootleg Biology Pediococcus Strain 988,Bootleg Biology,BOO0988,Pediococcus,Liquid,69,78,High,20,33,14,No,No,,Pediococcus style from Bootleg Biology
+Mangrove Jack’s Pediococcus Strain 989,Mangrove Jack’s,MAN0989,Pediococcus,Liquid,73,75,Medium,19,31,12,No,No,,Pediococcus style from Mangrove Jack’s
+Bluestone Saison Strain 990,Bluestone,BLU0990,Saison,Dry,75,83,High,18,25,14,No,No,Bootleg Biology Saison Strain 782,Saison style from Bluestone
+Angel Blend Strain 991,Angel,ANG0991,Blend,Liquid,77,80,High,16,21,15,No,No,,Blend style from Angel
+White Labs Pediococcus Strain 992,White Labs,WHI0992,Pediococcus,Liquid,71,73,Low,19,32,15,No,No,WHC Pediococcus Strain 73,Pediococcus style from White Labs
+Bluestone Lactobacillus Strain 993,Bluestone,BLU0993,Lactobacillus,Dry,70,76,Low,11,23,14,No,No,,Lactobacillus style from Bluestone
+AEB Czech Strain 994,AEB,AEB0994,Czech,Dry,69,73,Low,13,20,15,No,No,Wyeast Czech Strain 1286,Czech style from AEB
+East Coast Yeast Lager Strain 995,East Coast Yeast,EAS0995,Lager,Liquid,67,77,Medium,15,27,8,No,No,AEB Lager Strain 1131,Lager style from East Coast Yeast
+AEB Brettanomyces Strain 996,AEB,AEB0996,Brettanomyces,Liquid,75,82,Low,11,21,12,No,No,Bootleg Biology Brettanomyces Strain 908,Brettanomyces style from AEB
+Angel Belgian Strain 997,Angel,ANG0997,Belgian,Liquid,70,73,Low,12,22,15,No,No,,Belgian style from Angel
+Renaissance Belgian Strain 998,Renaissance,REN0998,Belgian,Liquid,78,88,Low,18,24,14,No,No,Bluestone Belgian Strain 832,Belgian style from Renaissance
+Mangrove Jack’s Norwegian Farmhouse Strain 999,Mangrove Jack’s,MAN0999,Norwegian Farmhouse,Liquid,73,78,Low,15,20,15,No,Yes,Mangrove Jack’s Norwegian Farmhouse Strain 806,Norwegian Farmhouse style from Mangrove Jack’s
+Omega Czech Strain 1000,Omega,OME1000,Czech,Liquid,68,78,High,20,34,12,No,No,,Czech style from Omega
+Bluestone Lager Strain 1001,Bluestone,BLU1001,Lager,Dry,67,76,Medium,16,24,10,No,No,White Labs Lager Strain 129,Lager style from Bluestone
+Imperial Norwegian Farmhouse Strain 1002,Imperial,IMP1002,Norwegian Farmhouse,Liquid,78,87,Medium,12,24,15,No,Yes,,Norwegian Farmhouse style from Imperial
+Angel Lactobacillus Strain 1003,Angel,ANG1003,Lactobacillus,Dry,75,82,Low,19,28,15,No,No,,Lactobacillus style from Angel
+White Labs Cider Strain 1004,White Labs,WHI1004,Cider,Dry,67,75,High,10,18,8,No,No,,Cider style from White Labs
+Omega Lactobacillus Strain 1005,Omega,OME1005,Lactobacillus,Liquid,75,85,Medium,13,25,15,No,No,Lallemand Lactobacillus Strain 119,Lactobacillus style from Omega
+Lallemand Lactobacillus Strain 1006,Lallemand,LAL1006,Lactobacillus,Dry,66,74,High,18,29,12,No,No,Bluestone Lactobacillus Strain 1023,Lactobacillus style from Lallemand
+Renaissance Lager Strain 1007,Renaissance,REN1007,Lager,Liquid,70,78,Low,15,27,14,No,No,,Lager style from Renaissance
+The Yeast Bay Lager Strain 1008,The Yeast Bay,THE1008,Lager,Dry,75,78,Low,14,24,14,No,No,,Lager style from The Yeast Bay
+Bluestone German Strain 1009,Bluestone,BLU1009,German,Dry,76,82,High,18,30,12,No,No,Fermentis German Strain 747,German style from Bluestone
+WHC Czech Strain 1010,WHC,WHC1010,Czech,Dry,74,83,Medium,10,17,8,No,No,Renaissance Czech Strain 971,Czech style from WHC
+Fermentis American Strain 1011,Fermentis,FER1011,American,Dry,70,77,High,18,31,8,No,No,White Labs American Strain 810,American style from Fermentis
+Imperial Norwegian Farmhouse Strain 1012,Imperial,IMP1012,Norwegian Farmhouse,Dry,75,84,Medium,14,29,14,No,Yes,Fermentis Norwegian Farmhouse Strain 295,Norwegian Farmhouse style from Imperial
+Bootleg Biology Norwegian Farmhouse Strain 1013,Bootleg Biology,BOO1013,Norwegian Farmhouse,Liquid,73,81,High,12,19,10,No,Yes,Omega Norwegian Farmhouse Strain 544,Norwegian Farmhouse style from Bootleg Biology
+Escarpment Lactobacillus Strain 1014,Escarpment,ESC1014,Lactobacillus,Liquid,74,83,High,11,19,15,No,No,,Lactobacillus style from Escarpment
+Renaissance Belgian Strain 1015,Renaissance,REN1015,Belgian,Dry,74,83,Medium,15,21,14,Yes,No,,Belgian style from Renaissance
+Bluestone Ale Strain 1016,Bluestone,BLU1016,Ale,Dry,71,74,High,19,25,10,No,No,,Ale style from Bluestone
+White Labs Cider Strain 1017,White Labs,WHI1017,Cider,Liquid,74,76,Low,17,26,8,No,No,East Coast Yeast Cider Strain 1184,Cider style from White Labs
+The Yeast Bay Brettanomyces Strain 1018,The Yeast Bay,THE1018,Brettanomyces,Liquid,77,81,Low,17,28,10,No,No,Lallemand Brettanomyces Strain 972,Brettanomyces style from The Yeast Bay
+Lallemand Cider Strain 1019,Lallemand,LAL1019,Cider,Liquid,72,82,High,11,21,8,No,No,,Cider style from Lallemand
+The Yeast Bay Lager Strain 1020,The Yeast Bay,THE1020,Lager,Liquid,76,80,Medium,18,27,15,No,No,,Lager style from The Yeast Bay
+Inland Island Ale Strain 1021,Inland Island,INL1021,Ale,Dry,70,76,Low,18,30,12,No,No,,Ale style from Inland Island
+Lallemand Lager Strain 1022,Lallemand,LAL1022,Lager,Liquid,65,73,Low,20,31,15,No,No,Renaissance Lager Strain 644,Lager style from Lallemand
+Mangrove Jack’s German Strain 1023,Mangrove Jack’s,MAN1023,German,Liquid,66,76,High,16,21,8,No,No,AEB German Strain 1015,German style from Mangrove Jack’s
+Inland Island Cider Strain 1024,Inland Island,INL1024,Cider,Liquid,73,80,High,18,25,10,No,No,Escarpment Cider Strain 12,Cider style from Inland Island
+The Yeast Bay Kveik Strain 1025,The Yeast Bay,THE1025,Kveik,Dry,71,79,Low,13,23,12,No,Yes,,Kveik style from The Yeast Bay
+Fermentis Brettanomyces Strain 1026,Fermentis,FER1026,Brettanomyces,Liquid,77,80,Low,12,26,10,No,No,,Brettanomyces style from Fermentis
+Escarpment Czech Strain 1027,Escarpment,ESC1027,Czech,Dry,71,79,Low,18,33,8,No,No,,Czech style from Escarpment
+Wyeast Czech Strain 1028,Wyeast,WYE1028,Czech,Dry,67,72,Medium,12,18,14,No,No,,Czech style from Wyeast
+The Yeast Bay Lactobacillus Strain 1029,The Yeast Bay,THE1029,Lactobacillus,Liquid,69,76,Medium,14,27,10,No,No,Inland Island Lactobacillus Strain 1297,Lactobacillus style from The Yeast Bay
+Bootleg Biology English Strain 1030,Bootleg Biology,BOO1030,English,Dry,71,73,Medium,19,28,15,No,No,,English style from Bootleg Biology
+Angel Lager Strain 1031,Angel,ANG1031,Lager,Liquid,68,72,Medium,11,18,10,No,No,,Lager style from Angel
+Mangrove Jack’s Blend Strain 1032,Mangrove Jack’s,MAN1032,Blend,Liquid,71,75,Medium,14,23,8,No,No,,Blend style from Mangrove Jack’s
+East Coast Yeast Norwegian Farmhouse Strain 1033,East Coast Yeast,EAS1033,Norwegian Farmhouse,Dry,78,81,Medium,18,31,14,No,Yes,AEB Norwegian Farmhouse Strain 648,Norwegian Farmhouse style from East Coast Yeast
+Mangrove Jack’s Blend Strain 1034,Mangrove Jack’s,MAN1034,Blend,Dry,75,84,Medium,15,20,12,No,No,Renaissance Blend Strain 62,Blend style from Mangrove Jack’s
+Mangrove Jack’s Czech Strain 1035,Mangrove Jack’s,MAN1035,Czech,Dry,69,74,High,18,26,15,No,No,Inland Island Czech Strain 822,Czech style from Mangrove Jack’s
+Angel Ale Strain 1036,Angel,ANG1036,Ale,Liquid,71,74,High,19,25,10,No,No,White Labs Ale Strain 1029,Ale style from Angel
+Omega Czech Strain 1037,Omega,OME1037,Czech,Dry,69,71,Low,20,33,10,No,No,,Czech style from Omega
+Escarpment Cider Strain 1038,Escarpment,ESC1038,Cider,Dry,75,77,Medium,18,32,14,No,No,Wyeast Cider Strain 800,Cider style from Escarpment
+Imperial Kveik Strain 1039,Imperial,IMP1039,Kveik,Dry,65,73,High,18,33,15,No,Yes,,Kveik style from Imperial
+The Yeast Bay American Strain 1040,The Yeast Bay,THE1040,American,Liquid,74,83,Low,14,26,12,No,No,WHC American Strain 1130,American style from The Yeast Bay
+Escarpment Kveik Strain 1041,Escarpment,ESC1041,Kveik,Dry,71,73,Low,14,21,8,No,Yes,Escarpment Kveik Strain 274,Kveik style from Escarpment
+Bluestone Kveik Strain 1042,Bluestone,BLU1042,Kveik,Liquid,77,79,Low,18,25,10,No,Yes,The Yeast Bay Kveik Strain 1002,Kveik style from Bluestone
+Renaissance German Strain 1043,Renaissance,REN1043,German,Liquid,73,83,High,14,26,12,No,No,Bluestone German Strain 20,German style from Renaissance
+Angel Lactobacillus Strain 1044,Angel,ANG1044,Lactobacillus,Dry,75,79,Medium,16,30,10,No,No,Renaissance Lactobacillus Strain 616,Lactobacillus style from Angel
+Escarpment Lactobacillus Strain 1045,Escarpment,ESC1045,Lactobacillus,Liquid,68,76,High,20,27,14,No,No,Renaissance Lactobacillus Strain 826,Lactobacillus style from Escarpment
+Omega Brettanomyces Strain 1046,Omega,OME1046,Brettanomyces,Dry,78,87,High,14,26,10,No,No,Mangrove Jack’s Brettanomyces Strain 830,Brettanomyces style from Omega
+Bluestone Saison Strain 1047,Bluestone,BLU1047,Saison,Liquid,68,74,Low,10,18,10,No,No,Renaissance Saison Strain 271,Saison style from Bluestone
+Escarpment Kveik Strain 1048,Escarpment,ESC1048,Kveik,Dry,65,74,Low,15,24,12,No,Yes,,Kveik style from Escarpment
+WHC Norwegian Farmhouse Strain 1049,WHC,WHC1049,Norwegian Farmhouse,Dry,78,81,High,15,24,15,No,Yes,Bootleg Biology Norwegian Farmhouse Strain 57,Norwegian Farmhouse style from WHC
+Renaissance German Strain 1050,Renaissance,REN1050,German,Dry,76,81,Medium,16,29,10,No,No,,German style from Renaissance
+Angel German Strain 1051,Angel,ANG1051,German,Liquid,66,69,High,17,25,15,No,No,Renaissance German Strain 686,German style from Angel
+AEB German Strain 1052,AEB,AEB1052,German,Liquid,68,72,Low,13,21,10,No,No,,German style from AEB
+WHC Czech Strain 1053,WHC,WHC1053,Czech,Liquid,74,79,High,15,29,8,No,No,,Czech style from WHC
+East Coast Yeast Belgian Strain 1054,East Coast Yeast,EAS1054,Belgian,Liquid,68,72,Medium,13,23,15,Yes,No,,Belgian style from East Coast Yeast
+Bootleg Biology Lactobacillus Strain 1055,Bootleg Biology,BOO1055,Lactobacillus,Dry,78,85,Low,18,25,14,No,No,Wyeast Lactobacillus Strain 818,Lactobacillus style from Bootleg Biology
+Imperial English Strain 1056,Imperial,IMP1056,English,Liquid,78,84,Medium,20,25,10,No,No,,English style from Imperial
+WHC English Strain 1057,WHC,WHC1057,English,Dry,69,76,Medium,16,28,12,No,No,The Yeast Bay English Strain 136,English style from WHC
+East Coast Yeast American Strain 1058,East Coast Yeast,EAS1058,American,Dry,74,76,Low,16,25,10,No,No,Imperial American Strain 983,American style from East Coast Yeast
+Angel Brettanomyces Strain 1059,Angel,ANG1059,Brettanomyces,Dry,73,76,Low,15,29,12,No,No,Imperial Brettanomyces Strain 497,Brettanomyces style from Angel
+WHC Kveik Strain 1060,WHC,WHC1060,Kveik,Liquid,72,77,Medium,13,20,14,No,Yes,Wyeast Kveik Strain 824,Kveik style from WHC
+Omega Pediococcus Strain 1061,Omega,OME1061,Pediococcus,Liquid,70,77,Medium,18,24,12,No,No,WHC Pediococcus Strain 543,Pediococcus style from Omega
+Inland Island Lactobacillus Strain 1062,Inland Island,INL1062,Lactobacillus,Liquid,78,84,Medium,18,27,15,No,No,Wyeast Lactobacillus Strain 1024,Lactobacillus style from Inland Island
+Escarpment Belgian Strain 1063,Escarpment,ESC1063,Belgian,Dry,68,72,Low,12,17,14,No,No,Inland Island Belgian Strain 709,Belgian style from Escarpment
+WHC Blend Strain 1064,WHC,WHC1064,Blend,Dry,74,83,Medium,15,25,14,No,No,Omega Blend Strain 25,Blend style from WHC
+White Labs Czech Strain 1065,White Labs,WHI1065,Czech,Liquid,65,72,Medium,12,24,8,No,No,,Czech style from White Labs
+Escarpment Czech Strain 1066,Escarpment,ESC1066,Czech,Liquid,67,75,Low,10,25,12,No,No,The Yeast Bay Czech Strain 818,Czech style from Escarpment
+Lallemand Lager Strain 1067,Lallemand,LAL1067,Lager,Dry,72,80,Low,10,25,12,No,No,,Lager style from Lallemand
+The Yeast Bay Czech Strain 1068,The Yeast Bay,THE1068,Czech,Liquid,66,73,Medium,18,28,14,No,No,,Czech style from The Yeast Bay
+Lallemand Pediococcus Strain 1069,Lallemand,LAL1069,Pediococcus,Liquid,68,71,Medium,19,32,10,No,No,,Pediococcus style from Lallemand
+Lallemand Pediococcus Strain 1070,Lallemand,LAL1070,Pediococcus,Dry,67,77,High,20,34,15,No,No,Renaissance Pediococcus Strain 922,Pediococcus style from Lallemand
+East Coast Yeast Czech Strain 1071,East Coast Yeast,EAS1071,Czech,Liquid,71,77,High,14,29,14,No,No,East Coast Yeast Czech Strain 589,Czech style from East Coast Yeast
+Imperial Cider Strain 1072,Imperial,IMP1072,Cider,Liquid,69,76,Low,20,25,8,No,No,,Cider style from Imperial
+Wyeast English Strain 1073,Wyeast,WYE1073,English,Dry,71,77,Low,15,22,14,No,No,Bluestone English Strain 754,English style from Wyeast
+Bootleg Biology Blend Strain 1074,Bootleg Biology,BOO1074,Blend,Dry,78,86,Low,12,20,14,No,No,Escarpment Blend Strain 547,Blend style from Bootleg Biology
+Imperial Cider Strain 1075,Imperial,IMP1075,Cider,Liquid,68,76,Medium,19,28,12,No,No,,Cider style from Imperial
+Omega Pediococcus Strain 1076,Omega,OME1076,Pediococcus,Dry,74,78,Medium,17,23,14,No,No,Mangrove Jack’s Pediococcus Strain 262,Pediococcus style from Omega
+Mangrove Jack’s Norwegian Farmhouse Strain 1077,Mangrove Jack’s,MAN1077,Norwegian Farmhouse,Liquid,78,86,Low,20,34,15,No,Yes,,Norwegian Farmhouse style from Mangrove Jack’s
+Fermentis Belgian Strain 1078,Fermentis,FER1078,Belgian,Liquid,66,74,Low,17,26,12,No,No,,Belgian style from Fermentis
+Angel English Strain 1079,Angel,ANG1079,English,Dry,74,79,Low,19,25,14,No,No,,English style from Angel
+Imperial Ale Strain 1080,Imperial,IMP1080,Ale,Liquid,68,74,Medium,14,27,15,No,No,Lallemand Ale Strain 1024,Ale style from Imperial
+Renaissance Kveik Strain 1081,Renaissance,REN1081,Kveik,Dry,70,80,High,10,25,10,No,Yes,Inland Island Kveik Strain 754,Kveik style from Renaissance
+White Labs Lactobacillus Strain 1082,White Labs,WHI1082,Lactobacillus,Dry,67,71,High,19,25,12,No,No,White Labs Lactobacillus Strain 1261,Lactobacillus style from White Labs
+Renaissance Saison Strain 1083,Renaissance,REN1083,Saison,Liquid,78,87,High,17,28,14,Yes,No,WHC Saison Strain 822,Saison style from Renaissance
+Bluestone Kveik Strain 1084,Bluestone,BLU1084,Kveik,Liquid,78,85,High,11,23,12,No,Yes,WHC Kveik Strain 431,Kveik style from Bluestone
+The Yeast Bay Czech Strain 1085,The Yeast Bay,THE1085,Czech,Liquid,71,75,Medium,11,26,15,No,No,White Labs Czech Strain 394,Czech style from The Yeast Bay
+Inland Island English Strain 1086,Inland Island,INL1086,English,Dry,74,84,Low,14,28,12,No,No,Omega English Strain 1296,English style from Inland Island
+Angel Brettanomyces Strain 1087,Angel,ANG1087,Brettanomyces,Liquid,72,75,High,17,23,8,No,No,,Brettanomyces style from Angel
+AEB Kveik Strain 1088,AEB,AEB1088,Kveik,Dry,67,72,Low,17,31,12,No,Yes,Mangrove Jack’s Kveik Strain 194,Kveik style from AEB
+Imperial Lager Strain 1089,Imperial,IMP1089,Lager,Dry,71,78,High,13,21,8,No,No,,Lager style from Imperial
+Wyeast Saison Strain 1090,Wyeast,WYE1090,Saison,Liquid,73,78,Low,18,30,10,No,No,,Saison style from Wyeast
+Imperial Saison Strain 1091,Imperial,IMP1091,Saison,Dry,75,84,Low,15,26,12,No,No,Mangrove Jack’s Saison Strain 968,Saison style from Imperial
+Wyeast English Strain 1092,Wyeast,WYE1092,English,Dry,68,76,High,16,25,15,No,No,,English style from Wyeast
+Mangrove Jack’s Pediococcus Strain 1093,Mangrove Jack’s,MAN1093,Pediococcus,Dry,78,86,Low,19,24,8,No,No,WHC Pediococcus Strain 917,Pediococcus style from Mangrove Jack’s
+Wyeast Kveik Strain 1094,Wyeast,WYE1094,Kveik,Dry,71,74,Medium,17,32,8,No,Yes,,Kveik style from Wyeast
+East Coast Yeast American Strain 1095,East Coast Yeast,EAS1095,American,Dry,75,78,Low,13,23,8,No,No,,American style from East Coast Yeast
+Bootleg Biology Lager Strain 1096,Bootleg Biology,BOO1096,Lager,Liquid,76,81,High,18,24,15,No,No,Imperial Lager Strain 499,Lager style from Bootleg Biology
+Imperial Norwegian Farmhouse Strain 1097,Imperial,IMP1097,Norwegian Farmhouse,Liquid,65,68,Medium,18,23,10,No,Yes,,Norwegian Farmhouse style from Imperial
+White Labs Blend Strain 1098,White Labs,WHI1098,Blend,Dry,65,67,High,14,26,8,No,No,,Blend style from White Labs
+Bootleg Biology Lager Strain 1099,Bootleg Biology,BOO1099,Lager,Dry,73,79,Low,16,24,14,No,No,,Lager style from Bootleg Biology
+White Labs Blend Strain 1100,White Labs,WHI1100,Blend,Liquid,71,77,High,20,27,12,No,No,,Blend style from White Labs
+AEB Saison Strain 1101,AEB,AEB1101,Saison,Liquid,69,79,Medium,13,23,10,Yes,No,Mangrove Jack’s Saison Strain 511,Saison style from AEB
+Renaissance Saison Strain 1102,Renaissance,REN1102,Saison,Dry,75,77,Low,17,28,15,Yes,No,Renaissance Saison Strain 434,Saison style from Renaissance
+Bluestone Lager Strain 1103,Bluestone,BLU1103,Lager,Liquid,75,83,Medium,12,23,14,No,No,Mangrove Jack’s Lager Strain 791,Lager style from Bluestone
+Wyeast Ale Strain 1104,Wyeast,WYE1104,Ale,Dry,69,79,High,13,20,10,No,No,Angel Ale Strain 414,Ale style from Wyeast
+Bluestone Pediococcus Strain 1105,Bluestone,BLU1105,Pediococcus,Dry,71,76,High,13,26,15,No,No,East Coast Yeast Pediococcus Strain 674,Pediococcus style from Bluestone
+Fermentis Pediococcus Strain 1106,Fermentis,FER1106,Pediococcus,Liquid,74,81,High,17,32,12,No,No,,Pediococcus style from Fermentis
+Escarpment Norwegian Farmhouse Strain 1107,Escarpment,ESC1107,Norwegian Farmhouse,Dry,75,77,High,10,17,12,No,Yes,,Norwegian Farmhouse style from Escarpment
+Mangrove Jack’s Blend Strain 1108,Mangrove Jack’s,MAN1108,Blend,Liquid,65,72,Medium,13,28,12,No,No,White Labs Blend Strain 834,Blend style from Mangrove Jack’s
+Wyeast Pediococcus Strain 1109,Wyeast,WYE1109,Pediococcus,Liquid,67,70,High,15,20,10,No,No,Omega Pediococcus Strain 607,Pediococcus style from Wyeast
+Imperial Ale Strain 1110,Imperial,IMP1110,Ale,Dry,71,78,Medium,14,29,14,No,No,The Yeast Bay Ale Strain 705,Ale style from Imperial
+White Labs German Strain 1111,White Labs,WHI1111,German,Liquid,66,69,Low,12,20,12,No,No,White Labs German Strain 1077,German style from White Labs
+Omega Cider Strain 1112,Omega,OME1112,Cider,Dry,75,81,Low,10,15,8,No,No,,Cider style from Omega
+Inland Island Cider Strain 1113,Inland Island,INL1113,Cider,Liquid,69,77,Medium,14,21,15,No,No,White Labs Cider Strain 516,Cider style from Inland Island
+Renaissance Blend Strain 1114,Renaissance,REN1114,Blend,Liquid,72,75,High,19,31,14,No,No,WHC Blend Strain 275,Blend style from Renaissance
+Escarpment Ale Strain 1115,Escarpment,ESC1115,Ale,Dry,65,68,Low,11,18,10,No,No,Bootleg Biology Ale Strain 514,Ale style from Escarpment
+Bluestone Ale Strain 1116,Bluestone,BLU1116,Ale,Liquid,68,76,Low,18,27,12,No,No,,Ale style from Bluestone
+Bluestone Czech Strain 1117,Bluestone,BLU1117,Czech,Liquid,72,80,High,17,23,8,No,No,,Czech style from Bluestone
+East Coast Yeast Brettanomyces Strain 1118,East Coast Yeast,EAS1118,Brettanomyces,Dry,66,74,Low,19,31,12,No,No,,Brettanomyces style from East Coast Yeast
+WHC Lactobacillus Strain 1119,WHC,WHC1119,Lactobacillus,Liquid,66,72,High,15,20,14,No,No,The Yeast Bay Lactobacillus Strain 1270,Lactobacillus style from WHC
+Lallemand Brettanomyces Strain 1120,Lallemand,LAL1120,Brettanomyces,Dry,71,75,High,19,26,10,No,No,,Brettanomyces style from Lallemand
+Mangrove Jack’s Pediococcus Strain 1121,Mangrove Jack’s,MAN1121,Pediococcus,Liquid,76,83,Low,12,23,15,No,No,,Pediococcus style from Mangrove Jack’s
+Bluestone Cider Strain 1122,Bluestone,BLU1122,Cider,Dry,70,73,Low,19,28,15,No,No,,Cider style from Bluestone
+Imperial Brettanomyces Strain 1123,Imperial,IMP1123,Brettanomyces,Dry,70,78,High,18,30,8,No,No,,Brettanomyces style from Imperial
+AEB German Strain 1124,AEB,AEB1124,German,Dry,70,80,Low,20,35,10,No,No,White Labs German Strain 783,German style from AEB
+The Yeast Bay American Strain 1125,The Yeast Bay,THE1125,American,Dry,78,84,High,15,28,10,No,No,WHC American Strain 964,American style from The Yeast Bay
+Omega American Strain 1126,Omega,OME1126,American,Dry,73,77,Low,20,27,15,No,No,WHC American Strain 977,American style from Omega
+Mangrove Jack’s Cider Strain 1127,Mangrove Jack’s,MAN1127,Cider,Liquid,78,85,Medium,14,28,15,No,No,Omega Cider Strain 540,Cider style from Mangrove Jack’s
+The Yeast Bay Norwegian Farmhouse Strain 1128,The Yeast Bay,THE1128,Norwegian Farmhouse,Dry,67,70,Low,11,26,8,No,Yes,Mangrove Jack’s Norwegian Farmhouse Strain 1209,Norwegian Farmhouse style from The Yeast Bay
+White Labs Norwegian Farmhouse Strain 1129,White Labs,WHI1129,Norwegian Farmhouse,Liquid,72,76,Low,16,24,10,No,Yes,Lallemand Norwegian Farmhouse Strain 19,Norwegian Farmhouse style from White Labs
+Bluestone Norwegian Farmhouse Strain 1130,Bluestone,BLU1130,Norwegian Farmhouse,Liquid,72,80,High,20,30,12,No,Yes,Lallemand Norwegian Farmhouse Strain 1011,Norwegian Farmhouse style from Bluestone
+Bootleg Biology German Strain 1131,Bootleg Biology,BOO1131,German,Liquid,71,75,Medium,20,26,12,No,No,,German style from Bootleg Biology
+Bluestone Norwegian Farmhouse Strain 1132,Bluestone,BLU1132,Norwegian Farmhouse,Liquid,74,84,Medium,11,22,15,No,Yes,Bluestone Norwegian Farmhouse Strain 676,Norwegian Farmhouse style from Bluestone
+The Yeast Bay Lager Strain 1133,The Yeast Bay,THE1133,Lager,Liquid,77,84,Low,19,26,10,No,No,,Lager style from The Yeast Bay
+Mangrove Jack’s Belgian Strain 1134,Mangrove Jack’s,MAN1134,Belgian,Liquid,77,84,Medium,12,20,8,No,No,Renaissance Belgian Strain 568,Belgian style from Mangrove Jack’s
+Bootleg Biology Kveik Strain 1135,Bootleg Biology,BOO1135,Kveik,Dry,67,72,High,14,19,14,No,Yes,East Coast Yeast Kveik Strain 659,Kveik style from Bootleg Biology
+Inland Island English Strain 1136,Inland Island,INL1136,English,Liquid,69,74,Low,17,32,14,No,No,Omega English Strain 283,English style from Inland Island
+AEB Cider Strain 1137,AEB,AEB1137,Cider,Liquid,67,77,Medium,14,23,12,No,No,,Cider style from AEB
+Bluestone Brettanomyces Strain 1138,Bluestone,BLU1138,Brettanomyces,Dry,76,80,High,10,21,12,No,No,Omega Brettanomyces Strain 1253,Brettanomyces style from Bluestone
+Renaissance Ale Strain 1139,Renaissance,REN1139,Ale,Dry,71,77,Medium,11,22,12,No,No,,Ale style from Renaissance
+White Labs Lactobacillus Strain 1140,White Labs,WHI1140,Lactobacillus,Dry,77,85,High,10,21,15,No,No,Inland Island Lactobacillus Strain 674,Lactobacillus style from White Labs
+AEB Lager Strain 1141,AEB,AEB1141,Lager,Dry,69,71,Low,11,18,14,No,No,,Lager style from AEB
+Inland Island Blend Strain 1142,Inland Island,INL1142,Blend,Liquid,71,80,Medium,14,23,12,No,No,East Coast Yeast Blend Strain 845,Blend style from Inland Island
+Inland Island Pediococcus Strain 1143,Inland Island,INL1143,Pediococcus,Dry,66,73,Medium,17,27,14,No,No,The Yeast Bay Pediococcus Strain 1176,Pediococcus style from Inland Island
+AEB Saison Strain 1144,AEB,AEB1144,Saison,Dry,77,82,High,15,22,14,No,No,,Saison style from AEB
+Omega Ale Strain 1145,Omega,OME1145,Ale,Liquid,78,81,High,13,28,14,No,No,Inland Island Ale Strain 1180,Ale style from Omega
+AEB Kveik Strain 1146,AEB,AEB1146,Kveik,Liquid,66,72,Medium,19,32,12,No,Yes,AEB Kveik Strain 319,Kveik style from AEB
+Wyeast English Strain 1147,Wyeast,WYE1147,English,Liquid,73,83,Low,12,26,8,No,No,Imperial English Strain 722,English style from Wyeast
+AEB Pediococcus Strain 1148,AEB,AEB1148,Pediococcus,Dry,76,84,Medium,13,25,15,No,No,Omega Pediococcus Strain 534,Pediococcus style from AEB
+Inland Island Brettanomyces Strain 1149,Inland Island,INL1149,Brettanomyces,Liquid,75,77,High,16,23,12,No,No,Fermentis Brettanomyces Strain 268,Brettanomyces style from Inland Island
+Bootleg Biology Kveik Strain 1150,Bootleg Biology,BOO1150,Kveik,Liquid,74,84,High,10,18,14,No,Yes,Escarpment Kveik Strain 589,Kveik style from Bootleg Biology
+Angel Norwegian Farmhouse Strain 1151,Angel,ANG1151,Norwegian Farmhouse,Liquid,75,83,High,15,30,12,No,Yes,,Norwegian Farmhouse style from Angel
+Renaissance Blend Strain 1152,Renaissance,REN1152,Blend,Liquid,70,73,Low,12,19,8,No,No,Omega Blend Strain 330,Blend style from Renaissance
+Renaissance English Strain 1153,Renaissance,REN1153,English,Dry,68,71,Medium,15,22,14,No,No,Lallemand English Strain 962,English style from Renaissance
+Wyeast Saison Strain 1154,Wyeast,WYE1154,Saison,Liquid,67,76,Low,18,25,12,Yes,No,,Saison style from Wyeast
+Renaissance German Strain 1155,Renaissance,REN1155,German,Dry,72,82,Medium,12,18,10,No,No,,German style from Renaissance
+Angel Saison Strain 1156,Angel,ANG1156,Saison,Liquid,68,78,Low,20,30,14,Yes,No,,Saison style from Angel
+Inland Island Blend Strain 1157,Inland Island,INL1157,Blend,Dry,75,82,Low,19,34,8,No,No,Angel Blend Strain 327,Blend style from Inland Island
+AEB Czech Strain 1158,AEB,AEB1158,Czech,Dry,73,79,Low,17,25,8,No,No,Angel Czech Strain 71,Czech style from AEB
+WHC Lactobacillus Strain 1159,WHC,WHC1159,Lactobacillus,Dry,73,77,Medium,10,17,15,No,No,Lallemand Lactobacillus Strain 487,Lactobacillus style from WHC
+East Coast Yeast English Strain 1160,East Coast Yeast,EAS1160,English,Liquid,68,75,High,12,17,15,No,No,,English style from East Coast Yeast
+Lallemand Kveik Strain 1161,Lallemand,LAL1161,Kveik,Liquid,77,82,High,18,23,10,No,Yes,,Kveik style from Lallemand
+Fermentis Pediococcus Strain 1162,Fermentis,FER1162,Pediococcus,Liquid,74,79,Low,12,22,15,No,No,,Pediococcus style from Fermentis
+Bluestone Pediococcus Strain 1163,Bluestone,BLU1163,Pediococcus,Liquid,66,72,High,19,30,8,No,No,,Pediococcus style from Bluestone
+Lallemand Cider Strain 1164,Lallemand,LAL1164,Cider,Dry,78,88,Low,19,25,10,No,No,,Cider style from Lallemand
+Bootleg Biology Pediococcus Strain 1165,Bootleg Biology,BOO1165,Pediococcus,Dry,76,85,Medium,10,25,10,No,No,Escarpment Pediococcus Strain 637,Pediococcus style from Bootleg Biology
+Omega German Strain 1166,Omega,OME1166,German,Dry,77,85,High,14,28,12,No,No,,German style from Omega
+Escarpment Pediococcus Strain 1167,Escarpment,ESC1167,Pediococcus,Dry,73,82,High,12,21,8,No,No,,Pediococcus style from Escarpment
+Omega Lager Strain 1168,Omega,OME1168,Lager,Liquid,68,74,Medium,15,25,8,No,No,,Lager style from Omega
+Angel Norwegian Farmhouse Strain 1169,Angel,ANG1169,Norwegian Farmhouse,Liquid,72,82,Low,17,25,12,No,Yes,The Yeast Bay Norwegian Farmhouse Strain 564,Norwegian Farmhouse style from Angel
+AEB Norwegian Farmhouse Strain 1170,AEB,AEB1170,Norwegian Farmhouse,Dry,72,75,High,17,29,12,No,Yes,,Norwegian Farmhouse style from AEB
+Escarpment Czech Strain 1171,Escarpment,ESC1171,Czech,Liquid,77,80,Low,11,16,8,No,No,,Czech style from Escarpment
+Omega Lager Strain 1172,Omega,OME1172,Lager,Dry,70,72,High,13,24,8,No,No,,Lager style from Omega
+Fermentis Czech Strain 1173,Fermentis,FER1173,Czech,Dry,70,73,Low,20,26,8,No,No,Angel Czech Strain 636,Czech style from Fermentis
+WHC Ale Strain 1174,WHC,WHC1174,Ale,Dry,76,85,Medium,15,21,15,No,No,,Ale style from WHC
+Bluestone Brettanomyces Strain 1175,Bluestone,BLU1175,Brettanomyces,Liquid,76,82,Medium,12,18,15,No,No,,Brettanomyces style from Bluestone
+Bluestone German Strain 1176,Bluestone,BLU1176,German,Liquid,66,69,Medium,15,27,10,No,No,Angel German Strain 594,German style from Bluestone
+East Coast Yeast Cider Strain 1177,East Coast Yeast,EAS1177,Cider,Liquid,78,88,Low,16,27,10,No,No,Bootleg Biology Cider Strain 207,Cider style from East Coast Yeast
+The Yeast Bay Brettanomyces Strain 1178,The Yeast Bay,THE1178,Brettanomyces,Liquid,78,80,High,18,28,15,No,No,Lallemand Brettanomyces Strain 1181,Brettanomyces style from The Yeast Bay
+Imperial English Strain 1179,Imperial,IMP1179,English,Liquid,68,78,High,16,22,15,No,No,,English style from Imperial
+East Coast Yeast Saison Strain 1180,East Coast Yeast,EAS1180,Saison,Liquid,70,75,High,10,25,15,No,No,The Yeast Bay Saison Strain 437,Saison style from East Coast Yeast
+AEB German Strain 1181,AEB,AEB1181,German,Liquid,76,86,High,12,17,12,No,No,The Yeast Bay German Strain 814,German style from AEB
+Bootleg Biology Ale Strain 1182,Bootleg Biology,BOO1182,Ale,Liquid,78,80,High,12,20,8,No,No,,Ale style from Bootleg Biology
+WHC Lager Strain 1183,WHC,WHC1183,Lager,Dry,67,72,High,11,23,10,No,No,,Lager style from WHC
+Lallemand Lager Strain 1184,Lallemand,LAL1184,Lager,Dry,68,71,Low,18,33,10,No,No,,Lager style from Lallemand
+Renaissance Kveik Strain 1185,Renaissance,REN1185,Kveik,Liquid,75,84,High,16,21,15,No,Yes,,Kveik style from Renaissance
+White Labs Pediococcus Strain 1186,White Labs,WHI1186,Pediococcus,Liquid,69,73,Medium,15,27,14,No,No,Bootleg Biology Pediococcus Strain 502,Pediococcus style from White Labs
+Imperial German Strain 1187,Imperial,IMP1187,German,Dry,77,79,Low,18,26,10,No,No,Wyeast German Strain 765,German style from Imperial
+AEB English Strain 1188,AEB,AEB1188,English,Liquid,70,75,High,18,30,15,No,No,,English style from AEB
+Bluestone Ale Strain 1189,Bluestone,BLU1189,Ale,Dry,73,81,High,16,27,10,No,No,Renaissance Ale Strain 726,Ale style from Bluestone
+The Yeast Bay Cider Strain 1190,The Yeast Bay,THE1190,Cider,Dry,65,69,Low,20,30,12,No,No,,Cider style from The Yeast Bay
+Fermentis Brettanomyces Strain 1191,Fermentis,FER1191,Brettanomyces,Liquid,67,77,Low,17,30,14,No,No,,Brettanomyces style from Fermentis
+The Yeast Bay Lager Strain 1192,The Yeast Bay,THE1192,Lager,Liquid,70,74,High,15,25,8,No,No,,Lager style from The Yeast Bay
+Renaissance Belgian Strain 1193,Renaissance,REN1193,Belgian,Liquid,69,76,High,16,29,8,Yes,No,WHC Belgian Strain 1040,Belgian style from Renaissance
+The Yeast Bay German Strain 1194,The Yeast Bay,THE1194,German,Liquid,77,82,Low,20,33,8,No,No,,German style from The Yeast Bay
+Imperial Belgian Strain 1195,Imperial,IMP1195,Belgian,Dry,66,69,Low,19,30,15,Yes,No,White Labs Belgian Strain 257,Belgian style from Imperial
+Renaissance Saison Strain 1196,Renaissance,REN1196,Saison,Dry,76,80,High,18,25,15,No,No,Mangrove Jack’s Saison Strain 651,Saison style from Renaissance
+Escarpment Czech Strain 1197,Escarpment,ESC1197,Czech,Liquid,70,80,Low,15,21,8,No,No,Inland Island Czech Strain 1059,Czech style from Escarpment
+AEB Belgian Strain 1198,AEB,AEB1198,Belgian,Liquid,77,84,Medium,17,22,14,Yes,No,,Belgian style from AEB
+Bluestone German Strain 1199,Bluestone,BLU1199,German,Dry,75,83,Medium,18,27,10,No,No,,German style from Bluestone
+Angel English Strain 1200,Angel,ANG1200,English,Liquid,67,77,Medium,17,30,14,No,No,,English style from Angel
+Escarpment Lactobacillus Strain 1201,Escarpment,ESC1201,Lactobacillus,Dry,75,77,Medium,17,32,14,No,No,Mangrove Jack’s Lactobacillus Strain 1004,Lactobacillus style from Escarpment
+Inland Island American Strain 1202,Inland Island,INL1202,American,Dry,73,82,Low,11,19,8,No,No,,American style from Inland Island
+East Coast Yeast German Strain 1203,East Coast Yeast,EAS1203,German,Dry,73,79,High,15,21,12,No,No,,German style from East Coast Yeast
+Escarpment Brettanomyces Strain 1204,Escarpment,ESC1204,Brettanomyces,Dry,65,68,Low,17,30,10,No,No,,Brettanomyces style from Escarpment
+Inland Island Lager Strain 1205,Inland Island,INL1205,Lager,Liquid,76,86,Medium,14,26,10,No,No,,Lager style from Inland Island
+Bluestone Kveik Strain 1206,Bluestone,BLU1206,Kveik,Liquid,65,73,High,14,29,14,No,Yes,,Kveik style from Bluestone
+The Yeast Bay American Strain 1207,The Yeast Bay,THE1207,American,Liquid,77,86,Low,12,25,14,No,No,,American style from The Yeast Bay
+Wyeast Lactobacillus Strain 1208,Wyeast,WYE1208,Lactobacillus,Dry,77,86,Low,10,20,8,No,No,Omega Lactobacillus Strain 913,Lactobacillus style from Wyeast
+White Labs American Strain 1209,White Labs,WHI1209,American,Dry,76,82,Medium,19,31,8,No,No,Omega American Strain 1167,American style from White Labs
+Imperial Blend Strain 1210,Imperial,IMP1210,Blend,Dry,66,72,Low,17,22,10,No,No,The Yeast Bay Blend Strain 899,Blend style from Imperial
+Bluestone Czech Strain 1211,Bluestone,BLU1211,Czech,Liquid,78,86,Medium,10,17,10,No,No,Renaissance Czech Strain 336,Czech style from Bluestone
+AEB Cider Strain 1212,AEB,AEB1212,Cider,Dry,75,78,Low,14,21,15,No,No,Wyeast Cider Strain 697,Cider style from AEB
+The Yeast Bay Ale Strain 1213,The Yeast Bay,THE1213,Ale,Dry,70,74,High,20,28,8,No,No,Wyeast Ale Strain 689,Ale style from The Yeast Bay
+White Labs Blend Strain 1214,White Labs,WHI1214,Blend,Dry,65,72,High,10,20,10,No,No,Lallemand Blend Strain 857,Blend style from White Labs
+AEB Belgian Strain 1215,AEB,AEB1215,Belgian,Dry,72,74,Low,15,25,10,No,No,Renaissance Belgian Strain 1034,Belgian style from AEB
+Inland Island Blend Strain 1216,Inland Island,INL1216,Blend,Liquid,73,76,High,18,28,15,No,No,,Blend style from Inland Island
+Imperial Belgian Strain 1217,Imperial,IMP1217,Belgian,Liquid,66,73,Low,12,24,14,No,No,Angel Belgian Strain 949,Belgian style from Imperial
+Bootleg Biology Ale Strain 1218,Bootleg Biology,BOO1218,Ale,Dry,71,77,Medium,12,18,10,No,No,AEB Ale Strain 341,Ale style from Bootleg Biology
+East Coast Yeast Pediococcus Strain 1219,East Coast Yeast,EAS1219,Pediococcus,Liquid,76,84,Medium,17,25,8,No,No,Wyeast Pediococcus Strain 1038,Pediococcus style from East Coast Yeast
+Wyeast Czech Strain 1220,Wyeast,WYE1220,Czech,Liquid,73,80,Low,13,28,10,No,No,,Czech style from Wyeast
+Imperial German Strain 1221,Imperial,IMP1221,German,Liquid,73,81,High,18,25,14,No,No,,German style from Imperial
+Imperial Cider Strain 1222,Imperial,IMP1222,Cider,Dry,73,78,Low,16,29,14,No,No,Fermentis Cider Strain 1175,Cider style from Imperial
+Wyeast Lactobacillus Strain 1223,Wyeast,WYE1223,Lactobacillus,Liquid,66,70,Medium,11,21,14,No,No,,Lactobacillus style from Wyeast
+White Labs English Strain 1224,White Labs,WHI1224,English,Dry,66,76,Medium,17,28,10,No,No,,English style from White Labs
+Mangrove Jack’s Pediococcus Strain 1225,Mangrove Jack’s,MAN1225,Pediococcus,Liquid,65,71,Medium,16,27,10,No,No,Fermentis Pediococcus Strain 708,Pediococcus style from Mangrove Jack’s
+AEB Pediococcus Strain 1226,AEB,AEB1226,Pediococcus,Dry,68,74,Low,17,22,8,No,No,Lallemand Pediococcus Strain 1108,Pediococcus style from AEB
+Wyeast American Strain 1227,Wyeast,WYE1227,American,Liquid,72,78,High,15,20,14,No,No,Fermentis American Strain 235,American style from Wyeast
+Angel Pediococcus Strain 1228,Angel,ANG1228,Pediococcus,Liquid,68,78,Medium,18,29,15,No,No,Lallemand Pediococcus Strain 1079,Pediococcus style from Angel
+White Labs Kveik Strain 1229,White Labs,WHI1229,Kveik,Dry,67,77,Low,11,19,10,No,Yes,Angel Kveik Strain 616,Kveik style from White Labs
+Mangrove Jack’s Saison Strain 1230,Mangrove Jack’s,MAN1230,Saison,Liquid,67,74,High,20,33,12,No,No,,Saison style from Mangrove Jack’s
+Bluestone Blend Strain 1231,Bluestone,BLU1231,Blend,Dry,73,79,Medium,16,26,12,No,No,Imperial Blend Strain 859,Blend style from Bluestone
+Fermentis Pediococcus Strain 1232,Fermentis,FER1232,Pediococcus,Liquid,72,77,High,16,24,8,No,No,,Pediococcus style from Fermentis
+Bootleg Biology Kveik Strain 1233,Bootleg Biology,BOO1233,Kveik,Liquid,72,79,Low,13,19,14,No,Yes,Escarpment Kveik Strain 420,Kveik style from Bootleg Biology
+Omega Lactobacillus Strain 1234,Omega,OME1234,Lactobacillus,Dry,66,69,High,12,27,12,No,No,Omega Lactobacillus Strain 316,Lactobacillus style from Omega
+AEB Czech Strain 1235,AEB,AEB1235,Czech,Liquid,65,69,Medium,12,25,10,No,No,Escarpment Czech Strain 338,Czech style from AEB
+WHC Saison Strain 1236,WHC,WHC1236,Saison,Liquid,66,74,Medium,18,23,12,Yes,No,,Saison style from WHC
+Omega Saison Strain 1237,Omega,OME1237,Saison,Liquid,72,81,High,20,27,10,Yes,No,Angel Saison Strain 912,Saison style from Omega
+White Labs Saison Strain 1238,White Labs,WHI1238,Saison,Dry,70,74,Low,16,27,12,Yes,No,Inland Island Saison Strain 1154,Saison style from White Labs
+The Yeast Bay Norwegian Farmhouse Strain 1239,The Yeast Bay,THE1239,Norwegian Farmhouse,Dry,78,86,Low,13,23,8,No,Yes,,Norwegian Farmhouse style from The Yeast Bay
+Renaissance Cider Strain 1240,Renaissance,REN1240,Cider,Liquid,70,78,Low,14,26,14,No,No,WHC Cider Strain 679,Cider style from Renaissance
+Imperial Lager Strain 1241,Imperial,IMP1241,Lager,Dry,72,81,Medium,17,29,8,No,No,East Coast Yeast Lager Strain 321,Lager style from Imperial
+Omega Ale Strain 1242,Omega,OME1242,Ale,Liquid,67,73,Medium,20,31,10,No,No,,Ale style from Omega
+Escarpment Pediococcus Strain 1243,Escarpment,ESC1243,Pediococcus,Dry,72,77,Low,20,26,10,No,No,,Pediococcus style from Escarpment
+Inland Island Norwegian Farmhouse Strain 1244,Inland Island,INL1244,Norwegian Farmhouse,Dry,72,79,High,15,28,14,No,Yes,,Norwegian Farmhouse style from Inland Island
+Mangrove Jack’s Kveik Strain 1245,Mangrove Jack’s,MAN1245,Kveik,Liquid,74,82,Medium,20,32,15,No,Yes,,Kveik style from Mangrove Jack’s
+AEB Kveik Strain 1246,AEB,AEB1246,Kveik,Dry,75,78,Low,14,25,14,No,Yes,,Kveik style from AEB
+Bluestone German Strain 1247,Bluestone,BLU1247,German,Liquid,71,77,Low,20,29,8,No,No,,German style from Bluestone
+Escarpment Cider Strain 1248,Escarpment,ESC1248,Cider,Liquid,74,79,High,19,30,14,No,No,The Yeast Bay Cider Strain 939,Cider style from Escarpment
+Omega Belgian Strain 1249,Omega,OME1249,Belgian,Liquid,66,76,High,16,21,14,Yes,No,,Belgian style from Omega
+Bluestone Pediococcus Strain 1250,Bluestone,BLU1250,Pediococcus,Liquid,70,78,High,15,26,12,No,No,The Yeast Bay Pediococcus Strain 837,Pediococcus style from Bluestone
+Bootleg Biology Belgian Strain 1251,Bootleg Biology,BOO1251,Belgian,Dry,77,80,Low,15,20,14,No,No,,Belgian style from Bootleg Biology
+Imperial Pediococcus Strain 1252,Imperial,IMP1252,Pediococcus,Dry,76,78,High,12,27,15,No,No,AEB Pediococcus Strain 804,Pediococcus style from Imperial
+Fermentis Lager Strain 1253,Fermentis,FER1253,Lager,Liquid,68,71,Low,12,20,8,No,No,WHC Lager Strain 1286,Lager style from Fermentis
+Angel Pediococcus Strain 1254,Angel,ANG1254,Pediococcus,Dry,68,78,Low,11,23,8,No,No,,Pediococcus style from Angel
+Renaissance Norwegian Farmhouse Strain 1255,Renaissance,REN1255,Norwegian Farmhouse,Dry,71,74,Low,12,22,14,No,Yes,,Norwegian Farmhouse style from Renaissance
+Lallemand Ale Strain 1256,Lallemand,LAL1256,Ale,Liquid,72,81,Medium,17,32,15,No,No,White Labs Ale Strain 41,Ale style from Lallemand
+Omega Czech Strain 1257,Omega,OME1257,Czech,Liquid,69,71,High,14,23,10,No,No,,Czech style from Omega
+Mangrove Jack’s Ale Strain 1258,Mangrove Jack’s,MAN1258,Ale,Dry,68,77,Low,17,24,12,No,No,,Ale style from Mangrove Jack’s
+Wyeast English Strain 1259,Wyeast,WYE1259,English,Liquid,73,78,Medium,19,29,10,No,No,The Yeast Bay English Strain 99,English style from Wyeast
+Bluestone German Strain 1260,Bluestone,BLU1260,German,Liquid,65,72,Low,18,30,8,No,No,Renaissance German Strain 499,German style from Bluestone
+Fermentis Blend Strain 1261,Fermentis,FER1261,Blend,Liquid,77,82,Medium,15,29,15,No,No,,Blend style from Fermentis
+White Labs Belgian Strain 1262,White Labs,WHI1262,Belgian,Dry,69,74,Medium,18,31,15,No,No,Angel Belgian Strain 937,Belgian style from White Labs
+WHC American Strain 1263,WHC,WHC1263,American,Dry,67,73,High,11,24,10,No,No,White Labs American Strain 739,American style from WHC
+Lallemand German Strain 1264,Lallemand,LAL1264,German,Liquid,76,78,Low,17,25,14,No,No,Renaissance German Strain 87,German style from Lallemand
+East Coast Yeast Blend Strain 1265,East Coast Yeast,EAS1265,Blend,Dry,78,82,High,16,22,12,No,No,,Blend style from East Coast Yeast
+Inland Island American Strain 1266,Inland Island,INL1266,American,Liquid,66,71,Medium,19,31,8,No,No,,American style from Inland Island
+The Yeast Bay Saison Strain 1267,The Yeast Bay,THE1267,Saison,Liquid,68,72,High,14,29,14,No,No,,Saison style from The Yeast Bay
+WHC Blend Strain 1268,WHC,WHC1268,Blend,Liquid,76,83,Medium,20,30,14,No,No,,Blend style from WHC
+Fermentis Lactobacillus Strain 1269,Fermentis,FER1269,Lactobacillus,Liquid,77,86,High,10,19,12,No,No,Escarpment Lactobacillus Strain 709,Lactobacillus style from Fermentis
+AEB Brettanomyces Strain 1270,AEB,AEB1270,Brettanomyces,Liquid,71,81,Medium,18,29,10,No,No,,Brettanomyces style from AEB
+Lallemand Norwegian Farmhouse Strain 1271,Lallemand,LAL1271,Norwegian Farmhouse,Liquid,78,85,High,15,24,12,No,Yes,Omega Norwegian Farmhouse Strain 408,Norwegian Farmhouse style from Lallemand
+Fermentis American Strain 1272,Fermentis,FER1272,American,Dry,77,87,Low,17,25,14,No,No,The Yeast Bay American Strain 528,American style from Fermentis
+Wyeast Pediococcus Strain 1273,Wyeast,WYE1273,Pediococcus,Liquid,70,73,Medium,16,25,12,No,No,AEB Pediococcus Strain 564,Pediococcus style from Wyeast
+Bluestone Lactobacillus Strain 1274,Bluestone,BLU1274,Lactobacillus,Liquid,78,85,High,17,29,14,No,No,,Lactobacillus style from Bluestone
+WHC Pediococcus Strain 1275,WHC,WHC1275,Pediococcus,Liquid,77,79,Low,11,26,10,No,No,,Pediococcus style from WHC
+Fermentis Blend Strain 1276,Fermentis,FER1276,Blend,Liquid,67,69,Medium,19,25,12,No,No,,Blend style from Fermentis
+Fermentis Lager Strain 1277,Fermentis,FER1277,Lager,Liquid,75,84,High,13,22,12,No,No,,Lager style from Fermentis
+Lallemand Cider Strain 1278,Lallemand,LAL1278,Cider,Dry,77,81,High,16,30,8,No,No,Renaissance Cider Strain 120,Cider style from Lallemand
+Omega German Strain 1279,Omega,OME1279,German,Dry,67,75,Medium,19,29,12,No,No,White Labs German Strain 519,German style from Omega
+The Yeast Bay Cider Strain 1280,The Yeast Bay,THE1280,Cider,Dry,67,70,Medium,16,29,12,No,No,Angel Cider Strain 249,Cider style from The Yeast Bay
+Wyeast Ale Strain 1281,Wyeast,WYE1281,Ale,Dry,72,75,Medium,20,34,12,No,No,Wyeast Ale Strain 36,Ale style from Wyeast
+Wyeast Saison Strain 1282,Wyeast,WYE1282,Saison,Dry,67,76,Low,10,25,15,Yes,No,Fermentis Saison Strain 643,Saison style from Wyeast
+East Coast Yeast Czech Strain 1283,East Coast Yeast,EAS1283,Czech,Liquid,73,77,Low,19,25,10,No,No,,Czech style from East Coast Yeast
+Omega Czech Strain 1284,Omega,OME1284,Czech,Liquid,72,80,Low,10,16,12,No,No,,Czech style from Omega
+The Yeast Bay Cider Strain 1285,The Yeast Bay,THE1285,Cider,Liquid,76,80,Low,12,25,15,No,No,,Cider style from The Yeast Bay
+Angel German Strain 1286,Angel,ANG1286,German,Dry,69,72,Medium,12,23,15,No,No,Bluestone German Strain 1057,German style from Angel
+The Yeast Bay German Strain 1287,The Yeast Bay,THE1287,German,Liquid,67,70,High,17,23,15,No,No,,German style from The Yeast Bay
+Fermentis Blend Strain 1288,Fermentis,FER1288,Blend,Dry,66,70,High,18,33,12,No,No,Wyeast Blend Strain 71,Blend style from Fermentis
+Renaissance German Strain 1289,Renaissance,REN1289,German,Liquid,69,71,Medium,12,22,10,No,No,,German style from Renaissance
+Imperial American Strain 1290,Imperial,IMP1290,American,Liquid,75,85,Medium,13,19,15,No,No,Lallemand American Strain 661,American style from Imperial
+Mangrove Jack’s Lactobacillus Strain 1291,Mangrove Jack’s,MAN1291,Lactobacillus,Dry,70,77,High,10,23,8,No,No,Inland Island Lactobacillus Strain 122,Lactobacillus style from Mangrove Jack’s
+Lallemand Kveik Strain 1292,Lallemand,LAL1292,Kveik,Liquid,68,78,Medium,20,34,14,No,Yes,AEB Kveik Strain 53,Kveik style from Lallemand
+White Labs Lager Strain 1293,White Labs,WHI1293,Lager,Dry,73,80,Low,19,34,12,No,No,,Lager style from White Labs
+White Labs Lager Strain 1294,White Labs,WHI1294,Lager,Liquid,72,74,High,12,20,10,No,No,,Lager style from White Labs
+Bluestone Pediococcus Strain 1295,Bluestone,BLU1295,Pediococcus,Liquid,76,80,High,10,24,12,No,No,,Pediococcus style from Bluestone
+Omega Czech Strain 1296,Omega,OME1296,Czech,Liquid,73,82,Medium,15,25,15,No,No,AEB Czech Strain 332,Czech style from Omega
+WHC Brettanomyces Strain 1297,WHC,WHC1297,Brettanomyces,Liquid,66,74,Low,16,30,12,No,No,,Brettanomyces style from WHC
+Renaissance Belgian Strain 1298,Renaissance,REN1298,Belgian,Dry,74,78,Medium,20,31,14,No,No,,Belgian style from Renaissance
+Escarpment German Strain 1299,Escarpment,ESC1299,German,Dry,67,71,Medium,14,29,12,No,No,,German style from Escarpment
+Fermentis Belgian Strain 1300,Fermentis,FER1300,Belgian,Liquid,68,76,Medium,14,24,10,Yes,No,,Belgian style from Fermentis
