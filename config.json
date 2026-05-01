@@ -1,11 +1,11 @@
 {
     "profile_name": "Test 16",
     "original_gravity": 1.059,
-    "session_start": "2026-05-01T23:59",
+    "session_start": "2026-05-02T00:01",
     "calibration_offset": 0.0,
     "diacetyl_rest": false,
     "diacetyl_temp_increase": 3.0,
     "diacetyl_days": 2,
-    "yeast_name": "",
+    "yeast_name": "Fermentis   US-05",
     "fermentation_temp": 20.0
 }
