@@ -1,11 +1,11 @@
 {
-    "profile_name": "Test 10",
-    "original_gravity": 1.048,
-    "session_start": "2026-04-30T23:05",
+    "profile_name": "Test 11",
+    "original_gravity": 1.052,
+    "session_start": "2026-05-01T22:59",
     "calibration_offset": 0.0,
     "diacetyl_rest": true,
-    "yeast_name": "Wyeast Labs   1469",
-    "fermentation_temp": 18.0,
-    "diacetyl_start": "2026-04-28T22:38",
-    "diacetyl_end": "2026-05-01T00:39+01:00"
+    "diacetyl_temp_increase": 3.0,
+    "diacetyl_days": 2,
+    "yeast_name": "Fermentis   S-04",
+    "fermentation_temp": 20.0
 }
