@@ -6,7 +6,7 @@
     "diacetyl_rest": true,
     "diacetyl_temp_increase": 3.0,
     "diacetyl_days": 2,
+    "cold_crash_type": "gradual",
     "yeast_name": "Fermentis   S-04",
-    "fermentation_temp": 20.0,
-    "diacetyl_start": "2026-05-02T20:38"
+    "fermentation_temp": 20.0
 }
