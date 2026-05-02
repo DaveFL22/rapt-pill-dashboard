@@ -3,14 +3,10 @@
     "original_gravity": 1.059,
     "session_start": "2026-05-02T00:01",
     "calibration_offset": 0.0,
-    "diacetyl_rest": true,
+    "diacetyl_rest": false,
     "diacetyl_temp_increase": 3.0,
     "diacetyl_days": 2,
-    "cold_crash_type": "direct",
+    "cold_crash_type": "gradual",
     "yeast_name": "Fermentis   S-04",
-    "fermentation_temp": 20.0,
-    "diacetyl_start": "2026-04-28T21:42",
-    "diacetyl_end": "2026-05-02T21:42+01:00",
-    "cold_crash_start": "2026-05-02T21:42+01:00",
-    "cold_crash_complete": true
+    "fermentation_temp": 20.0
 }
