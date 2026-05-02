@@ -1,12 +1,12 @@
 {
     "profile_name": "Test 16",
     "original_gravity": 1.059,
-    "session_start": "2026-05-02T21:53",
+    "session_start": "2026-05-02T21:54",
     "calibration_offset": 0.0,
     "diacetyl_rest": false,
     "diacetyl_temp_increase": 3.0,
     "diacetyl_days": 2,
     "cold_crash_type": "gradual",
-    "yeast_name": "",
+    "yeast_name": "Fermentis   S-04",
     "fermentation_temp": 20.0
 }
