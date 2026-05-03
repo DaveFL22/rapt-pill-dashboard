@@ -9,5 +9,7 @@
     "cold_crash_type": "direct",
     "cold_conditioning_days": 2,
     "yeast_name": "Fermentis   US-05",
-    "fermentation_temp": 20.0
+    "fermentation_temp": 20.0,
+    "cold_crash_start": "2026-05-03T17:52+01:00",
+    "cold_crash_complete": false
 }
