@@ -14,5 +14,6 @@
     ],
     "yeast_name": "Fermentis   US-05",
     "fermentation_temp": 20.0,
-    "diacetyl_start": "2026-05-02T22:40"
+    "diacetyl_start": "2026-05-02T22:40",
+    "diacetyl_end": "2026-05-05T00:41:08+0100"
 }
