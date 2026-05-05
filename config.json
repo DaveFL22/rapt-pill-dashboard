@@ -1,9 +1,9 @@
 {
     "profile_name": "Test 16",
     "original_gravity": 1.059,
-    "session_start": "2026-05-05T01:05",
+    "session_start": "2026-05-05T01:06",
     "calibration_offset": 0.0,
-    "diacetyl_rest": false,
+    "diacetyl_rest": true,
     "diacetyl_temp_increase": 3.0,
     "diacetyl_days": 2,
     "cold_crash_type": "gradual",
@@ -11,7 +11,5 @@
     "dry_hop": true,
     "dry_hop_count": 2,
     "yeast_name": "",
-    "fermentation_temp": 20.0,
-    "dry_hop_stage": "hop1_added",
-    "dry_hop_stage_time": "2026-05-05T01:05+01:00"
+    "fermentation_temp": 20.0
 }
