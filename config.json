@@ -8,7 +8,7 @@
     "diacetyl_temp_increase": 3.0,
     "diacetyl_days": 2,
     "cold_crash_type": "none",
-    "cold_conditioning_days": 2,
+    "cold_conditioning_days": 3,
     "dry_hop": false,
     "dry_hop_count": 0,
     "yeast_name": "Fermentis   S-04",
