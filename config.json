@@ -1,17 +1,15 @@
 {
     "profile_name": "Test 16",
     "original_gravity": 1.059,
-    "session_start": "2026-05-02T21:54",
+    "session_start": "2026-05-05T01:05",
     "calibration_offset": 0.0,
-    "diacetyl_rest": true,
+    "diacetyl_rest": false,
     "diacetyl_temp_increase": 3.0,
     "diacetyl_days": 2,
     "cold_crash_type": "gradual",
     "cold_conditioning_days": 2,
     "dry_hop": true,
-    "dry_hop_count": 1,
-    "yeast_name": "Fermentis   US-05",
-    "fermentation_temp": 20.0,
-    "diacetyl_start": "2026-05-01T01:04",
-    "diacetyl_end": "2026-05-05T01:05:07+0100"
+    "dry_hop_count": 2,
+    "yeast_name": "",
+    "fermentation_temp": 20.0
 }
