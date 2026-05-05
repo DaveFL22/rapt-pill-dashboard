@@ -11,5 +11,6 @@
     "dry_hop": true,
     "dry_hop_count": 1,
     "yeast_name": "Fermentis   US-05",
-    "fermentation_temp": 20.0
+    "fermentation_temp": 20.0,
+    "diacetyl_start": "2026-05-01T01:04"
 }
