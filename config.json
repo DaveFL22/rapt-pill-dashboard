@@ -12,5 +12,7 @@
     "dry_hop": true,
     "dry_hop_count": 2,
     "yeast_name": "",
-    "fermentation_temp": 18.0
+    "fermentation_temp": 18.0,
+    "dry_hop_stage": "hop1_added",
+    "dry_hop_stage_time": "2026-05-06T19:59+01:00"
 }
