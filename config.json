@@ -10,7 +10,7 @@
     "cold_crash_type": "gradual",
     "cold_conditioning_days": 3,
     "dry_hop": true,
-    "dry_hop_count": 2,
+    "dry_hop_count": 1,
     "hop_selection_1": [
         {
             "name": "Citra",
@@ -36,7 +36,5 @@
         }
     ],
     "yeast_name": "",
-    "fermentation_temp": 18.0,
-    "diacetyl_start": "2026-05-03T21:03",
-    "diacetyl_end": "2026-05-06T23:04:02+0100"
+    "fermentation_temp": 18.0
 }
