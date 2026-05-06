@@ -24,5 +24,6 @@
         }
     ],
     "yeast_name": "Fermentis   S-04",
-    "fermentation_temp": 18.0
+    "fermentation_temp": 18.0,
+    "diacetyl_start": "2026-05-02T21:11"
 }
