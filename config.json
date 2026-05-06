@@ -31,5 +31,6 @@
     "fermentation_temp": 18.0,
     "dry_hop_stage": "hop1_added",
     "dry_hop_stage_time": "2026-05-06T23:44+01:00",
-    "diacetyl_start": "2026-05-02T23:44"
+    "diacetyl_start": "2026-05-02T23:44",
+    "diacetyl_end": "2026-05-06T23:44:48+0100"
 }
