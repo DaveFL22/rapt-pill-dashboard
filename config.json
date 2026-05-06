@@ -4,7 +4,7 @@
     "session_start": "2026-05-06T22:26",
     "calibration_offset": 0.0,
     "temp_offset": 0.0,
-    "diacetyl_rest": false,
+    "diacetyl_rest": true,
     "diacetyl_temp_increase": 3.0,
     "diacetyl_days": 2,
     "cold_crash_type": "gradual",
