@@ -1,16 +1,16 @@
 {
     "profile_name": "Test 16",
     "original_gravity": 1.059,
-    "session_start": "2026-05-06T22:26",
+    "session_start": "2026-05-06T22:58",
     "calibration_offset": 0.0,
     "temp_offset": 0.0,
-    "diacetyl_rest": true,
+    "diacetyl_rest": false,
     "diacetyl_temp_increase": 3.0,
     "diacetyl_days": 2,
     "cold_crash_type": "gradual",
     "cold_conditioning_days": 3,
     "dry_hop": true,
-    "dry_hop_count": 1,
+    "dry_hop_count": 2,
     "hop_selection_1": [
         {
             "name": "Citra",
@@ -25,9 +25,16 @@
             "grams": 25
         }
     ],
-    "hop_selection_2": [],
-    "yeast_name": "Fermentis   S-04",
-    "fermentation_temp": 18.0,
-    "diacetyl_start": "2026-05-03T20:57",
-    "diacetyl_end": "2026-05-06T22:57:53+0100"
+    "hop_selection_2": [
+        {
+            "name": "Citra Hop Extract",
+            "grams": 50
+        },
+        {
+            "name": "Select Spalt",
+            "grams": 30
+        }
+    ],
+    "yeast_name": "",
+    "fermentation_temp": 18.0
 }
