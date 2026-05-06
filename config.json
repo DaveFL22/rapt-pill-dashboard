@@ -11,8 +11,22 @@
     "cold_conditioning_days": 3,
     "dry_hop": true,
     "dry_hop_count": 2,
-    "hop_selection_1": [],
-    "hop_selection_2": [],
+    "hop_selection_1": [
+        {
+            "name": "Cryo - Simcoe",
+            "grams": 50
+        },
+        {
+            "name": "Amarillo",
+            "grams": 50
+        }
+    ],
+    "hop_selection_2": [
+        {
+            "name": "Citra Hop Extract",
+            "grams": 3
+        }
+    ],
     "yeast_name": "Fermentis   S-04",
     "fermentation_temp": 18.0
 }
