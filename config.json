@@ -13,5 +13,6 @@
     "dry_hop_count": 1,
     "yeast_name": "",
     "fermentation_temp": 18.0,
-    "diacetyl_start": "2026-05-03T19:01"
+    "diacetyl_start": "2026-05-03T19:01",
+    "diacetyl_end": "2026-05-06T20:02:11+0100"
 }
