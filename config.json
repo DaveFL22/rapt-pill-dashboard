@@ -27,5 +27,6 @@
     ],
     "hop_selection_2": [],
     "yeast_name": "Fermentis   S-04",
-    "fermentation_temp": 18.0
+    "fermentation_temp": 18.0,
+    "diacetyl_start": "2026-05-03T20:57"
 }
