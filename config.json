@@ -1,6 +1,7 @@
 {
     "profile_name": "Test 16",
     "original_gravity": 1.059,
+    "expected_fg": 1.01,
     "session_start": "2026-05-06T22:58",
     "calibration_offset": 0.0,
     "temp_offset": -2.85,
@@ -24,9 +25,5 @@
         }
     ],
     "yeast_name": "Fermentis   S-04",
-    "fermentation_temp": 18.0,
-    "diacetyl_start": "2026-05-02T21:11",
-    "diacetyl_end": "2026-05-07T00:11:46+0100",
-    "dry_hop_stage": "temp_14_reached",
-    "dry_hop_stage_time": "2026-05-07T00:15+01:00"
+    "fermentation_temp": 18.0
 }
