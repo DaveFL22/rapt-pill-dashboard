@@ -3,7 +3,7 @@
     "original_gravity": 1.059,
     "session_start": "2026-05-06T22:58",
     "calibration_offset": 0.0,
-    "temp_offset": -6.26,
+    "temp_offset": -5.86,
     "diacetyl_rest": true,
     "diacetyl_temp_increase": 3.0,
     "diacetyl_days": 2,
@@ -27,6 +27,6 @@
     "fermentation_temp": 18.0,
     "diacetyl_start": "2026-05-02T21:11",
     "diacetyl_end": "2026-05-07T00:11:46+0100",
-    "dry_hop_stage": "drop_to_14",
-    "dry_hop_stage_time": "2026-05-07T00:11+01:00"
+    "dry_hop_stage": "temp_14_reached",
+    "dry_hop_stage_time": "2026-05-07T00:15+01:00"
 }
