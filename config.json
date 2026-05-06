@@ -11,6 +11,21 @@
     "cold_conditioning_days": 3,
     "dry_hop": true,
     "dry_hop_count": 1,
+    "hop_selection_1": [
+        {
+            "name": "Citra",
+            "grams": 25
+        },
+        {
+            "name": "Amarillo",
+            "grams": 25
+        },
+        {
+            "name": "Sylva",
+            "grams": 25
+        }
+    ],
+    "hop_selection_2": [],
     "yeast_name": "Fermentis   S-04",
     "fermentation_temp": 18.0
 }
